@@ -126,6 +126,7 @@
   "schedule": [{
       "time": "8:00am",
       "talks": [{
+        "talk_id":"aircraftguidance",
         "speaker_id": "sally",
         "track_id": "main",
         "talk_type_id": "technical",
@@ -136,13 +137,15 @@
     {
       "time": "8:30am",
       "talks": [{
-          "speaker_id": "jack",
+          "talk_id": "spaceforcego",
+        "speaker_id": "jack",
           "track_id": "track1",
           "talk_type_id": "fun",
           "title": "Space Force Go.",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         },
         {
+          "talk_id":"vrtraining",
           "speaker_id": "jamesbrown",
           "track_id": "track2",
           "talk_type_id": "room",
@@ -154,6 +157,7 @@
     {
       "time": "9:05am",
       "talks": [{
+        "talk_id":"spaceforcego1",
           "speaker_id": "april",
           "track_id": "track3",
           "talk_type_id": "fun",
@@ -161,6 +165,7 @@
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         },
         {
+          "talk_id":"vrtraining",
           "speaker_id": "joy",
           "track_id": "track4",
           "talk_type_id": "room",
@@ -168,12 +173,14 @@
           "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         },
         {
+          "talk_id":"spaceforcego2",
           "speaker_id": "jamesbrown",
           "track_id": "track3",
           "talk_type_id": "fun",
           "title": "Space Force Go.",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         }, {
+          "talk_id":"spaceforcego3",
           "speaker_id": "todd",
           "track_id": "track3",
           "talk_type_id": "fun",
@@ -185,6 +192,7 @@
     {
       "time": "9:00am",
       "talks": [{
+        "talk_id":"artutorial",
         "speaker_id": "todd",
         "track_id": "main",
         "talk_type_id": "technical",
@@ -195,6 +203,7 @@
     {
       "time": "9:30am",
       "talks": [{
+        "talk_id":"aircrafttutorial",
         "speaker_id": "nick",
         "track_id": "track5",
         "talk_type_id": "technical",
@@ -205,6 +214,7 @@
     {
       "time": "10:00am",
       "talks": [{
+        "talk_id":"breaktime",
         "talk_type_id": "break",
         "title": "Time for a break!",
         "description": "Go grab an ice cold coke and chill.."
@@ -213,6 +223,7 @@
     {
       "time": "11:00am",
       "talks": [{
+        "talk_id":"weaponcleaning",
           "speaker_id": "todd",
           "track_id": "main",
           "talk_type_id": "technical",
@@ -220,6 +231,7 @@
           "description": "How to dissassemble and clean."
         },
         {
+          "talk_id":"flightline",
           "speaker_id": "joy",
           "track_id": "track4",
           "talk_type_id": "room",
