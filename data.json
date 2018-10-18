@@ -73,32 +73,32 @@
   ],
   "tracks": [{
       "id": "main",
-      "name": "September Event",
+      "name": "Technical Event",
       "color": "#B5BD68"
     },
     {
       "id": "track1",
-      "name": "October Event",
+      "name": "Regional Event",
       "color": "#B5BD68"
     },
     {
       "id": "track2",
-      "name": "December Event",
+      "name": "Virtual Event",
       "color": "#B5BD68"
     },
     {
       "id": "track3",
-      "name": "January Event",
+      "name": "Cultural Event",
       "color": "#B5BD68"
     },
     {
       "id": "track4",
-      "name": "Febuary Event",
+      "name": "Language Teaching Event",
       "color": "#B5BD68"
     },
     {
       "id": "track5",
-      "name": "March Event",
+      "name": "3C Teaching Event",
       "color": "#B5BD68"
     }
   ],
@@ -130,7 +130,7 @@
         "speaker_id": "sally",
         "track_id": "main",
         "talk_type_id": "technical",
-        "title": "Aircraft Guidance 101.",
+        "title": "Cross-Cultural Competence (3C) Teaching.",
         "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
       }]
     },
@@ -141,7 +141,7 @@
         "speaker_id": "jack",
           "track_id": "track1",
           "talk_type_id": "fun",
-          "title": "Space Force Go.",
+          "title": "Cultural Heritage & Property Protection.",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         },
         {
@@ -149,7 +149,7 @@
           "speaker_id": "jamesbrown",
           "track_id": "track2",
           "talk_type_id": "room",
-          "title": "VR Training Course.",
+          "title": "Virtual Reality Demonstrations.",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         }
       ]
@@ -161,7 +161,7 @@
           "speaker_id": "april",
           "track_id": "track3",
           "talk_type_id": "fun",
-          "title": "Space Force Go.",
+          "title": "Cross-Cultural Competence (3C) Teaching.",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         },
         {
@@ -169,7 +169,7 @@
           "speaker_id": "joy",
           "track_id": "track4",
           "talk_type_id": "room",
-          "title": "VR Training Course.",
+          "title": "Virtual Reality Demonstrations.",
           "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         },
         {
@@ -177,14 +177,14 @@
           "speaker_id": "jamesbrown",
           "track_id": "track3",
           "talk_type_id": "fun",
-          "title": "Space Force Go.",
+          "title": "Language Teaching Strategies.",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         }, {
           "talk_id":"spaceforcego3",
           "speaker_id": "todd",
           "track_id": "track3",
           "talk_type_id": "fun",
-          "title": "Space Force Go.",
+          "title": "Regional Affairs Europe.",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         }
       ]
@@ -196,7 +196,7 @@
         "speaker_id": "todd",
         "track_id": "main",
         "talk_type_id": "technical",
-        "title": "AR Tutorials 101",
+        "title": "Cross-Cultural Competence (3C) Teaching.",
         "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
       }]
     },
@@ -207,7 +207,7 @@
         "speaker_id": "nick",
         "track_id": "track5",
         "talk_type_id": "technical",
-        "title": "AR Tutorials 101",
+        "title": "Language Teaching Strategies.",
         "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
       }]
     },
@@ -216,7 +216,7 @@
       "talks": [{
         "talk_id":"breaktime",
         "talk_type_id": "break",
-        "title": "Time for a break!",
+        "title": "Virtual Reality Demonstrations.",
         "description": "Go grab an ice cold coke and chill.."
       }]
     },
@@ -227,7 +227,7 @@
           "speaker_id": "todd",
           "track_id": "main",
           "talk_type_id": "technical",
-          "title": "Weapon Cleaning",
+          "title": "Regional Affairs Europe.",
           "description": "How to dissassemble and clean."
         },
         {
@@ -235,7 +235,7 @@
           "speaker_id": "joy",
           "track_id": "track4",
           "talk_type_id": "room",
-          "title": "Flight Line Regulation.",
+          "title": "Language Teaching Strategies.",
           "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities."
         }
       ]
