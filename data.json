@@ -73,27 +73,27 @@
   ],
   "tracks": [{
       "id": "main",
-      "name": "Technical Event",
+      "name": "Language Skill Sustainment Working Group",
       "color": "#B5BD68"
     },
     {
       "id": "track1",
-      "name": "Regional Event",
+      "name": "Virtual Reality in LREC Working Group",
       "color": "#B5BD68"
     },
     {
       "id": "track2",
-      "name": "Virtual Event",
+      "name": "Force Development Working Group",
       "color": "#B5BD68"
     },
     {
       "id": "track3",
-      "name": "Cultural Event",
+      "name": "Language Enabled Airman Program",
       "color": "#B5BD68"
     },
     {
       "id": "track4",
-      "name": "Language Teaching Event",
+      "name": "Communication Styles, Strategies & Effects",
       "color": "#B5BD68"
     },
     {
