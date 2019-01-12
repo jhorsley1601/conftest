@@ -73,22 +73,22 @@
   ],
   "tracks": [{
       "id": "main",
-      "name": "Language Skill Sustainment Working Group",
+      "name": "Language Skill Sustainment",
       "color": "#B5BD68"
     },
     {
       "id": "track1",
-      "name": "Virtual Reality in LREC Working Group",
+      "name": "Virtual Reality in LREC",
       "color": "#B5BD68"
     },
     {
       "id": "track2",
-      "name": "Force Development Working Group",
+      "name": "Force Development",
       "color": "#B5BD68"
     },
     {
       "id": "track3",
-      "name": "Language Enabled Airman Program",
+      "name": "LEAP",
       "color": "#B5BD68"
     },
     {
