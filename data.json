@@ -1,7 +1,7 @@
 {
   "speakers": [{
       "id": "jack",
-      "name": "Brigadier General Robert B. Sofge, Jr.",
+      "name": "Brig Gen Robert B. Sofge, Jr.",
       "bio": "Brigadier Gen Robert “G-Man” Sofge enlisted in the Marine Corps in 1982 from New Orleans, LA. He reported for duty in 1983 with 3rd FSSG in Okinawa, Japan and subsequently deployed to Korea and the Philippines with the 33rd Marine Amphibious Unit aboard the USS ST LOUIS. He graduated from the Naval Academy Preparatory School in Newport, RI in 1986.\n\n After graduation from the US Naval Academy in 1990, 2nd Lieutenant Sofge completed The Basic School and Naval Flight School. He was designated a Naval Aviator in 1993 and completed his Harrier training at VMAT-203. Captain Sofge served in both VMA-223 and VMA-542 at MCAS Cherry Point, deploying with HMM-266/24th MEU (SOC) in 1996, in support of Operations DECISIVE ENDEAVOR and DELIBERATE FORCE in Bosnia-Herzegovina off the USS SAIPAN, and aboard the USS NASSAU in support of Operation ALLIED FORCE in Kosovo.\n\n Major Sofge reported to MAWTS-1, Yuma AZ, in 1999 as a Weapons and Tactics Instructor, then transferred to VMA-214. He deployed in both 2003 and 2004 in support of Operations SOUTHERN WATCH and IRAQI FREEDOM, and was later assigned to the Aviation Weapons Systems Requirements Branch at the Pentagon. Lieutenant Colonel Sofge took command of VMA-311 in 2006 and deployed with the 31st MEU aboard USS ESSEX while the squadron simultaneously supported 11th MEU in the Persian Gulf. He joined 3D Marine Aircraft Wing (FWD) at Al Asad, Iraq in January 2008 where he served as a Senior Watch Officer in the Tactical Air Command Center.\n\n In 2009, Lieutenant Colonel Sofge joined the Joint Staff as a Defense Resource Analyst and later led the Strategic Assessments Branch at Programs and Resources, HQMC. Col Sofge took command of Marine Aircraft Group 14 in Cherry Point, NC in 2012, then served as Head, Aviation Plans, Policy, and Budget at HQMC until July 2016. Brigadier General Sofge was previously assigned as the Assistant Wing Commander for 3D MAW in Miramar, CA and assumed the duties of Director, Combined Joint Operations Center – Baghdad, and Deputy Commanding General – Operations, CJFLCC – Operation Inherent Resolve in June 2017. Brigadier General Sofge is currently serving as the Deputy Commander, Marine Corps Forces, Pacific.\n\n Brigadier General Sofge holds a Political Science degree from the US Naval Academy, a Master of Business Administration from Touro University, a Master of Strategic Studies from the US Army War College, and completed Harvard Business School’s Advanced Management Program. Brigadier General Sofge has more than 2100 flight hours, primarily in the AV-8B Harrier. His personal decorations include two Legion of Merit Medals, the Defense Meritorious Service Medal, five Meritorious Service Medals, seven Air Medals, two Navy and Marine Corps Commendation Medals, two Navy and Marine Corps Achievement Medals, and the Good Conduct Medal.",
       "image_url": "https://raw.githubusercontent.com/jhorsley1601/conftest/master/RobertBSofge.png",
       "company": "U.S. Marine Corps Forces",
@@ -130,7 +130,7 @@
         "speaker_id": "sally",
         "track_id": "main",
         "talk_type_id": "technical",
-        "title": "Cross-Cultural Competence (3C) Teaching.",
+        "title": "Cross-Cultural Competence (3C) Teaching",
         "description": "Hayat Alvi joined the Naval War College in 2007 as an associate professor. Previously she served as Assistant Professor in the Political Science Department at the American University in Cairo (2001-2005), and as Director of the International Studies Program at Arcadia University, (2005-2007). She specializes in International Relations, Political Economy, Comparative Politics with regional expertise in Middle East and North Africa and South Asia, along with Islamic Studies and Genocide Studies. She is proficient in Arabic and Urdu and is a Fulbright Fellow (Syria, 1993-1994). Dr. Alvi has numerous published articles and books and book chapters.",
         "location": "Jones Auditorium"
       }]
@@ -142,7 +142,7 @@
         "speaker_id": "jack",
           "track_id": "track1",
           "talk_type_id": "fun",
-          "title": "Cultural Heritage & Property Protection.",
+          "title": "Cultural Heritage & Property Protection",
           "description": "",
           "location": "Library Auditorium 170"
         },
@@ -151,7 +151,7 @@
           "speaker_id": "jamesbrown",
           "track_id": "track2",
           "talk_type_id": "room",
-          "title": "Virtual Reality Demonstrations.",
+          "title": "Virtual Reality Demonstrations",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "TLC Conf Room 243"
         }
@@ -164,7 +164,7 @@
           "speaker_id": "april",
           "track_id": "track3",
           "talk_type_id": "fun",
-          "title": "Cross-Cultural Competence (3C) Teaching.",
+          "title": "Cross-Cultural Competence (3C) Teaching",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "TLC Classroom 229"
         },
@@ -173,7 +173,7 @@
           "speaker_id": "joy",
           "track_id": "track4",
           "talk_type_id": "room",
-          "title": "Virtual Reality Demonstrations.",
+          "title": "Virtual Reality Demonstrations",
           "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "TLC Classroom 230"
         },
@@ -182,7 +182,7 @@
           "speaker_id": "jamesbrown",
           "track_id": "track3",
           "talk_type_id": "fun",
-          "title": "Language Teaching Strategies.",
+          "title": "Language Teaching Strategies",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "Library Classroom 150"
         }, {
@@ -190,7 +190,7 @@
           "speaker_id": "todd",
           "track_id": "track3",
           "talk_type_id": "fun",
-          "title": "Regional Affairs Europe.",
+          "title": "Regional Affairs Europe",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "Jones Auditorium"
         }
@@ -203,7 +203,7 @@
         "speaker_id": "todd",
         "track_id": "main",
         "talk_type_id": "technical",
-        "title": "Cross-Cultural Competence (3C) Teaching.",
+        "title": "Cross-Cultural Competence (3C) Teaching",
         "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
         "location": "Jones Auditorium"
       }]
@@ -215,7 +215,7 @@
         "speaker_id": "nick",
         "track_id": "track5",
         "talk_type_id": "technical",
-        "title": "Language Teaching Strategies.",
+        "title": "Language Teaching Strategies",
         "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
         "location": "Jones Auditorium"
       }]
@@ -225,7 +225,7 @@
       "talks": [{
         "talk_id":"breaktime",
         "talk_type_id": "break",
-        "title": "Break Time.",
+        "title": "Break Time",
         "description": "Go grab an ice cold coke and smile.."
       }]
     },
@@ -236,7 +236,7 @@
           "speaker_id": "todd",
           "track_id": "main",
           "talk_type_id": "technical",
-          "title": "Regional Affairs Europe.",
+          "title": "Regional Affairs Europe",
           "description": "How to dissassemble and clean.",
           "location": "Jones Auditorium"
         },
@@ -245,7 +245,7 @@
           "speaker_id": "joy",
           "track_id": "track4",
           "talk_type_id": "room",
-          "title": "Language Teaching Strategies.",
+          "title": "Language Teaching Strategies",
           "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "Jones Auditorium"
         }
