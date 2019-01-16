@@ -137,7 +137,7 @@
       ]
     },
     {
-      "time": "9:05am",
+      "time": "9:00am",
       "talks": [{
         "talk_id":"talk4",
           "speaker_id": "speaker4",
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "time": "9:00am",
+      "time": "9:05am",
       "talks": [{
         "talk_id":"talk8",
         "speaker_id": "speaker7",
