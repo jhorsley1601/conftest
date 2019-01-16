@@ -105,7 +105,7 @@
   "schedule": [{
       "time": "8:00am",
       "talks": [{
-        "talk_id":"aircraftguidance",
+        "talk_id":"talk1",
         "speaker_id": "speaker1",
         "track_id": "main",
         "talk_type_id": "talkType1",
@@ -117,7 +117,7 @@
     {
       "time": "8:30am",
       "talks": [{
-          "talk_id": "spaceforcego",
+          "talk_id": "talk2",
         "speaker_id": "speaker2",
           "track_id": "track1",
           "talk_type_id": "talkType2",
@@ -126,7 +126,7 @@
           "location": "Library Auditorium 170"
         },
         {
-          "talk_id":"vrtraining",
+          "talk_id":"talk3",
           "speaker_id": "speaker3",
           "track_id": "track2",
           "talk_type_id": "talkType1",
@@ -139,7 +139,7 @@
     {
       "time": "9:05am",
       "talks": [{
-        "talk_id":"spaceforcego1",
+        "talk_id":"talk4",
           "speaker_id": "speaker4",
           "track_id": "track3",
           "talk_type_id": "talkType3",
@@ -148,7 +148,7 @@
           "location": "TLC Classroom 229"
         },
         {
-          "talk_id":"vrtraining2",
+          "talk_id":"talk5",
           "speaker_id": "speaker5",
           "track_id": "track4",
           "talk_type_id": "talkType2",
@@ -157,7 +157,7 @@
           "location": "TLC Classroom 230"
         },
         {
-          "talk_id":"spaceforcego2",
+          "talk_id":"talk6",
           "speaker_id": "speaker6",
           "track_id": "track3",
           "talk_type_id": "talkType1",
@@ -165,7 +165,7 @@
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "Library Classroom 150"
         }, {
-          "talk_id":"spaceforcego3",
+          "talk_id":"talk7",
           "speaker_id": "speaker1",
           "track_id": "track3",
           "talk_type_id": "talkType4",
@@ -178,7 +178,7 @@
     {
       "time": "9:00am",
       "talks": [{
-        "talk_id":"artutorial",
+        "talk_id":"talk8",
         "speaker_id": "speaker7",
         "track_id": "main",
         "talk_type_id": "talkType2",
@@ -190,7 +190,7 @@
     {
       "time": "9:30am",
       "talks": [{
-        "talk_id":"aircrafttutorial",
+        "talk_id":"talk9",
         "speaker_id": "speaker3",
         "track_id": "track5",
         "talk_type_id": "talkType3",
@@ -202,7 +202,7 @@
     {
       "time": "10:00am",
       "talks": [{
-        "talk_id":"breaktime",
+        "talk_id":"break1",
         "talk_type_id": "break",
         "title": "Break Time",
         "description": "Go grab an ice cold coke and smile.."
@@ -211,7 +211,7 @@
     {
       "time": "11:00am",
       "talks": [{
-        "talk_id":"weaponcleaning",
+        "talk_id":"talk10",
           "speaker_id": "speaker2",
           "track_id": "track0",
           "talk_type_id": "talkType4",
@@ -220,7 +220,7 @@
           "location": "Jones Auditorium"
         },
         {
-          "talk_id":"flightline",
+          "talk_id":"talk11",
           "speaker_id": "speaker5",
           "track_id": "track4",
           "talk_type_id": "talkType2",
