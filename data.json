@@ -72,7 +72,7 @@
     },
     {
       "id": "track4",
-      "name": "Communication Styles, Strategies & Effects",
+      "name": "Comm Styles, Strategies & Effects",
       "color": "#B5BD68"
     },
     {
@@ -83,23 +83,19 @@
   ],
   "talk_types": [{
       "id": "talkType1",
-      "name": "Technical",
-      "description": "This talk is considered technical"
+      "name": "Technical"
     },
     {
       "id": "talkType2",
-      "name": "Whole Room",
-      "description": "This talk is can be enjoyed by everyone"
+      "name": "Whole Room"
     },
     {
       "id": "talkType3",
-      "name": "Fun",
-      "description": "This talk is for fun"
+      "name": "Fun"
     },
     {
       "id": "break",
-      "name": "Break",
-      "description": "Time for a break!"
+      "name": "Break"
     }
   ],
   "schedule": [{
