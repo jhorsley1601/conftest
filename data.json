@@ -103,7 +103,7 @@
       "talks": [{
         "talk_id":"talk1",
         "speaker_id": "speaker1",
-        "track_id": "main",
+        "track_id": "track1",
         "talk_type_id": "talkType1",
         "title": "Cross-Cultural Competence (3C) Teaching",
         "description": "Hayat Alvi joined the Naval War College in 2007 as an associate professor. Previously she served as Assistant Professor in the Political Science Department at the American University in Cairo (2001-2005), and as Director of the International Studies Program at Arcadia University, (2005-2007). She specializes in International Relations, Political Economy, Comparative Politics with regional expertise in Middle East and North Africa and South Asia, along with Islamic Studies and Genocide Studies. She is proficient in Arabic and Urdu and is a Fulbright Fellow (Syria, 1993-1994). Dr. Alvi has numerous published articles and books and book chapters.",
@@ -176,7 +176,7 @@
       "talks": [{
         "talk_id":"talk8",
         "speaker_id": "speaker7",
-        "track_id": "main",
+        "track_id": "track1",
         "talk_type_id": "talkType2",
         "title": "Cross-Cultural Competence (3C) Teaching",
         "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
