@@ -699,7 +699,7 @@
       "time": "7:00am",
       "talks": [{
         "talk_id":"talk1",
-        "speaker_id": "speaker1",
+        "speaker_id": "speaker2",
         "track_id": "track1",
         "talk_type_id": "talkType1",
         "title": "Check in and Registration (Foyer of Polifka Auditorium)",
