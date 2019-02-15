@@ -1,5 +1,6 @@
 {
-  "speakers": [{
+  "speakers": [
+    {
       "id": "speaker1",
       "name": "BGen Robert B. Sofge, Jr.",
       "bio": "Brigadier General Sofge holds a Political Science degree from the U.S. Naval Academy, a Master of Business Administration from Touro University, a Master of Strategic Studies from the U.S. Army War College, and completed Harvard Business School’s Advanced Management Program. Brigadier General Sofge has more than 2,100 flight hours, primarily in the AV-8B Harrier. His personal decorations include two Legion of Merit Medals, the Defense Meritorious Service Medal, five Meritorious Service Medals, seven Air Medals, two Navy and Marine Corps Commendation Medals, two Navy and Marine Corps Achievement Medals, and the Marine Corps Good Conduct Medal.",
@@ -643,10 +644,6 @@
       "image_url": null,
       "company": "U.S. Army"
     }
-
-
-
-
   ],
   "tracks": [{
       "id": "track0",
@@ -679,7 +676,8 @@
       "color": "#B5BD68"
     }
   ],
-  "talk_types": [{
+  "talk_types": [
+    {
       "id": "talkType1",
       "name": "Technical"
     },
@@ -696,7 +694,8 @@
       "name": "Break"
     }
   ],
-  "schedule": [{
+  "schedule": [
+    {
       "time": "7:00am",
       "talks": [{
         "talk_id":"talk1",
@@ -718,7 +717,8 @@
         "title": "Cross-Cultural Competence (3C) Teaching",
         "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
         "location": "TLC Idea Lab Room 229 (Second Floor of Library)"
-        },
+        }]
+      },
     {
       "time": "8:30am",
       "talks": [{
