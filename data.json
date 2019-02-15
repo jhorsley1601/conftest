@@ -703,13 +703,13 @@
         "speaker_id": "speaker1",
         "track_id": "track1",
         "talk_type_id": "talkType1",
-        "title": "Cross-Cultural Competence (3C) Teaching",
+        "title": "Check in and Registration (Foyer of Polifka Auditorium)",
         "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
         "location": "Polifka Auditorium (SOS)"
       }]
     },
     {
-      "time": "8:30am",
+      "time": "8:00am",
       "talks": [{
         "talk_id":"talk1",
         "speaker_id": "speaker1",
