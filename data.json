@@ -12,7 +12,7 @@
       "name": " ",
       "bio": "",
       "image_url": "",
-      "company": "U.S. Naval War College"
+      "company": ""
     },
     {
       "id": "speaker3",
@@ -697,19 +697,19 @@
     {
       "id": "break",
       "name": "Break"
-    }
+    },
+      
   ],
   "schedule": [
     {
       "time": "7:00am",
+      "time": "10:00am",
       "talks": [{
-        "talk_id":"talk1",
-        "speaker_id": "speaker2",
-        "track_id": "track6",
-        "talk_type_id": "talkType1",
-        "title": "Check in and Registration (Foyer of Polifka Auditorium)",
-        "description": "",
-        "location": "Polifka Auditorium (SOS)"
+        "talk_id":"break1",
+        "talk_type_id": "break",
+        "title": "Polifka Auditorium (SOS)",
+        "description": "Go grab an ice cold coke and smile.."
+         
       }]
     },
     {
