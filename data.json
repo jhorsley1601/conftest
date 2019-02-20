@@ -722,22 +722,11 @@
     {
       "time": "9:45 - 10:15",
       "talks": [{
-          "talk_id": "talk2",
-        "speaker_id": "speaker3",
-          "track_id": "track1",
-          "talk_type_id": "talkType2",
-          "title": "Cultural Heritage & Property Protection",
-          "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
-          "location": "Library Auditorium 170"
-        },
-        {
-          "talk_id":"talk3",
-          "speaker_id": "speaker21",
-          "track_id": "track2",
-          "talk_type_id": "talkType1",
-          "title": "Virtual Reality Demonstrations",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "Husband Auditorium (SOS)"
+        "talks": [{
+          "talk_id":"break1",
+          "talk_type_id": "break",
+          "title": "Break Time",
+          "description": "Go grab an ice cold coke and smile.."
         }
       ]
     },
@@ -783,13 +772,10 @@
     {
       "time": "11:45 - 13:15",
       "talks": [{
-        "talk_id":"talk8",
-        "speaker_id": "speaker77",
-        "track_id": "track1",
-        "talk_type_id": "talkType2",
-        "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-        "location": "TLC Idea Lab Room 229 "
+        "talk_id":"break1",
+        "talk_type_id": "break",
+        "title": "Break Time",
+        "description": "Go grab an ice cold coke and smile.."
       }]
     },
     {
@@ -838,22 +824,10 @@
     {
       "time": "16:45 - 17:00",
       "talks": [{
-        "talk_id":"talk10",
-          "speaker_id": "speaker52",
-          "track_id": "track0",
-          "talk_type_id": "talkType4",
-          "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
-          "location": "SOS Foyer and Husband Lounge Area"
-        },
-        {
-          "talk_id":"talk11",
-          "speaker_id": "speaker85",
-          "track_id": "track4",
-          "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Foyer and Husband Lounge Area"
+        "talk_id":"break1",
+        "talk_type_id": "break",
+        "title": "Break Time",
+        "description": "Go grab an ice cold coke and smile.."
         }
       ]
     },
