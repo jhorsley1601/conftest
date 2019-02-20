@@ -703,7 +703,7 @@
         "talk_id":"break1",
         "talk_type_id": "break",
         "title": "Polifka Auditorium (SOS)",
-        "description": "Go grab an ice cold coke and smile.."
+        "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
          
       }]
     },
@@ -722,11 +722,10 @@
     {
       "time": "9:45 - 10:15",
       "talks": [{
-        "talks": [{
-          "talk_id":"break1",
-          "talk_type_id": "break",
-          "title": "Break Time",
-          "description": "Go grab an ice cold coke and smile.."
+        "talk_id":"break1",
+        "talk_type_id": "break",
+        "title": "Polifka Auditorium (SOS)",
+        "description": "Break/Networking time"
         }
       ]
     },
@@ -774,8 +773,8 @@
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
-        "title": "Break Time",
-        "description": "Go grab an ice cold coke and smile.."
+        "title": "Polifka Auditorium (SOS)",
+        "description": "1.5-hr Lunch"
       }]
     },
     {
@@ -796,7 +795,7 @@
         "talk_id":"break1",
         "talk_type_id": "break",
         "title": "Break Time",
-        "description": "Go grab an ice cold coke and smile.."
+        "description": "Break/Networking time"
       }]
     },
     {
@@ -826,13 +825,13 @@
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
-        "title": "Break Time",
-        "description": "Go grab an ice cold coke and smile.."
+        "title": "Polifka Auditorium (SOS)",
+        "description": "Short Break"
         }
       ]
     },
     {
-      "time": "17:00 - 18:30",
+      "time": "17:00",
       "talks": [{
         "talk_id":"talk10",
           "speaker_id": "speaker52",
