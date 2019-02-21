@@ -698,6 +698,16 @@
   ],
   "schedule": [
     {
+      "time": "",
+      "talks": [{
+        "talk_id":"break1",
+        "talk_type_id": "break",
+        "title": "Day 1",
+        "description": ""
+         
+      }]
+    },
+    {
       "time": "7:30 - 12:00",
       "talks": [{
         "talk_id":"break1",
