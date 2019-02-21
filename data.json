@@ -712,7 +712,7 @@
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
-        "title": "Polifka Auditorium (SOS)",
+        "title": "Check in and Late Registration)",
         "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
          
       }]
@@ -734,7 +734,7 @@
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
-        "title": "Polifka Auditorium (SOS)",
+        "title": "Break/Networking Time",
         "description": "Break/Networking time"
         }
       ]
@@ -783,7 +783,7 @@
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
-        "title": "Polifka Auditorium (SOS)",
+        "title": "Lunch",
         "description": "1.5-hr Lunch"
       }]
     },
@@ -835,7 +835,7 @@
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
-        "title": "Polifka Auditorium (SOS)",
+        "title": "Short Break",
         "description": "Short Break"
         }
       ]
