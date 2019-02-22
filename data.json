@@ -691,6 +691,150 @@
       "name": "Fun"
     },
     {
+      "id": "talkType4",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType5",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType6",
+      "name": "Fun"
+    },
+    {
+      "id": "talkType7",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType8",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType9",
+      "name": "Fun"
+    },
+    {
+      "id": "talkType1",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType10",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType11",
+      "name": "Fun"
+    },
+    {
+      "id": "talkType12",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType13",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType14",
+      "name": "Fun"
+    },
+    {
+      "id": "talkType15",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType16",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType17",
+      "name": "Fun"
+    },
+    {
+      "id": "talkType18",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType19",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType20",
+      "name": "Fun"
+    },
+    {
+      "id": "talkType21",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType22",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType23",
+      "name": "Fun"
+    },{
+      "id": "talkType24",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType25",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType26",
+      "name": "Fun"
+    },
+    {
+      "id": "talkType27",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType28",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType29",
+      "name": "Fun"
+    },
+    {
+      "id": "talkType30",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType31",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType32",
+      "name": "Fun"
+    },
+    {
+      "id": "talkType33",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType34",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType35",
+      "name": "Fun"
+    },
+
+    {
+      "id": "talkType36",
+      "name": "Technical"
+    },
+    {
+      "id": "talkType37",
+      "name": "Whole Room"
+    },
+    {
+      "id": "talkType38",
+      "name": "Fun"
+    },
+    {
       "id": "break",
       "name": "Break"
     }
@@ -723,7 +867,7 @@
         "talk_id":"talk1",
         "speaker_id": "speaker1",
         "track_id": "track1",
-        "talk_type_id": "talkType1",
+        "talk_type_id": "talkType18",
         "title": "Cross-Cultural Competence (3C) Teaching",
         "description": "Welcome from AU/CC and Symposium Director",
         "location": "Polifka Auditorium (SOS)"
@@ -732,10 +876,10 @@
     {
       "time": "8:15 - 9:45 ",
       "talks": [{
-        "talk_id":"talk1",
+        "talk_id":"talk2",
         "speaker_id": "speaker1",
         "track_id": "track1",
-        "talk_type_id": "talkType1",
+        "talk_type_id": "talkType17",
         "title": "Cross-Cultural Competence (3C) Teaching",
         "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
         "location": "TLC Idea Lab Room 229 "
@@ -757,7 +901,7 @@
         "talk_id":"talk4",
           "speaker_id": "speaker13",
           "track_id": "track3",
-          "talk_type_id": "talkType3",
+          "talk_type_id": "talkType13",
           "title": "Cross-Cultural Competence (3C) Teaching",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "Polifka Auditorium (SOS)"
@@ -766,7 +910,7 @@
           "talk_id":"talk5",
           "speaker_id": "speaker25",
           "track_id": "track4",
-          "talk_type_id": "talkType2",
+          "talk_type_id": "talkType12",
           "title": "Virtual Reality Demonstrations",
           "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "Husband Auditorium (SOS)"
@@ -783,7 +927,7 @@
           "talk_id":"talk7",
           "speaker_id": "speaker81",
           "track_id": "track3",
-          "talk_type_id": "talkType4",
+          "talk_type_id": "talkType11",
           "title": "Regional Affairs Europe",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "SOS Room 2253 (Upstairs)"
@@ -805,7 +949,7 @@
         "talk_id":"talk9",
         "speaker_id": "speaker63",
         "track_id": "track5",
-        "talk_type_id": "talkType3",
+        "talk_type_id": "talkType32",
         "title": "Language Teaching Strategies",
         "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
         "location": "Library Room 150"
@@ -826,7 +970,7 @@
         "talk_id":"talk10",
           "speaker_id": "speaker52",
           "track_id": "track0",
-          "talk_type_id": "talkType4",
+          "talk_type_id": "talkType21",
           "title": "Regional Affairs Europe",
           "description": "How to dissassemble and clean.",
           "location": "SOS Foyer and Husband Lounge Area"
@@ -835,7 +979,7 @@
           "talk_id":"talk11",
           "speaker_id": "speaker85",
           "track_id": "track4",
-          "talk_type_id": "talkType2",
+          "talk_type_id": "talkType23",
           "title": "Language Teaching Strategies",
           "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "SOS Foyer and Husband Lounge Area"
@@ -858,7 +1002,7 @@
         "talk_id":"talk10",
           "speaker_id": "speaker52",
           "track_id": "track0",
-          "talk_type_id": "talkType4",
+          "talk_type_id": "talkType24",
           "title": "Regional Affairs Europe",
           "description": "How to dissassemble and clean.",
           "location": "SOS Foyer and Husband Lounge Area"
@@ -867,7 +1011,7 @@
           "talk_id":"talk11",
           "speaker_id": "speaker85",
           "track_id": "track4",
-          "talk_type_id": "talkType2",
+          "talk_type_id": "talkType22",
           "title": "Language Teaching Strategies",
           "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "SOS Foyer and Husband Lounge Area"
@@ -887,7 +1031,7 @@
     {
       "time": "7:30 - 12:00",
       "talks": [{
-        "talk_id":"break1",
+        "talk_id":"break20",
         "talk_type_id": "break",
         "title": "Check in and Late Registration",
         "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
@@ -900,7 +1044,7 @@
         "talk_id":"talk1",
         "speaker_id": "speaker1",
         "track_id": "track1",
-        "talk_type_id": "talkType1",
+        "talk_type_id": "talkType29",
         "title": "Cross-Cultural Competence (3C) Teaching",
         "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
         "location": "TLC Idea Lab Room 229 (Second Floor of Library)"
@@ -922,7 +1066,7 @@
         "talk_id":"talk4",
           "speaker_id": "speaker13",
           "track_id": "track3",
-          "talk_type_id": "talkType3",
+          "talk_type_id": "talkType30",
           "title": "Cross-Cultural Competence (3C) Teaching",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "Polifka Auditorium (SOS)"
@@ -940,7 +1084,7 @@
           "talk_id":"talk6",
           "speaker_id": "speaker21",
           "track_id": "track3",
-          "talk_type_id": "talkType1",
+          "talk_type_id": "talkType31",
           "title": "Language Teaching Strategies",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "SOS Room 2250 (Upstairs)"
@@ -948,7 +1092,7 @@
           "talk_id":"talk7",
           "speaker_id": "speaker81",
           "track_id": "track3",
-          "talk_type_id": "talkType4",
+          "talk_type_id": "talkType25",
           "title": "Regional Affairs Europe",
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "SOS Room 2253 (Upstairs)"
@@ -970,7 +1114,7 @@
         "talk_id":"talk9",
         "speaker_id": "speaker63",
         "track_id": "track5",
-        "talk_type_id": "talkType3",
+        "talk_type_id": "talkType26",
         "title": "Language Teaching Strategies",
         "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
         "location": "Library Room 150"
@@ -991,7 +1135,7 @@
         "talk_id":"talk10",
           "speaker_id": "speaker52",
           "track_id": "track0",
-          "talk_type_id": "talkType4",
+          "talk_type_id": "talkType23",
           "title": "Regional Affairs Europe",
           "description": "How to dissassemble and clean.",
           "location": "SOS Foyer and Husband Lounge Area"
@@ -1032,7 +1176,7 @@
           "talk_id":"talk11",
           "speaker_id": "speaker85",
           "track_id": "track4",
-          "talk_type_id": "talkType2",
+          "talk_type_id": "talkType27",
           "title": "Language Teaching Strategies",
           "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "SOS Foyer and Husband Lounge Area"
