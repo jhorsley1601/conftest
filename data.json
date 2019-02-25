@@ -734,7 +734,11 @@
       "talks": [{
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "talk_id":"talk12",
+=======
+        "talk_id":"talk2",
+>>>>>>> parent of 8b03bba... changed talk_id
         "speaker_id": "speaker10",
 =======
 =======
@@ -762,7 +766,7 @@
     {
       "time": "10:15 - 11:45",
       "talks": [{
-        "talk_id":"talk14",
+        "talk_id":"talk4",
           "speaker_id": "speaker13",
           "track_id": "track3",
           "talk_type_id": "talkType3",
@@ -771,7 +775,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id":"talk15",
+          "talk_id":"talk5",
           "speaker_id": "speaker25",
           "track_id": "track4",
           "talk_type_id": "talkType2",
@@ -780,7 +784,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id":"talk16",
+          "talk_id":"talk6",
           "speaker_id": "speaker21",
           "track_id": "track3",
           "talk_type_id": "talkType1",
@@ -788,7 +792,7 @@
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "SOS Room 2250 (Upstairs)"
         }, {
-          "talk_id":"talk17",
+          "talk_id":"talk7",
           "speaker_id": "speaker81",
           "track_id": "track3",
           "talk_type_id": "talkType4",
@@ -810,7 +814,7 @@
     {
       "time": "13:15 - 14:45",
       "talks": [{
-        "talk_id":"talk19",
+        "talk_id":"talk9",
         "speaker_id": "speaker63",
         "track_id": "track5",
         "talk_type_id": "talkType3",
@@ -863,7 +867,7 @@
     {
       "time": "17:00 - 18:00 ",
       "talks": [{
-        "talk_id":"talk20",
+        "talk_id":"talk10",
           "speaker_id": "speaker52",
           "track_id": "track0",
           "talk_type_id": "talkType4",
@@ -872,11 +876,15 @@
           "location": "SOS Foyer and Husband Lounge Area"
         },
         {
-          "talk_id":"talk21",
+          "talk_id":"talk11",
           "speaker_id": "speaker85",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           "track_id": "track14",
+=======
+          "track_id": "track4",
+>>>>>>> parent of 8b03bba... changed talk_id
           "talk_type_id": "talkType22",
 =======
           "track_id": "track4",
@@ -915,7 +923,7 @@
     {
       "time": "8:00 - 9:45 ",
       "talks": [{
-        "talk_id":"talk31",
+        "talk_id":"talk1",
         "speaker_id": "speaker12",
         "track_id": "track1",
         "talk_type_id": "talkType1",
@@ -937,7 +945,7 @@
     {
       "time": "10:15 - 11:45",
       "talks": [{
-        "talk_id":"talk24",
+        "talk_id":"talk4",
           "speaker_id": "speaker13",
           "track_id": "track3",
           "talk_type_id": "talkType3",
@@ -946,7 +954,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id":"talk25",
+          "talk_id":"talk5",
           "speaker_id": "speaker25",
           "track_id": "track4",
           "talk_type_id": "talkType2",
@@ -955,7 +963,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id":"talk26",
+          "talk_id":"talk6",
           "speaker_id": "speaker21",
           "track_id": "track3",
           "talk_type_id": "talkType1",
@@ -963,7 +971,7 @@
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "SOS Room 2250 (Upstairs)"
         }, {
-          "talk_id":"talk27",
+          "talk_id":"talk7",
           "speaker_id": "speaker81",
           "track_id": "track3",
           "talk_type_id": "talkType4",
@@ -985,7 +993,7 @@
     {
       "time": "13:15 - 14:45",
       "talks": [{
-        "talk_id":"talk29",
+        "talk_id":"talk9",
         "speaker_id": "speaker63",
         "track_id": "track5",
         "talk_type_id": "talkType3",
@@ -1006,7 +1014,7 @@
     {
       "time": "15:15 - 16:45",
       "talks": [{
-        "talk_id":"talk40",
+        "talk_id":"talk10",
           "speaker_id": "speaker52",
           "track_id": "track0",
           "talk_type_id": "talkType4",
@@ -1015,7 +1023,7 @@
           "location": "SOS Foyer and Husband Lounge Area"
         },
         {
-          "talk_id":"talk41",
+          "talk_id":"talk11",
           "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
@@ -1038,7 +1046,7 @@
     {
       "time": "17:00 - 18:30 ",
       "talks": [{
-        "talk_id":"talk43",
+        "talk_id":"talk10",
           "speaker_id": "speaker52",
           "track_id": "track0",
           "talk_type_id": "talkType4",
@@ -1047,7 +1055,7 @@
           "location": "SOS Foyer and Husband Lounge Area"
         },
         {
-          "talk_id":"talk44",
+          "talk_id":"talk11",
           "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
@@ -1070,7 +1078,7 @@
     {
       "time": "8:00 - 9:45 ",
       "talks": [{
-        "talk_id":"talk45",
+        "talk_id":"talk1",
         "speaker_id": "speaker31",
         "track_id": "track1",
         "talk_type_id": "talkType1",
@@ -1092,7 +1100,7 @@
     {
       "time": "10:15 - 11:15",
       "talks": [{
-        "talk_id":"talk46",
+        "talk_id":"talk4",
           "speaker_id": "speaker13",
           "track_id": "track3",
           "talk_type_id": "talkType3",
@@ -1101,7 +1109,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id":"talk47",
+          "talk_id":"talk5",
           "speaker_id": "speaker25",
           "track_id": "track4",
           "talk_type_id": "talkType2",
@@ -1110,7 +1118,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id":"talk48",
+          "talk_id":"talk6",
           "speaker_id": "speaker21",
           "track_id": "track3",
           "talk_type_id": "talkType1",
@@ -1118,7 +1126,7 @@
           "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
           "location": "SOS Room 2250 (Upstairs)"
         }, {
-          "talk_id":"talk49",
+          "talk_id":"talk7",
           "speaker_id": "speaker81",
           "track_id": "track3",
           "talk_type_id": "talkType4",
@@ -1140,7 +1148,7 @@
     {
       "time": "12:15 - 13:15",
       "talks": [{
-        "talk_id":"talk50",
+        "talk_id":"talk10",
           "speaker_id": "speaker52",
           "track_id": "track0",
           "talk_type_id": "talkType4",
@@ -1149,7 +1157,7 @@
           "location": "SOS Foyer and Husband Lounge Area"
         },
         {
-          "talk_id":"talk51",
+          "talk_id":"talk11",
           "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
@@ -1172,7 +1180,7 @@
     {
       "time": "13:15 - 13:30",
       "talks": [{
-        "talk_id":"talk52",
+        "talk_id":"talk10",
           "speaker_id": "speaker52",
           "track_id": "track0",
           "talk_type_id": "talkType4",
@@ -1181,7 +1189,7 @@
           "location": "SOS Foyer and Husband Lounge Area"
         },
         {
-          "talk_id":"talk53",
+          "talk_id":"talk11",
           "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
