@@ -865,7 +865,7 @@
       "time": "8:00 - 8:15 ",
       "talks": [{
         "talk_id":"talk1",
-        "speaker_id": "speaker45",
+        "speaker_id": "speaker1",
         "track_id": "track1",
         "talk_type_id": "talkType18",
         "title": "Cross-Cultural Competence (3C) Teaching",
@@ -876,8 +876,13 @@
     {
       "time": "8:15 - 9:45 ",
       "talks": [{
+<<<<<<< HEAD
         "talk_id":"talk12",
         "speaker_id": "speaker10",
+=======
+        "talk_id":"talk2",
+        "speaker_id": "speaker1",
+>>>>>>> parent of 64ddf4f... CHANGED SPEAKER ID NUMBERS RANDOM
         "track_id": "track1",
         "talk_type_id": "talkType17",
         "title": "Cross-Cultural Competence (3C) Teaching",
@@ -1041,8 +1046,13 @@
     {
       "time": "8:00 - 9:45 ",
       "talks": [{
+<<<<<<< HEAD
         "talk_id":"talk31",
         "speaker_id": "speaker12",
+=======
+        "talk_id":"talk1",
+        "speaker_id": "speaker1",
+>>>>>>> parent of 64ddf4f... CHANGED SPEAKER ID NUMBERS RANDOM
         "track_id": "track1",
         "talk_type_id": "talkType29",
         "title": "Cross-Cultural Competence (3C) Teaching",
@@ -1196,8 +1206,13 @@
     {
       "time": "8:00 - 9:45 ",
       "talks": [{
+<<<<<<< HEAD
         "talk_id":"talk45",
         "speaker_id": "speaker31",
+=======
+        "talk_id":"talk1",
+        "speaker_id": "speaker1",
+>>>>>>> parent of 64ddf4f... CHANGED SPEAKER ID NUMBERS RANDOM
         "track_id": "track1",
         "talk_type_id": "talkType1",
         "title": "Cross-Cultural Competence (3C) Teaching",
