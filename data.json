@@ -733,9 +733,12 @@
       "time": "8:15 - 9:45 ",
       "talks": [{
 <<<<<<< HEAD
+<<<<<<< HEAD
         "talk_id":"talk12",
         "speaker_id": "speaker10",
 =======
+=======
+>>>>>>> parent of 695c1a9... changed TLK TYPE ID
         "talk_id":"talk1",
         "speaker_id": "speaker1",
 >>>>>>> parent of 695c1a9... changed TLK TYPE ID
@@ -872,8 +875,13 @@
           "talk_id":"talk21",
           "speaker_id": "speaker85",
 <<<<<<< HEAD
+<<<<<<< HEAD
           "track_id": "track14",
           "talk_type_id": "talkType22",
+=======
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+>>>>>>> parent of 695c1a9... changed TLK TYPE ID
 =======
           "track_id": "track4",
           "talk_type_id": "talkType2",
