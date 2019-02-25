@@ -737,6 +737,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         "talk_id":"talk12",
 =======
         "talk_id":"talk2",
@@ -751,6 +752,10 @@
         "talk_id":"talk1",
         "speaker_id": "speaker1",
 >>>>>>> parent of 695c1a9... changed TLK TYPE ID
+=======
+        "talk_id":"talk12",
+        "speaker_id": "speaker10",
+>>>>>>> parent of b06e571... Update data.json
 =======
         "talk_id":"talk12",
         "speaker_id": "speaker10",
@@ -937,8 +942,11 @@
       "time": "8:00 - 9:45 ",
       "talks": [{
 <<<<<<< HEAD
+<<<<<<< HEAD
         "talk_id":"talk1",
 =======
+=======
+>>>>>>> parent of b06e571... Update data.json
         "talk_id":"talk31",
 >>>>>>> parent of b06e571... Update data.json
         "speaker_id": "speaker12",
@@ -1096,8 +1104,11 @@
       "time": "8:00 - 9:45 ",
       "talks": [{
 <<<<<<< HEAD
+<<<<<<< HEAD
         "talk_id":"talk1",
 =======
+=======
+>>>>>>> parent of b06e571... Update data.json
         "talk_id":"talk45",
 >>>>>>> parent of b06e571... Update data.json
         "speaker_id": "speaker31",
