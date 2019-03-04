@@ -639,6 +639,13 @@
     },
     {
       "id": "speaker91",
+      "name": "Maj Gen Michael Rothstein",
+      "bio": "LeMay Center Commander and Vice Commander, Air University",
+      "image_url": null,
+      "company": "U.S. Air Force"
+    },
+    {
+      "id": "speaker92",
       "name": "Wolfson, Nathan",
       "bio": "Supervisor, DLIELC/EIFA",
       "image_url": null,
@@ -722,28 +729,16 @@
       "time": "8:00-8:15 ",
       "talks": [{
         "talk_id":"talk1",
-        "speaker_id": "speaker46",
+        "speaker_id": "speaker91",
         "track_id": "track1",
         "talk_type_id": "talkType1",
         "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "Welcome from AU/CC and Symposium Director",
+        "description": "LeMay Center Commander and Vice Commander, Air University",
         "location": "Polifka Auditorium (SOS)"
         }]
     },
     {
-      "time": "8:15-9:45 ",
-      "talks": [{
-        "talk_id":"talk2",
-        "speaker_id": "speaker11",
-        "track_id": "track1",
-        "talk_type_id": "talkType2",
-        "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
-        "location": "TLC Idea Lab Room 229 "
-        }]
-    },
-    {
-      "time": "9:45-10:15",
+      "time": "9:15-9:30",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -753,14 +748,14 @@
       ]
     },
     {
-      "time": "10:15-11:45",
+      "time": "9:30-11:00",
       "talks": [{
         "talk_id":"talk4",
-          "speaker_id": "speaker12",
+          "speaker_id": "speaker12, speaker32, speaker21",
           "track_id": "track3",
           "talk_type_id": "talkType3",
-          "title": "Cross-Cultural Competence (3C) Teaching",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "title": "1. Panel Lt Col Andrew Allen Dr. Selam Alemayo African Partner Outbreak Response Alliance (APORA) and Cultural Interactionn 2. Maj Oliver Talbott “Inter-cultural operability inside MINUSMA; the United Nations "most dangerous" mission 3. Ms. Susan Alaniz “US Military Assistance and Development”",
+          "description": "African Partner Outbreak Response Alliance (APORA) and Cultural Interaction",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -769,7 +764,7 @@
           "track_id": "track4",
           "talk_type_id": "talkType1",
           "title": "Virtual Reality Demonstrations",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Inter-cultural operability inside MINUSMA; the United Nations most dangerous mission",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -778,21 +773,13 @@
           "track_id": "track3",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "US Military Assistance and Development",
           "location": "SOS Room 2250 (Upstairs)"
-        }, {
-          "talk_id":"talk7",
-          "speaker_id": "speaker71",
-          "track_id": "track3",
-          "talk_type_id": "talkType3",
-          "title": "Regional Affairs Europe",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Room 2253 (Upstairs)"
         }
       ]
     },
     {
-      "time": "11:45-13:15",
+      "time": "11:00-12:00",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -801,7 +788,7 @@
       }]
     },
     {
-      "time": "13:15-14:45",
+      "time": "12:00-13:30",
       "talks": [{
         "talk_id":"talk9",
         "speaker_id": "speaker64",
@@ -813,7 +800,7 @@
       }]
     },
     {
-      "time": "14:45-15:15",
+      "time": "13:30-14:00",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -822,7 +809,7 @@
       }]
     },
     {
-      "time": "15:15-16:45",
+      "time": "14:00-15:30",
       "talks": [{
         "talk_id":"talk10",
           "speaker_id": "speaker53",
@@ -844,7 +831,7 @@
       ]
     },
     {
-      "time": "16:45-17:00",
+      "time": "15:30-16:00",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -854,7 +841,7 @@
       ]
     },
     {
-      "time": "17:00-18:00 ",
+      "time": "16:00-17:30 ",
       "talks": [{
         "talk_id":"talk12",
           "speaker_id": "speaker57",
@@ -875,6 +862,18 @@
         }
       ]
     },
+    {
+      "time": "17:30-18:30",
+      "talks": [{
+        "talk_id":"break20",
+        "talk_type_id": "break",
+        "title": "Check in and Late Registration",
+        "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
+         
+      }]
+    },
+    
+    
     {
       "time": "",
       "talks": [{
