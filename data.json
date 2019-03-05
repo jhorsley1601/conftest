@@ -716,7 +716,7 @@
       }]
     },
     {
-      "time": "7:30-12:00",
+      "time": "7:30-12:30",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -733,7 +733,19 @@
         "track_id": "track1",
         "talk_type_id": "talkType1",
         "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "LeMay Center Commander and Vice Commander, Air University",
+        "description": "Air University Commander/President and Mr. Howard Ward AFCLC Director LeMay Center Commander and Vice Commander, Air University",
+        "location": "Polifka Auditorium (SOS)"
+        }]
+    },
+    {
+      "time": "8:15-9:15 ",
+      "talks": [{
+        "talk_id":"talk1",
+        "speaker_id": "speaker91",
+        "track_id": "track1",
+        "talk_type_id": "talkType1",
+        "title": "Cross-Cultural Competence (3C) Teaching",
+        "description": "Maj Gen Michael Rothstein, LeMay Center Commander and Vice Commander, Air University",
         "location": "Polifka Auditorium (SOS)"
         }]
     },
@@ -754,17 +766,17 @@
           "speaker_id": "speaker12, speaker32, speaker21",
           "track_id": "track3",
           "talk_type_id": "talkType3",
-          "title": "1. Panel Lt Col Andrew Allen Dr. Selam Alemayo African Partner Outbreak Response Alliance (APORA) and Cultural Interactionn 2. Maj Oliver Talbott “Inter-cultural operability inside MINUSMA; the United Nations "most dangerous" mission 3. Ms. Susan Alaniz “US Military Assistance and Development”",
+          "title": "1. Panel Lt Col Andrew Allen Dr. Selam Alemayo African Partner Outbreak Response Alliance (APORA) and Cultural Interactionn 2. Maj Oliver Talbott “Inter-cultural operability inside MINUSMA; the United Nations most dangerous mission 3. Ms. Susan Alaniz “US Military Assistance and Development”",
           "description": "African Partner Outbreak Response Alliance (APORA) and Cultural Interaction",
           "location": "Polifka Auditorium (SOS)"
         },
         {
           "talk_id":"talk5",
-          "speaker_id": "speaker27",
+          "speaker_id": "speaker27, speaker19, speaker13",
           "track_id": "track4",
           "talk_type_id": "talkType1",
           "title": "Virtual Reality Demonstrations",
-          "description": "Inter-cultural operability inside MINUSMA; the United Nations most dangerous mission",
+          "description": "Cultural Intelligence, Psychometrics, and Cognitive Science: 1. Dr. Heather Skousgaard “Building better partners: Integrating Cultural Intelligence (CQ) into the Australian JPME continuum” 2. TSgt Anthony Maez “Psychometric Linguistics” 3. Mr. Scott-Armstrong “Cognitive Mindsets: Negotiating the Obstacles of Intercultural Communication”",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -795,7 +807,7 @@
         "track_id": "track5",
         "talk_type_id": "talkType1",
         "title": "Language Teaching Strategies",
-        "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+        "description": "BGen Robert Sofge, Jr., Deputy Commander - U. S. Marine Corps Forces, Pacific",
         "location": "Library Room 150"
       }]
     },
@@ -812,22 +824,31 @@
       "time": "14:00-15:30",
       "talks": [{
         "talk_id":"talk10",
-          "speaker_id": "speaker53",
+          "speaker_id": "speaker53, speaker22, speaker46",
           "track_id": "track0",
           "talk_type_id": "talkType2",
           "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
+          "description": "Regional Knowledge to Enhance Global Security 1. Dr. Jonathan Zartman “Cultural Knowledge to Defend against Terrorism” 2. Panel MAJ (ret.) Ben Lowsen Capt Nick Romero “Translating Regional Expertise into Strategy” 3. Mr. Robert Miltersen  “Inter-cultural Implications of the Coming Conflict with China”",
           "location": "SOS Foyer and Husband Lounge Area"
         },
         {
           "talk_id":"talk11",
-          "speaker_id": "speaker86",
+          "speaker_id": "speaker86, speaker32",
           "track_id": "track4",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Technology in the Language Classroom: 1. Panel Dr. Sandra Schoder Maj Peter Swinson “Exploring Language & Culture through Virtual Reality projects” 2. BPC: Maj Andreas Tempelis “German Military Manning Challenges”.",
           "location": "SOS Foyer and Husband Lounge Area"
-        }
+        },
+        {
+            "talk_id":"talk10",
+              "speaker_id": "speaker53, speaker22, speaker46",
+              "track_id": "track0",
+              "talk_type_id": "talkType2",
+              "title": "Regional Affairs Europe",
+              "description": "Teaching Communicative Competence: 1. Mr. Nathan Wolfson “The Affect of Culture on Mission Success for ELTPs in Gulf Arab Countries and Afghanistan 2. Maj Issam Sebaihi “The Difference in Gesticulation and Dialects in the Arab World” 3. Panel Dr. Wajiha Qureshi Ms. Shagufta Khan “Role of Cultural Competence in Military Institution A Pragmatic Approach of Educational Computing in Class”",
+              "location": "SOS Foyer and Husband Lounge Area"
+          }
       ]
     },
     {
@@ -836,7 +857,7 @@
         "talk_id":"break1",
         "talk_type_id": "break",
         "title": "Short Break",
-        "description": "Short Break"
+        "description": "Evening Social - SOS Student Lounge Area"
         }
       ]
     },
