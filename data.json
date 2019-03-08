@@ -1170,26 +1170,26 @@
           "title": "Language Teaching Strategies",
           "description": "New Directions in Language Programs: 1. Dr. Barak Salmoni “All Instruments of National Power: Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability 2. Dr. Thomas Stovicek “Exploring language mentorship as an option for life-long LREC development”  3. Dr. Andrei Aleiniko “A Paradigm Shift: In Search of a Breakthrough Approach to Inter(Cultural)Operability”",
           "location": "SOS Foyer and Husband Lounge Area"
+        },
+        {
+          "talk_id": "talk29",
+          "speaker_id": "speaker22",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Reality Demonstrations",
+          "description": "Needs Analysis and Measurement for LREC Competence: 1. Mr. Matthew McMahan “Culture Implications to Enlisted Professional Development in Partner Nation Militaries” 2. Dr. Louise Rasmussen “General Cultural Competence: Mastery Levels for DoD Personnel”",
+          "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk30",
+          "speaker_id": "speaker25",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Reality Demonstrations",
+          "description": "BPC through Sociolinguistic Interoperability: 1. MSgt Fabricio Toscano 571 MSAS Mission Capabilities – Language Influence, Saber es Poder 2. Panel Dr. Adrian Roberts TSgt Dieudonne  Batawila “Language and Intercultural Communication in the Service of Interoperability: Forging Partnerships in Francophone Africa” 3. Mr. Mark David “Socio-Linguitic Interoperability”",
+          "location": "Husband Auditorium (SOS)"
         }
       ]
-    },
-    {
-      "talk_id": "talk29",
-      "speaker_id": "speaker22",
-      "track_id": "track4",
-      "talk_type_id": "talkType2",
-      "title": "Virtual Reality Demonstrations",
-      "description": "Needs Analysis and Measurement for LREC Competence: 1. Mr. Matthew McMahan “Culture Implications to Enlisted Professional Development in Partner Nation Militaries” 2. Dr. Louise Rasmussen “General Cultural Competence: Mastery Levels for DoD Personnel”",
-      "location": "Husband Auditorium (SOS)"
-    },
-    {
-      "talk_id": "talk30",
-      "speaker_id": "speaker25",
-      "track_id": "track4",
-      "talk_type_id": "talkType2",
-      "title": "Virtual Reality Demonstrations",
-      "description": "BPC through Sociolinguistic Interoperability: 1. MSgt Fabricio Toscano 571 MSAS Mission Capabilities – Language Influence, Saber es Poder 2. Panel Dr. Adrian Roberts TSgt Dieudonne  Batawila “Language and Intercultural Communication in the Service of Interoperability: Forging Partnerships in Francophone Africa” 3. Mr. Mark David “Socio-Linguitic Interoperability”",
-      "location": "Husband Auditorium (SOS)"
     },
     {
       "time": "9:30-9:45",
