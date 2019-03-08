@@ -728,7 +728,7 @@
       ]
     },
     {
-      "time": "8:00-8:15 ",
+      "time": "8:00-8:15",
       "talks": [
         {
           "talk_id": "talk1",
@@ -742,7 +742,7 @@
       ]
     },
     {
-      "time": "8:15-9:15 ",
+      "time": "8:15-9:15",
       "talks": [
         {
           "talk_id": "talk1",
@@ -878,7 +878,7 @@
       ]
     },
     {
-      "time": "16:00-17:30 ",
+      "time": "16:00-17:30",
       "talks": [
         {
           "talk_id": "talk12",
@@ -945,26 +945,26 @@
           "title": "Virtual Reality Demonstrations",
           "description": "Building Partner Capacity (BPC) 2: /n 1. Ms. Susan Alaniz /n “Building Partner Aviation Capability” /n 2. Panel /n Mr. William Herbert /n Lt Col Shane Hughes/n “Immersion as PME: the Olmsted Scholarship to the Operational Air Force”",
           "location": "Library Auditorium, Rm. 170"
+        }, 
+        {
+          "talk_id": "talk16",
+          "speaker_id": "speaker27",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Reality Demonstrations",
+          "description": "Personalized Linguist Training: 1. Panel  Dr. Tiffany Jastrzembski Dr. Jack Harris Mr. Michael Krusmark Veda Setlur /n  Dr. Branka Sarac /n Ms. Julie Cantwell /n Capt Richard Uber /n MSgt Jesse High /n “Personalized Linguist Training to Enhance Language Acquisition and Retention through Use of a Cognitive Model”",
+          "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk16",
+          "speaker_id": "speaker27",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Reality Demonstrations",
+          "description": "Language Variants’ Influence on LREC Programming: /n 1. Capt Kelly Schuetz /n “Portuñol: Building Relationships in Latin American”/n 2. Capt Philip Tice /n “Arabic Diglossia: Implications for Military Interoperability”",
+          "location": "SOS Rm. 2250 (Upstairs)"
         }
       ]
-    },
-    {
-      "talk_id": "talk16",
-      "speaker_id": "speaker27",
-      "track_id": "track4",
-      "talk_type_id": "talkType2",
-      "title": "Virtual Reality Demonstrations",
-      "description": "Personalized Linguist Training: 1. Panel  Dr. Tiffany Jastrzembski Dr. Jack Harris Mr. Michael Krusmark Veda Setlur /n  Dr. Branka Sarac /n Ms. Julie Cantwell /n Capt Richard Uber /n MSgt Jesse High /n “Personalized Linguist Training to Enhance Language Acquisition and Retention through Use of a Cognitive Model”",
-      "location": "Husband Auditorium (SOS)"
-    },
-    {
-      "talk_id": "talk16",
-      "speaker_id": "speaker27",
-      "track_id": "track4",
-      "talk_type_id": "talkType2",
-      "title": "Virtual Reality Demonstrations",
-      "description": "Language Variants’ Influence on LREC Programming: /n 1. Capt Kelly Schuetz /n “Portuñol: Building Relationships in Latin American”/n 2. Capt Philip Tice /n “Arabic Diglossia: Implications for Military Interoperability”",
-      "location": "SOS Rm. 2250 (Upstairs)"
     },
     {
       "time": "9:30-10:00",
@@ -1107,7 +1107,7 @@
       ]
     },
     {
-      "time": "16:30-18:00 ",
+      "time": "16:30-18:00",
       "talks": [
         {
           "talk_id": "talk22",
@@ -1160,7 +1160,7 @@
       ]
     },
     {
-      "time": "8:00-9:30 ",
+      "time": "8:00-9:30",
       "talks": [
         {
           "talk_id": "talk23",
