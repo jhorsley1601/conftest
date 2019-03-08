@@ -8,11 +8,11 @@
       "company": "U.S. Marine Corps Forces"
     },
     {
-    "id": "",
-    "name": "",
-    "bio": "",
-    "image_url": "",
-    "company": ""
+      "id": "",
+      "name": "",
+      "bio": "",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker3",
@@ -639,14 +639,22 @@
     },
     {
       "id": "speaker91",
+      "name": "Maj Gen Michael Rothstein",
+      "bio": "LeMay Center Commander and Vice Commander, Air University",
+      "image_url": null,
+      "company": "U.S. Air Force"
+    },
+    {
+      "id": "speaker92",
       "name": "Wolfson, Nathan",
       "bio": "Supervisor, DLIELC/EIFA",
       "image_url": null,
       "company": "U.S. Army"
     }
   ],
-  
-  "tracks": [{
+
+  "tracks": [
+    {
       "id": "track0",
       "name": "Language Skill Sustainment",
       "color": "#B5BD68"
@@ -676,7 +684,6 @@
       "name": "3C Teaching Event",
       "color": "#B5BD68"
     }
-    
   ],
   "talk_types": [
     {
@@ -695,12 +702,11 @@
       "id": "break",
       "name": "Break"
     }
-      
   ],
-  
+
   "schedule": [
     {
-      "time": "",
+      "time": "Day",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -708,155 +714,194 @@
         "description": ""
       }]
     },
+
+
     {
-      "time": "7:30-12:00",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Check in and Late Registration",
-        "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
-         
-      }]
-    },
-    {
-      "time": "8:00-8:15 ",
-      "talks": [{
-        "talk_id":"talk1",
-        "speaker_id": "speaker46",
-        "track_id": "track1",
-        "talk_type_id": "talkType1",
-        "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "Welcome from AU/CC and Symposium Director",
-        "location": "Polifka Auditorium (SOS)"
-        }]
-    },
-    {
-      "time": "8:15-9:45 ",
-      "talks": [{
-        "talk_id":"talk2",
-        "speaker_id": "speaker11",
-        "track_id": "track1",
-        "talk_type_id": "talkType2",
-        "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
-        "location": "TLC Idea Lab Room 229 "
-        }]
-    },
-    {
-      "time": "9:45-10:15",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Break/Networking Time",
-        "description": "Break/Networking time"
+      "time": "7:30-12:30",
+      "talks": [
+        {
+          "talk_id": "break2",
+          "talk_type_id": "break",
+          "title": "Check in and Late Registration",
+          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
         }
       ]
     },
+
+
     {
-      "time": "10:15-11:45",
-      "talks": [{
-        "talk_id":"talk4",
+      "time": "8:00-8:15",
+      "talks": [
+        {
+          "talk_id": "talk1",
+          "speaker_id": "speaker69",
+          "track_id": "track1",
+          "talk_type_id": "talkType1",
+          "title": "Cross-Cultural Competence (3C) Teaching",
+          "description": "All Instruments of National Power Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability",
+          "location": "Polifka Auditorium (SOS)"
+        }
+      ]
+    },
+
+
+    {
+      "time": "8:15-9:15",
+      "talks": [
+        {
+          "talk_id": "talk2",
+          "speaker_id": "speaker91",
+          "track_id": "track1",
+          "talk_type_id": "talkType1",
+          "title": "Cross-Cultural Competence (3C) Teaching",
+          "description": "Maj Gen Michael Rothstein, LeMay Center Commander and Vice Commander, Air University",
+          "location": "Polifka Auditorium (SOS)"
+        }
+      ]
+    },
+
+
+    {
+      "time": "9:15-9:30",
+      "talks": [
+        {
+          "talk_id": "break3",
+          "talk_type_id": "break",
+          "title": "Break/Networking Time",
+          "description": "Break/Networking time"
+        }
+      ]
+    },
+
+
+    {
+      "time": "9:30-11:00",
+      "talks": [
+        {
+          "talk_id": "talk3",
           "speaker_id": "speaker12",
           "track_id": "track3",
           "talk_type_id": "talkType3",
-          "title": "Cross-Cultural Competence (3C) Teaching",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "title": "1. Panel Lt Col Andrew Allen Dr. Selam Alemayo African Partner Outbreak Response Alliance (APORA) and Cultural Interactionn 2. Maj Oliver Talbott “Inter-cultural operability inside MINUSMA; the United Nations most dangerous mission 3. Ms. Susan Alaniz “US Military Assistance and Development”",
+          "description": "African Partner Outbreak Response Alliance (APORA) and Cultural Interaction",
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id":"talk5",
+          "talk_id": "talk4",
           "speaker_id": "speaker27",
           "track_id": "track4",
           "talk_type_id": "talkType1",
           "title": "Virtual Reality Demonstrations",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Cultural Intelligence, Psychometrics, and Cognitive Science: 1. Dr. Heather Skousgaard “Building better partners: Integrating Cultural Intelligence (CQ) into the Australian JPME continuum” 2. TSgt Anthony Maez “Psychometric Linguistics” 3. Mr. Scott-Armstrong “Cognitive Mindsets: Negotiating the Obstacles of Intercultural Communication”",
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id":"talk6",
+          "talk_id": "talk5",
           "speaker_id": "speaker20",
           "track_id": "track3",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "US Military Assistance and Development",
           "location": "SOS Room 2250 (Upstairs)"
-        }, {
-          "talk_id":"talk7",
-          "speaker_id": "speaker71",
-          "track_id": "track3",
-          "talk_type_id": "talkType3",
-          "title": "Regional Affairs Europe",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Room 2253 (Upstairs)"
         }
       ]
     },
+
+
     {
-      "time": "11:45-13:15",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Lunch",
-        "description": "1.5-hr Lunch"
-      }]
+      "time": "11:00-12:00",
+      "talks": [
+        {
+          "talk_id": "break4",
+          "talk_type_id": "break",
+          "title": "Lunch",
+          "description": "1.5-hr Lunch"
+        }
+      ]
     },
+
+
     {
-      "time": "13:15-14:45",
-      "talks": [{
-        "talk_id":"talk9",
-        "speaker_id": "speaker64",
-        "track_id": "track5",
-        "talk_type_id": "talkType1",
-        "title": "Language Teaching Strategies",
-        "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-        "location": "Library Room 150"
-      }]
+      "time": "12:00-13:30",
+      "talks": [
+        {
+          "talk_id": "talk6",
+          "speaker_id": "speaker64",
+          "track_id": "track5",
+          "talk_type_id": "talkType1",
+          "title": "Language Teaching Strategies",
+          "description": "BGen Robert Sofge, Jr., Deputy Commander - U. S. Marine Corps Forces, Pacific",
+          "location": "Library Room 150"
+        }
+      ]
     },
+
+
     {
-      "time": "14:45-15:15",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Break Time",
-        "description": "Break/Networking time"
-      }]
+      "time": "13:30-14:00",
+      "talks": [
+        {
+          "talk_id": "break5",
+          "talk_type_id": "break",
+          "title": "Break Time",
+          "description": "Break/Networking time"
+        }
+      ]
     },
+
+
     {
-      "time": "15:15-16:45",
-      "talks": [{
-        "talk_id":"talk10",
+      "time": "14:00-15:30",
+      "talks": [
+        {
+          "talk_id": "talk7",
           "speaker_id": "speaker53",
           "track_id": "track0",
           "talk_type_id": "talkType2",
           "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
+          "description": "Regional Knowledge to Enhance Global Security 1. Dr. Jonathan Zartman “Cultural Knowledge to Defend against Terrorism” 2. Panel MAJ (ret.) Ben Lowsen Capt Nick Romero “Translating Regional Expertise into Strategy” 3. Mr. Robert Miltersen  “Inter-cultural Implications of the Coming Conflict with China”",
           "location": "SOS Foyer and Husband Lounge Area"
         },
         {
-          "talk_id":"talk11",
+          "talk_id": "talk8",
           "speaker_id": "speaker86",
           "track_id": "track4",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Technology in the Language Classroom: 1. Panel Dr. Sandra Schoder Maj Peter Swinson “Exploring Language & Culture through Virtual Reality projects” 2. BPC: Maj Andreas Tempelis “German Military Manning Challenges”.",
+          "location": "SOS Foyer and Husband Lounge Area"
+        },
+        {
+          "talk_id": "talk9",
+          "speaker_id": "speaker53",
+          "track_id": "track0",
+          "talk_type_id": "talkType2",
+          "title": "Regional Affairs Europe",
+          "description": "Teaching Communicative Competence: 1. Mr. Nathan Wolfson “The Affect of Culture on Mission Success for ELTPs in Gulf Arab Countries and Afghanistan 2. Maj Issam Sebaihi “The Difference in Gesticulation and Dialects in the Arab World” 3. Panel Dr. Wajiha Qureshi Ms. Shagufta Khan “Role of Cultural Competence in Military Institution A Pragmatic Approach of Educational Computing in Class”",
           "location": "SOS Foyer and Husband Lounge Area"
         }
       ]
     },
+
+
     {
-      "time": "16:45-17:00",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Short Break",
-        "description": "Short Break"
+      "time": "15:30-16:00",
+      "talks": [
+        {
+          "talk_id": "break6",
+          "talk_type_id": "break",
+          "title": "Short Break",
+          "description": "Evening Social - SOS Student Lounge Area"
         }
       ]
     },
+
+
     {
-      "time": "17:00-18:00 ",
-      "talks": [{
-        "talk_id":"talk12",
+      "time": "16:00-17:30",
+      "talks": [
+        {
+          "talk_id": "talk10",
           "speaker_id": "speaker57",
           "track_id": "track0",
           "talk_type_id": "talkType1",
@@ -865,7 +910,7 @@
           "location": "SOS Foyer and Husband Lounge Area"
         },
         {
-          "talk_id":"talk13",
+          "talk_id": "talk11",
           "speaker_id": "speaker69",
           "track_id": "track4",
           "talk_type_id": "talkType2",
@@ -875,154 +920,241 @@
         }
       ]
     },
+
+
     {
-      "time": "",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Day 2",
-        "description": ""
-         
-      }]
-    },
-    {
-      "time": "7:30-12:00",
-      "talks": [{
-        "talk_id":"break20",
-        "talk_type_id": "break",
-        "title": "Check in and Late Registration",
-        "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
-         
-      }]
-    },
-    {
-      "time": "8:00-9:45 ",
-      "talks": [{
-        "talk_id":"talk14",
-        "speaker_id": "speaker12",
-        "track_id": "track1",
-        "talk_type_id": "talkType3",
-        "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
-        "location": "TLC Idea Lab Room 229 (Second Floor of Library)"
-        }]
-    },
-    {
-      "time": "9:45-10:15 ",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Break/Networking Time",
-        "description": "Break/Networking time"
+      "time": "17:30-18:30",
+      "talks": [
+        {
+          "talk_id": "break7",
+          "talk_type_id": "break",
+          "title": "Check in and Late Registration",
+          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
         }
       ]
     },
+
+
     {
-      "time": "10:15-11:45",
-      "talks": [{
-        "talk_id":"talk15",
-          "speaker_id": "speaker33",
-          "track_id": "track3",
-          "talk_type_id": "talkType1",
-          "title": "Cross-Cultural Competence (3C) Teaching",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "Polifka Auditorium (SOS)"
-        },
+      "time": "Day",
+      "talks": [
         {
-          "talk_id":"talk16",
+          "talk_id": "break8",
+          "talk_type_id": "break",
+          "title": "Day 2",
+          "description": ""
+        }
+      ]
+    },
+
+
+    {
+      "time": "7:30-12:30",
+      "talks": [
+        {
+          "talk_id": "break9",
+          "talk_type_id": "break",
+          "title": "Check in and Late Registration",
+          "description": "(Foyer of Polifka Auditorium)"
+        }
+      ]
+    },
+
+
+    {
+      "time": "8:00-9:30",
+      "talks": [
+        {
+          "talk_id": "talk12",
           "speaker_id": "speaker27",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Building Partner Capacity (BPC) 2: /n 1. Ms. Susan Alaniz /n “Building Partner Aviation Capability” /n 2. Panel /n Mr. William Herbert /n Lt Col Shane Hughes/n “Immersion as PME: the Olmsted Scholarship to the Operational Air Force”",
+          "location": "Library Auditorium, Rm. 170"
+        }, 
+        {
+          "talk_id": "talk13",
+          "speaker_id": "speaker27",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Reality Demonstrations",
+          "description": "Personalized Linguist Training: 1. Panel  Dr. Tiffany Jastrzembski Dr. Jack Harris Mr. Michael Krusmark Veda Setlur /n  Dr. Branka Sarac /n Ms. Julie Cantwell /n Capt Richard Uber /n MSgt Jesse High /n “Personalized Linguist Training to Enhance Language Acquisition and Retention through Use of a Cognitive Model”",
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id":"talk17",
+          "talk_id": "talk14",
+          "speaker_id": "speaker27",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Reality Demonstrations",
+          "description": "Language Variants’ Influence on LREC Programming: /n 1. Capt Kelly Schuetz /n “Portuñol: Building Relationships in Latin American”/n 2. Capt Philip Tice /n “Arabic Diglossia: Implications for Military Interoperability”",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        }
+      ]
+    },
+
+
+    {
+      "time": "9:30-10:00",
+      "talks": [
+        {
+          "talk_id": "break10",
+          "talk_type_id": "break",
+          "title": "Break/Networking Time",
+          "description": "Break/Networking time"
+        }
+      ]
+    },
+
+
+    {
+      "time": "10:00-11:30",
+      "talks": [
+        {
+          "talk_id": "talk15",
+          "speaker_id": "speaker33",
+          "track_id": "track3",
+          "talk_type_id": "talkType1",
+          "title": "Cross-Cultural Competence (3C) Teaching",
+          "description": "Communication Strategies /n 1. Panel /n  Dr. Lauren Mackenzie /n Ms. Kristin Post /n  Ms. Anahita Abdeshahian /n “Relationship Repair Strategies: Cultural Considerations for Military Training”",
+          "location": "Polifka Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk16",
+          "speaker_id": "speaker27",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Reality Demonstrations",
+          "description": "Building Partner Capacity (BPC) 3: /n 1. Col Lawrence Pravecek /n “Support for G-20 Summit in Buenos Aires: Relationships and Communication” /n 2. Panel /n Maj John Berg /n Capt Jorge Benavides, Salvadoran Air Force  /n “Strengthening Alliances: International PME Programs Yield Layers of Strategic Benefit”",
+          "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk17",
           "speaker_id": "speaker20",
           "track_id": "track3",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Room 2250 (Upstairs)"
-        }, {
-          "talk_id":"talk18",
+          "description": "3C in the Making:/n 1. Panel /n Lt Col Sabine Peters /n C1C Christopher Yong /n C2C Rosalyn Mikel /n C1C Garrett Potts /n C2C Maria Viviano /n “Cross-Cultural Competence in the Making: USAFA cadets reflect on their immersion experiences abroad”.",
+          "location": "Library Auditorium, Rm. 170"
+        },
+        {
+          "talk_id": "talk18",
           "speaker_id": "speaker80",
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Regional Affairs Europe",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.International Military Student Education: /n 1. Ms. Jana Naji /n “Improving Cross Cultural Efficacy to Enhance the Military Training Environment” /n 2. Dr. Heather Smyser /n “Linguistic proficiency not a panacea: Developing cultural capital in advanced English” /n 3. Panel /n Ms. Andrea Stark /n Mr. Kenneth Machek /n “Cultivating Cultural Interoperability through Language Training”",
           "location": "SOS Room 2253 (Upstairs)"
         }
       ]
     },
+
+
     {
-      "time": "11:45-13:15",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Lunch",
-        "description": "1.5-hr Lunch"
-      }]
+      "time": "11:30-12:30",
+      "talks": [
+        {
+          "talk_id": "break11",
+          "talk_type_id": "break",
+          "title": "Lunch",
+          "description": "1.5-hr Lunch"
+        }
+      ]
     },
+
+
     {
-      "time": "13:15-14:45",
-      "talks": [{
-        "talk_id":"talk19",
-        "speaker_id": "speaker23",
-        "track_id": "track5",
-        "talk_type_id": "talkType26",
-        "title": "Language Teaching Strategies",
-        "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-        "location": "Library Room 150"
-      }]
+      "time": "12:30-14:00",
+      "talks": [
+        {
+          "talk_id": "talk19",
+          "speaker_id": "speaker23",
+          "track_id": "track5",
+          "talk_type_id": "talkType26",
+          "title": "Language Teaching Strategies",
+          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "location": "Polifka Auditorium (SOS)"
+        }
+      ]
     },
+
+
     {
-      "time": "14:45-15:15",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Break Time",
-        "description": "Break/Networking time"
-      }]
+      "time": "14:00-14:30",
+      "talks": [
+        {
+          "talk_id": "break12",
+          "talk_type_id": "break",
+          "title": "Break Time",
+          "description": "Break/Networking time"
+        }
+      ]
     },
+
+
     {
-      "time": "15:15-16:45",
-      "talks": [{
-        "talk_id":"talk20",
+      "time": "14:30-16:00",
+      "talks": [
+        {
+          "talk_id": "talk20",
           "speaker_id": "speaker42",
           "track_id": "track0",
           "talk_type_id": "talkType3",
           "title": "Regional Affairs Europe",
           "description": "How to dissassemble and clean.",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id":"talk21",
+          "talk_id": "talk21",
           "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "description": "Cultural Property Protection (CPP):/n 1. Dr. Paul Fox /n “The Cultural Property Protection Estimate: a Mission-Essential Interoperability Planning Tool” /n 2. Dr. Scott Edmondson /n “ Topic TBD” /n 3. Panel /n Dr. Elizabeth Peifer /n Dr. Patricia Fogarty /n  “From Blue Shield to Blue Flag: Injecting CPP into Military Exercises”",
+          "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk22",
+          "speaker_id": "speaker85",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Language Teaching Strategies",
+          "description": "Tools for LREC Training: /n 1. Panel /n Ms. Leila Harriss /n Ms. Krista Ratwani /n  Ms. Tara Brown /n  “CultureReady Basics” /n 2. Ms. Kristen Snow /n “Learn a Language with Mango Languages”",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        },
+        {
+          "talk_id": "talk23",
+          "speaker_id": "speaker85",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Language Teaching Strategies",
+          "description": "Innovations in LREC Programming: /n 1. Mr. Ian Edgerly /n “How to Create a Sustainable and Operational REC Program? Start With Why” /n 2. Panel /n Ms. Maia Sciupac /n Maj Julie Janson /n “HACKthe3OIE: Lessons Learned from the USAF Innovation Sprint to Integrate Culture, Operations, and Coalitions in the Information Environment”",
+          "location": "Library Auditorium, Rm. 170"
         }
       ]
     },
+
+
     {
-      "time": "16:45-17:00",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Short Break",
-        "description": "Short Break"
+      "time": "16:00-16:30",
+      "talks": [
+        {
+          "talk_id": "break13",
+          "talk_type_id": "break",
+          "title": "Short Break",
+          "description": "Short Break"
         }
       ]
     },
+
+
     {
-      "time": "17:00-18:30 ",
-      "talks": [{
-        "talk_id":"talk22",
-        "dayId": "2",
+      "time": "16:30-18:00",
+      "talks": [
+        {
+          "talk_id": "talk24",
+          "dayId": "2",
           "speaker_id": "speaker52",
           "track_id": "track0",
           "talk_type_id": "talkType1",
@@ -1031,7 +1163,25 @@
           "location": "SOS Foyer and Husband Lounge Area"
         },
         {
-          "talk_id":"talk23",
+          "talk_id": "talk25",
+          "speaker_id": "speaker85",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Language Teaching Strategies",
+          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "location": "SOS Foyer and Husband Lounge Area"
+        },
+        {
+          "talk_id": "talk26",
+          "speaker_id": "speaker8",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Language Teaching Strategies",
+          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "location": "SOS Foyer and Husband Lounge Area"
+        },
+        {
+          "talk_id": "talk27",
           "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
@@ -1041,136 +1191,121 @@
         }
       ]
     },
+
+
     {
-      "time": "",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Day 3",
-        "description": ""
-         
-      }]
-    },
-    {
-      "time": "8:00-9:45 ",
-      "talks": [{
-        "talk_id":"talk24",
-        "speaker_id": "speaker31",
-        "track_id": "track1",
-        "talk_type_id": "talkType3",
-        "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
-        "location": "TLC Idea Lab Room 229 "
-        }]
-    },
-    {
-      "time": "9:45-10:15",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Break/Networking Time",
-        "description": "Break/Networking time"
+      "time": "Day",
+      "talks": [
+        {
+          "talk_id": "break14",
+          "talk_type_id": "break",
+          "title": "Day 3",
+          "description": ""
         }
       ]
     },
+
+
     {
-      "time": "10:15-11:15",
-      "talks": [{
-        "talk_id":"talk25",
-          "speaker_id": "speaker13",
-          "track_id": "track3",
-          "talk_type_id": "talkType1",
-          "title": "Cross-Cultural Competence (3C) Teaching",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "Polifka Auditorium (SOS)"
+      "time": "8:00-9:30",
+      "talks": [
+        {
+          "talk_id": "talk28",
+          "speaker_id": "speaker32",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Language Teaching Strategies",
+          "description": "New Directions in Language Programs: 1. Dr. Barak Salmoni “All Instruments of National Power: Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability 2. Dr. Thomas Stovicek “Exploring language mentorship as an option for life-long LREC development”  3. Dr. Andrei Aleiniko “A Paradigm Shift: In Search of a Breakthrough Approach to Inter(Cultural)Operability”",
+          "location": "SOS Foyer and Husband Lounge Area"
         },
         {
-          "talk_id":"talk26",
+          "talk_id": "talk29",
+          "speaker_id": "speaker22",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Reality Demonstrations",
+          "description": "Needs Analysis and Measurement for LREC Competence: 1. Mr. Matthew McMahan “Culture Implications to Enlisted Professional Development in Partner Nation Militaries” 2. Dr. Louise Rasmussen “General Cultural Competence: Mastery Levels for DoD Personnel”",
+          "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk30",
           "speaker_id": "speaker25",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "BPC through Sociolinguistic Interoperability: 1. MSgt Fabricio Toscano 571 MSAS Mission Capabilities – Language Influence, Saber es Poder 2. Panel Dr. Adrian Roberts TSgt Dieudonne  Batawila “Language and Intercultural Communication in the Service of Interoperability: Forging Partnerships in Francophone Africa” 3. Mr. Mark David “Socio-Linguitic Interoperability”",
+          "location": "Husband Auditorium (SOS)"
+        }
+      ]
+    },
+
+
+    {
+      "time": "9:30-9:45",
+      "talks": [
+        {
+          "talk_id": "break15",
+          "talk_type_id": "break",
+          "title": "Break/Networking Time",
+          "description": "Break/Networking time"
+        }
+      ]
+    },
+
+
+    {
+      "time": "9:45-11:15",
+      "talks": [
+        {
+          "talk_id": "talk31",
+          "speaker_id": "speaker13",
+          "track_id": "track3",
+          "talk_type_id": "talkType1",
+          "title": "Cross-Cultural Competence (3C) Teaching",
+          "description": "Using Technology to Enhance Language Learning & Regional Knowledge /n 1. Panel /n Dr. Greg Weaver /n Mr. Zachary Johnston /n Ms. Amanda Guthrie /n “Use of Open Source Information to Augment Data Collection from Traditional Sources in Restricted Environments” /n 2. Mr. Tamas Marius /n “Improving Communication Skills and Interoperability using State-of-the-Art Language Apps” /n",
+          "location": "Polifka Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk32",
+          "speaker_id": "speaker25",
+          "track_id": "track4",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Reality Demonstrations",
+          "description": "LEAP 3: /n Capt Margarita Shields /n SSgt Khalil Chamma /n Air Force Member Wright",
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id":"talk27",
+          "talk_id": "talk33",
           "speaker_id": "speaker21",
           "track_id": "track3",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Cultural Knowledge for Enhanced Interoperability: 1. Maj Charlynne McGinnis “Understanding Culture Through a Country's National Anthem: A Cultural Competency Application 2. Dr. Rong Yuan “Intercultural Rhetoric: Small or Big, Every Culture Matters”",
           "location": "SOS Room 2250 (Upstairs)"
-        }, {
-          "talk_id":"talk28",
+        },
+        {
+          "talk_id": "talk34",
           "speaker_id": "speaker81",
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Regional Affairs Europe",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Communicative Competence & Cultural Knowledge: focus on China and Chinese Language: 1. Dr. Xiu Zhang “From Cross Cultural Communication to Intercultural Competency - A Journey of Collective Transformation Learning” 2. Panel Ms. Jan-Hwa Chu /n Ms. Marina H. Sung “On teaching-and-learning conundrums as part of a model of bicultural foreign language education”",
           "location": "SOS Room 2253 (Upstairs)"
         }
       ]
     },
+
+
     {
-      "time": "11:15-12:15",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Lunch",
-        "description": "1.5-hr Lunch"
-      }]
-    },
-    {
-      "time": "12:15-13:15",
-      "talks": [{
-        "talk_id":"talk29",
-          "speaker_id": "speaker52",
-          "track_id": "track0",
-          "talk_type_id": "talkType2",
-          "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
-          "location": "SOS Foyer and Husband Lounge Area"
-        },
+      "time": "11:15-12:30",
+      "talks": [
         {
-          "talk_id":"talk30",
+          "talk_id": "talk35",
           "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Foyer and Husband Lounge Area"
-        }
-      ]
-    },
-    {
-      "time": "13:00-13:15",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Short Break",
-        "description": "Short Break"
-        }
-      ]
-    },
-    {
-      "time": "13:15-13:30",
-      "talks": [{
-        "talk_id":"talk31",
-          "speaker_id": "speaker52",
-          "track_id": "track0",
-          "talk_type_id": "talkType1",
-          "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
-          "location": "SOS Foyer and Husband Lounge Area"
-        },
-        {
-          "talk_id":"talk11",
-          "speaker_id": "speaker85",
-          "track_id": "track4",
-          "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Ms. Cara Aghajanian Director Air Force Language, Regional Expertise and Culture Office and Mr. Howard Ward, Director, Air Force Culture and Language Center",
           "location": "SOS Foyer and Husband Lounge Area"
         }
       ]
