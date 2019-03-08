@@ -732,7 +732,7 @@
       "talks": [
         {
           "talk_id": "talk1",
-          "speaker_id": "speaker69, speaker77",
+          "speaker_id": "speaker69",
           "track_id": "track1",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
@@ -771,7 +771,7 @@
       "talks": [
         {
           "talk_id": "talk4",
-          "speaker_id": "speaker12, speaker32, speaker21",
+          "speaker_id": "speaker12",
           "track_id": "track3",
           "talk_type_id": "talkType3",
           "title": "1. Panel Lt Col Andrew Allen Dr. Selam Alemayo African Partner Outbreak Response Alliance (APORA) and Cultural Interactionn 2. Maj Oliver Talbott “Inter-cultural operability inside MINUSMA; the United Nations most dangerous mission 3. Ms. Susan Alaniz “US Military Assistance and Development”",
@@ -780,7 +780,7 @@
         },
         {
           "talk_id": "talk5",
-          "speaker_id": "speaker27, speaker19, speaker13",
+          "speaker_id": "speaker27",
           "track_id": "track4",
           "talk_type_id": "talkType1",
           "title": "Virtual Reality Demonstrations",
@@ -839,7 +839,7 @@
       "talks": [
         {
           "talk_id": "talk10",
-          "speaker_id": "speaker53, speaker22, speaker46",
+          "speaker_id": "speaker53",
           "track_id": "track0",
           "talk_type_id": "talkType2",
           "title": "Regional Affairs Europe",
@@ -848,7 +848,7 @@
         },
         {
           "talk_id": "talk11",
-          "speaker_id": "speaker86, speaker32",
+          "speaker_id": "speaker86",
           "track_id": "track4",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
@@ -857,7 +857,7 @@
         },
         {
           "talk_id": "talk10",
-          "speaker_id": "speaker53, speaker22, speaker46",
+          "speaker_id": "speaker53",
           "track_id": "track0",
           "talk_type_id": "talkType2",
           "title": "Regional Affairs Europe",
@@ -1121,7 +1121,7 @@
         },
         {
           "talk_id": "talk23",
-          "speaker_id": "speaker85,",
+          "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1130,7 +1130,7 @@
         },
         {
           "talk_id": "talk23",
-          "speaker_id": "speaker85,",
+          "speaker_id": "speaker8",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1139,7 +1139,7 @@
         },
         {
           "talk_id": "talk23",
-          "speaker_id": "speaker85,",
+          "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1164,7 +1164,7 @@
       "talks": [
         {
           "talk_id": "talk23",
-          "speaker_id": "speaker85,speaker32, speaker45",
+          "speaker_id": "speaker32",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1175,7 +1175,7 @@
     },
     {
       "talk_id": "talk26",
-      "speaker_id": "speaker25, speaker22",
+      "speaker_id": "speaker22",
       "track_id": "track4",
       "talk_type_id": "talkType2",
       "title": "Virtual Reality Demonstrations",
@@ -1207,7 +1207,7 @@
       "talks": [
         {
           "talk_id": "talk25",
-          "speaker_id": "speaker13,speaker14,speaker15,speaker16,speaker17",
+          "speaker_id": "speaker13",
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
