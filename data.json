@@ -840,10 +840,6 @@
         {
           "talk_id": "talk10",
           "speaker_id": "speaker53",
-<<<<<<< HEAD
-          "speaker_ids": ["speaker53"],
-=======
->>>>>>> parent of b6bc9b7... update for speaker_ids
           "track_id": "track0",
           "talk_type_id": "talkType2",
           "title": "Regional Affairs Europe",
