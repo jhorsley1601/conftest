@@ -729,11 +729,11 @@
       "time": "8:00-8:15 ",
       "talks": [{
         "talk_id":"talk1",
-        "speaker_id": "speaker91",
+        "speaker_id": "speaker69, speaker77",
         "track_id": "track1",
         "talk_type_id": "talkType1",
         "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "Air University Commander/President and Mr. Howard Ward AFCLC Director LeMay Center Commander and Vice Commander, Air University",
+        "description": "All Instruments of National Power Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability",
         "location": "Polifka Auditorium (SOS)"
         }]
     },
@@ -906,7 +906,7 @@
       }]
     },
     {
-      "time": "7:30-12:00",
+      "time": "7:30-12:30",
       "talks": [{
         "talk_id":"break20",
         "talk_type_id": "break",
@@ -916,7 +916,7 @@
       }]
     },
     {
-      "time": "8:00-9:45 ",
+      "time": "8:00-9:30",
       "talks": [{
         "talk_id":"talk14",
         "speaker_id": "speaker12",
@@ -928,7 +928,7 @@
         }]
     },
     {
-      "time": "9:45-10:15 ",
+      "time": "9:30-10:00",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -938,7 +938,7 @@
       ]
     },
     {
-      "time": "10:15-11:45",
+      "time": "10:00-11:30",
       "talks": [{
         "talk_id":"talk15",
           "speaker_id": "speaker33",
@@ -977,7 +977,7 @@
       ]
     },
     {
-      "time": "11:45-13:15",
+      "time": "11:30-12:30",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -986,7 +986,7 @@
       }]
     },
     {
-      "time": "13:15-14:45",
+      "time": "12:30-14:00",
       "talks": [{
         "talk_id":"talk19",
         "speaker_id": "speaker23",
@@ -998,7 +998,7 @@
       }]
     },
     {
-      "time": "14:45-15:15",
+      "time": "14:00-14:30",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -1007,7 +1007,7 @@
       }]
     },
     {
-      "time": "15:15-16:45",
+      "time": "14:30-16:00",
       "talks": [{
         "talk_id":"talk20",
           "speaker_id": "speaker42",
@@ -1029,7 +1029,7 @@
       ]
     },
     {
-      "time": "16:45-17:00",
+      "time": "16:00-16:30",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -1039,7 +1039,7 @@
       ]
     },
     {
-      "time": "17:00-18:30 ",
+      "time": "16:30-18:30 ",
       "talks": [{
         "talk_id":"talk22",
         "dayId": "2",
@@ -1052,7 +1052,7 @@
         },
         {
           "talk_id":"talk23",
-          "speaker_id": "speaker85",
+          "speaker_id": "speaker85,",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1072,19 +1072,37 @@
       }]
     },
     {
-      "time": "8:00-9:45 ",
+      "time": "8:00-9:30 ",
       "talks": [{
-        "talk_id":"talk24",
-        "speaker_id": "speaker31",
-        "track_id": "track1",
-        "talk_type_id": "talkType3",
-        "title": "Cross-Cultural Competence (3C) Teaching",
-        "description": "With virtual reality, the best part is that one gets to travel places without even moving. The appeal of the technology is that it redefines the social needs and helps the individual in completely escaping reality.",
-        "location": "TLC Idea Lab Room 229 "
+        "talk_id":"talk23",
+        "speaker_id": "speaker85,speaker32, speaker45",
+        "track_id": "track4",
+        "talk_type_id": "talkType2",
+        "title": "Language Teaching Strategies",
+        "description": "New Directions in Language Programs: 1. Dr. Barak Salmoni “All Instruments of National Power: Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability 2. Dr. Thomas Stovicek “Exploring language mentorship as an option for life-long LREC development”  3. Dr. Andrei Aleiniko “A Paradigm Shift: In Search of a Breakthrough Approach to Inter(Cultural)Operability”",
+        "location": "SOS Foyer and Husband Lounge Area"
         }]
     },
     {
-      "time": "9:45-10:15",
+      "talk_id":"talk26",
+      "speaker_id": "speaker25, speaker22",
+      "track_id": "track4",
+      "talk_type_id": "talkType2",
+      "title": "Virtual Reality Demonstrations",
+      "description": "Needs Analysis and Measurement for LREC Competence: 1. Mr. Matthew McMahan “Culture Implications to Enlisted Professional Development in Partner Nation Militaries” 2. Dr. Louise Rasmussen “General Cultural Competence: Mastery Levels for DoD Personnel”",
+      "location": "Husband Auditorium (SOS)"
+    },
+    {
+      "talk_id":"talk26",
+      "speaker_id": "speaker25",
+      "track_id": "track4",
+      "talk_type_id": "talkType2",
+      "title": "Virtual Reality Demonstrations",
+      "description": "BPC through Sociolinguistic Interoperability: 1. MSgt Fabricio Toscano 571 MSAS Mission Capabilities – Language Influence, Saber es Poder 2. Panel Dr. Adrian Roberts TSgt Dieudonne  Batawila “Language and Intercultural Communication in the Service of Interoperability: Forging Partnerships in Francophone Africa” 3. Mr. Mark David “Socio-Linguitic Interoperability”",
+      "location": "Husband Auditorium (SOS)"
+    },
+    {
+      "time": "9:30-9:45",
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
@@ -1094,14 +1112,14 @@
       ]
     },
     {
-      "time": "10:15-11:15",
+      "time": "9:45-11:15",
       "talks": [{
         "talk_id":"talk25",
-          "speaker_id": "speaker13",
+          "speaker_id": "speaker13,speaker14,speaker15,speaker16,speaker17",
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Using Technology to Enhance Language Learning & Regional Knowledge /n 1. Panel /n Dr. Greg Weaver /n Mr. Zachary Johnston /n Ms. Amanda Guthrie /n “Use of Open Source Information to Augment Data Collection from Traditional Sources in Restricted Environments” /n 2. Mr. Tamas Marius /n “Improving Communication Skills and Interoperability using State-of-the-Art Language Apps” /n",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1110,7 +1128,7 @@
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "LEAP 3: /n Capt Margarita Shields /n SSgt Khalil Chamma /n Air Force Member Wright",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1119,7 +1137,7 @@
           "track_id": "track3",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Cultural Knowledge for Enhanced Interoperability: 1. Maj Charlynne McGinnis “Understanding Culture Through a Country's National Anthem: A Cultural Competency Application 2. Dr. Rong Yuan “Intercultural Rhetoric: Small or Big, Every Culture Matters”",
           "location": "SOS Room 2250 (Upstairs)"
         }, {
           "talk_id":"talk28",
@@ -1127,70 +1145,20 @@
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Regional Affairs Europe",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Communicative Competence & Cultural Knowledge: focus on China and Chinese Language: 1. Dr. Xiu Zhang “From Cross Cultural Communication to Intercultural Competency - A Journey of Collective Transformation Learning” 2. Panel Ms. Jan-Hwa Chu /n Ms. Marina H. Sung “On teaching-and-learning conundrums as part of a model of bicultural foreign language education”",
           "location": "SOS Room 2253 (Upstairs)"
         }
       ]
     },
     {
-      "time": "11:15-12:15",
+      "time": "11:15-12:30",
       "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Lunch",
-        "description": "1.5-hr Lunch"
-      }]
-    },
-    {
-      "time": "12:15-13:15",
-      "talks": [{
-        "talk_id":"talk29",
-          "speaker_id": "speaker52",
-          "track_id": "track0",
-          "talk_type_id": "talkType2",
-          "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
-          "location": "SOS Foyer and Husband Lounge Area"
-        },
-        {
           "talk_id":"talk30",
           "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Foyer and Husband Lounge Area"
-        }
-      ]
-    },
-    {
-      "time": "13:00-13:15",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Short Break",
-        "description": "Short Break"
-        }
-      ]
-    },
-    {
-      "time": "13:15-13:30",
-      "talks": [{
-        "talk_id":"talk31",
-          "speaker_id": "speaker52",
-          "track_id": "track0",
-          "talk_type_id": "talkType1",
-          "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
-          "location": "SOS Foyer and Husband Lounge Area"
-        },
-        {
-          "talk_id":"talk11",
-          "speaker_id": "speaker85",
-          "track_id": "track4",
-          "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+          "description": "Ms. Cara Aghajanian Director Air Force Language, Regional Expertise and Culture Office and Mr. Howard Ward, Director, Air Force Culture and Language Center",
           "location": "SOS Foyer and Husband Lounge Area"
         }
       ]
