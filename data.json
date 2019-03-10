@@ -706,16 +706,16 @@
 
   "schedule": [
     {
-      "time": "",
-      "talks": [
-        {
-          "talk_id": "break1",
-          "talk_type_id": "break",
-          "title": "Day 1",
-          "description": ""
-        }
-      ]
+      "time": "Day",
+      "talks": [{
+        "talk_id":"break1",
+        "talk_type_id": "break",
+        "title": "Day 1",
+        "description": ""
+      }]
     },
+
+
     {
       "time": "7:30-12:30",
       "talks": [
@@ -727,6 +727,8 @@
         }
       ]
     },
+
+
     {
       "time": "8:00-8:15",
       "talks": [
@@ -741,13 +743,14 @@
         }
       ]
     },
+
+
     {
       "time": "8:15-9:15",
       "talks": [
         {
           "talk_id": "talk2",
           "speaker_id": "speaker91",
-          "speaker_ids": ["speaker91"],
           "track_id": "track1",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
@@ -756,6 +759,8 @@
         }
       ]
     },
+
+
     {
       "time": "9:15-9:30",
       "talks": [
@@ -767,13 +772,14 @@
         }
       ]
     },
+
+
     {
       "time": "9:30-11:00",
       "talks": [
         {
           "talk_id": "talk3",
-          "speaker_id": "speaker14",
-          "speaker_ids": ["speaker14"],
+          "speaker_id": "speaker12",
           "track_id": "track3",
           "talk_type_id": "talkType3",
           "title": "1. Panel Lt Col Andrew Allen Dr. Selam Alemayo African Partner Outbreak Response Alliance (APORA) and Cultural Interactionn 2. Maj Oliver Talbott “Inter-cultural operability inside MINUSMA; the United Nations most dangerous mission 3. Ms. Susan Alaniz “US Military Assistance and Development”",
@@ -783,7 +789,6 @@
         {
           "talk_id": "talk4",
           "speaker_id": "speaker27",
-          "speaker_ids": ["speaker27"],
           "track_id": "track4",
           "talk_type_id": "talkType1",
           "title": "Virtual Reality Demonstrations",
@@ -793,7 +798,6 @@
         {
           "talk_id": "talk5",
           "speaker_id": "speaker20",
-          "speaker_ids": ["speaker20"],
           "track_id": "track3",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -802,6 +806,8 @@
         }
       ]
     },
+
+
     {
       "time": "11:00-12:00",
       "talks": [
@@ -813,13 +819,14 @@
         }
       ]
     },
+
+
     {
       "time": "12:00-13:30",
       "talks": [
         {
           "talk_id": "talk6",
           "speaker_id": "speaker64",
-          "speaker_ids": ["speaker64"],
           "track_id": "track5",
           "talk_type_id": "talkType1",
           "title": "Language Teaching Strategies",
@@ -828,6 +835,8 @@
         }
       ]
     },
+
+
     {
       "time": "13:30-14:00",
       "talks": [
@@ -839,13 +848,14 @@
         }
       ]
     },
+
+
     {
       "time": "14:00-15:30",
       "talks": [
         {
           "talk_id": "talk7",
           "speaker_id": "speaker53",
-          "speaker_ids": ["speaker53"],
           "track_id": "track0",
           "talk_type_id": "talkType2",
           "title": "Regional Affairs Europe",
@@ -855,7 +865,6 @@
         {
           "talk_id": "talk8",
           "speaker_id": "speaker86",
-          "speaker_ids": ["speaker86"],
           "track_id": "track4",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
@@ -865,7 +874,6 @@
         {
           "talk_id": "talk9",
           "speaker_id": "speaker53",
-          "speaker_ids": ["speaker53"],
           "track_id": "track0",
           "talk_type_id": "talkType2",
           "title": "Regional Affairs Europe",
@@ -874,6 +882,8 @@
         }
       ]
     },
+
+
     {
       "time": "15:30-16:00",
       "talks": [
@@ -885,13 +895,14 @@
         }
       ]
     },
+
+
     {
       "time": "16:00-17:30",
       "talks": [
         {
           "talk_id": "talk10",
           "speaker_id": "speaker57",
-          "speaker_ids": ["speaker57"],
           "track_id": "track0",
           "talk_type_id": "talkType1",
           "title": "Regional Affairs Europe",
@@ -901,7 +912,6 @@
         {
           "talk_id": "talk11",
           "speaker_id": "speaker69",
-          "speaker_ids": ["speaker69"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -910,6 +920,8 @@
         }
       ]
     },
+
+
     {
       "time": "17:30-18:30",
       "talks": [
@@ -922,8 +934,9 @@
       ]
     },
 
+
     {
-      "time": "",
+      "time": "Day",
       "talks": [
         {
           "talk_id": "break8",
@@ -933,6 +946,8 @@
         }
       ]
     },
+
+
     {
       "time": "7:30-12:30",
       "talks": [
@@ -944,13 +959,14 @@
         }
       ]
     },
+
+
     {
       "time": "8:00-9:30",
       "talks": [
         {
           "talk_id": "talk12",
           "speaker_id": "speaker27",
-          "speaker_ids": ["speaker27"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
@@ -959,8 +975,7 @@
         }, 
         {
           "talk_id": "talk13",
-          "speaker_id": "speaker28",
-          "speaker_ids": ["speaker28"],
+          "speaker_id": "speaker27",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
@@ -969,8 +984,7 @@
         },
         {
           "talk_id": "talk14",
-          "speaker_id": "speaker26",
-          "speaker_ids": ["speaker26"],
+          "speaker_id": "speaker27",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
@@ -979,6 +993,8 @@
         }
       ]
     },
+
+
     {
       "time": "9:30-10:00",
       "talks": [
@@ -990,13 +1006,14 @@
         }
       ]
     },
+
+
     {
       "time": "10:00-11:30",
       "talks": [
         {
           "talk_id": "talk15",
           "speaker_id": "speaker33",
-          "speaker_ids": ["speaker33"],
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
@@ -1006,7 +1023,6 @@
         {
           "talk_id": "talk16",
           "speaker_id": "speaker27",
-          "speaker_ids": ["speaker27"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
@@ -1016,7 +1032,6 @@
         {
           "talk_id": "talk17",
           "speaker_id": "speaker20",
-          "speaker_ids": ["speaker20"],
           "track_id": "track3",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
@@ -1026,7 +1041,6 @@
         {
           "talk_id": "talk18",
           "speaker_id": "speaker80",
-          "speaker_ids": ["speaker80"],
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Regional Affairs Europe",
@@ -1035,6 +1049,8 @@
         }
       ]
     },
+
+
     {
       "time": "11:30-12:30",
       "talks": [
@@ -1046,13 +1062,14 @@
         }
       ]
     },
+
+
     {
       "time": "12:30-14:00",
       "talks": [
         {
           "talk_id": "talk19",
           "speaker_id": "speaker23",
-          "speaker_ids": ["speaker23"],
           "track_id": "track5",
           "talk_type_id": "talkType26",
           "title": "Language Teaching Strategies",
@@ -1061,6 +1078,8 @@
         }
       ]
     },
+
+
     {
       "time": "14:00-14:30",
       "talks": [
@@ -1072,13 +1091,14 @@
         }
       ]
     },
+
+
     {
       "time": "14:30-16:00",
       "talks": [
         {
           "talk_id": "talk20",
           "speaker_id": "speaker42",
-          "speaker_ids": ["speaker42"],
           "track_id": "track0",
           "talk_type_id": "talkType3",
           "title": "Regional Affairs Europe",
@@ -1088,7 +1108,6 @@
         {
           "talk_id": "talk21",
           "speaker_id": "speaker85",
-          "speaker_ids": ["speaker85"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1097,8 +1116,7 @@
         },
         {
           "talk_id": "talk22",
-          "speaker_id": "speaker82",
-          "speaker_ids": ["speaker82"],
+          "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1107,8 +1125,7 @@
         },
         {
           "talk_id": "talk23",
-          "speaker_id": "speaker80",
-          "speaker_ids": ["speaker80"],
+          "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1117,6 +1134,8 @@
         }
       ]
     },
+
+
     {
       "time": "16:00-16:30",
       "talks": [
@@ -1128,6 +1147,8 @@
         }
       ]
     },
+
+
     {
       "time": "16:30-18:00",
       "talks": [
@@ -1135,7 +1156,6 @@
           "talk_id": "talk24",
           "dayId": "2",
           "speaker_id": "speaker52",
-          "speaker_ids": ["speaker52"],
           "track_id": "track0",
           "talk_type_id": "talkType1",
           "title": "Regional Affairs Europe",
@@ -1144,8 +1164,7 @@
         },
         {
           "talk_id": "talk25",
-          "speaker_id": "speaker83",
-          "speaker_ids": ["speaker83"],
+          "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1155,7 +1174,6 @@
         {
           "talk_id": "talk26",
           "speaker_id": "speaker8",
-          "speaker_ids": ["speaker8"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1164,8 +1182,7 @@
         },
         {
           "talk_id": "talk27",
-          "speaker_id": "speaker1",
-          "speaker_ids": ["speaker1"],
+          "speaker_id": "speaker85",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1174,8 +1191,10 @@
         }
       ]
     },
+
+
     {
-      "time": "",
+      "time": "Day",
       "talks": [
         {
           "talk_id": "break14",
@@ -1185,13 +1204,14 @@
         }
       ]
     },
+
+
     {
       "time": "8:00-9:30",
       "talks": [
         {
           "talk_id": "talk28",
-          "speaker_id": "speaker69",
-          "speaker_ids": ["speaker69","speaker77", "speaker1"],
+          "speaker_id": "speaker32",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1201,7 +1221,6 @@
         {
           "talk_id": "talk29",
           "speaker_id": "speaker22",
-          "speaker_ids": ["speaker22", "speaker63"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
@@ -1210,8 +1229,7 @@
         },
         {
           "talk_id": "talk30",
-          "speaker_id": "speaker86",
-          "speaker_ids": ["speaker86", "speaker65", "speaker29"],
+          "speaker_id": "speaker25",
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
@@ -1220,6 +1238,8 @@
         }
       ]
     },
+
+
     {
       "time": "9:30-9:45",
       "talks": [
@@ -1231,13 +1251,14 @@
         }
       ]
     },
+
+
     {
       "time": "9:45-11:15",
       "talks": [
         {
           "talk_id": "talk31",
-          "speaker_id": "speaker89",
-          "speaker_ids": ["speaker89", "speaker40", "speaker33"],
+          "speaker_id": "speaker13",
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
@@ -1247,7 +1268,6 @@
         {
           "talk_id": "talk32",
           "speaker_id": "speaker25",
-          "speaker_ids": ["speaker25"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
@@ -1256,8 +1276,7 @@
         },
         {
           "talk_id": "talk33",
-          "speaker_id": "speaker49",
-          "speaker_ids": ["speaker49", "speaker4"],
+          "speaker_id": "speaker21",
           "track_id": "track3",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
@@ -1266,8 +1285,7 @@
         },
         {
           "talk_id": "talk34",
-          "speaker_id": "speaker7",
-          "speaker_ids": ["speaker7", "speaker27", "speaker79"],
+          "speaker_id": "speaker81",
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Regional Affairs Europe",
@@ -1276,18 +1294,19 @@
         }
       ]
     },
+
+
     {
       "time": "11:15-12:30",
       "talks": [
         {
           "talk_id": "talk35",
           "speaker_id": "speaker85",
-          "speaker_ids": ["speaker85"],
           "track_id": "track4",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
           "description": "Ms. Cara Aghajanian Director Air Force Language, Regional Expertise and Culture Office and Mr. Howard Ward, Director, Air Force Culture and Language Center",
-          "location": "Polifka Auditorium (SOS)"
+          "location": "SOS Foyer and Husband Lounge Area"
         }
       ]
     }
