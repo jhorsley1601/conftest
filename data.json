@@ -1191,7 +1191,7 @@
         {
           "talk_id": "talk28",
           "speaker_id": "speaker69",
-          "speaker_ids": ["speaker69,speaker77, speaker1 "],
+          "speaker_ids": ["speaker69","speaker77", "speaker1"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Language Teaching Strategies",
@@ -1201,7 +1201,7 @@
         {
           "talk_id": "talk29",
           "speaker_id": "speaker22",
-          "speaker_ids": ["speaker22, speaker63"],
+          "speaker_ids": ["speaker22", "speaker63"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
@@ -1211,7 +1211,7 @@
         {
           "talk_id": "talk30",
           "speaker_id": "speaker86",
-          "speaker_ids": ["speaker86, speaker65, speaker29"],
+          "speaker_ids": ["speaker86", "speaker65", "speaker29"],
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Virtual Reality Demonstrations",
@@ -1237,7 +1237,7 @@
         {
           "talk_id": "talk31",
           "speaker_id": "speaker89",
-          "speaker_ids": ["speaker89, speaker40, speaker33"],
+          "speaker_ids": ["speaker89", "speaker40", "speaker33"],
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
@@ -1257,7 +1257,7 @@
         {
           "talk_id": "talk33",
           "speaker_id": "speaker49",
-          "speaker_ids": ["speaker49, speaker4"],
+          "speaker_ids": ["speaker49", "speaker4"],
           "track_id": "track3",
           "talk_type_id": "talkType3",
           "title": "Language Teaching Strategies",
@@ -1267,7 +1267,7 @@
         {
           "talk_id": "talk34",
           "speaker_id": "speaker7",
-          "speaker_ids": ["speaker7, speaker27, speaker79"],
+          "speaker_ids": ["speaker7", "speaker27", "speaker79"],
           "track_id": "track3",
           "talk_type_id": "talkType1",
           "title": "Regional Affairs Europe",
