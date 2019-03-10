@@ -653,6 +653,7 @@
     }
   ],
 
+
   "tracks": [
     {
       "id": "track0",
@@ -735,6 +736,7 @@
         {
           "talk_id": "talk1",
           "speaker_id": "speaker69",
+          "speaker_ids": ["speaker69, speaker70"],
           "track_id": "track1",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
