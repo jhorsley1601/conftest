@@ -50,7 +50,7 @@
         {
           "talk_id": "talk1",
           "speaker_id": "speaker1",
-          "speaker_ids": "",
+          "speaker_ids": ["speaker1", "speaker3", "speaker4"],
           "track_id": "track0",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
