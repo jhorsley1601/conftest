@@ -712,7 +712,9 @@
         "talk_id":"break1",
         "talk_type_id": "break",
         "title": "Day 1",
-        "description": ""
+        "description": "",
+        "speaker_id": "",
+        "speaker_ids": []
       }]
     },
 
@@ -724,7 +726,9 @@
           "talk_id": "break2",
           "talk_type_id": "break",
           "title": "Check in and Late Registration",
-          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
+          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -770,7 +774,9 @@
           "talk_id": "break3",
           "talk_type_id": "break",
           "title": "Break/Networking Time",
-          "description": "Break/Networking time"
+          "description": "Break/Networking time",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -817,7 +823,9 @@
           "talk_id": "break4",
           "talk_type_id": "break",
           "title": "Lunch",
-          "description": "1.5-hr Lunch"
+          "description": "1.5-hr Lunch",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -846,7 +854,9 @@
           "talk_id": "break5",
           "talk_type_id": "break",
           "title": "Break Time",
-          "description": "Break/Networking time"
+          "description": "Break/Networking time",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -893,7 +903,9 @@
           "talk_id": "break6",
           "talk_type_id": "break",
           "title": "Short Break",
-          "description": "Evening Social - SOS Student Lounge Area"
+          "description": "Evening Social - SOS Student Lounge Area",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -931,7 +943,9 @@
           "talk_id": "break7",
           "talk_type_id": "break",
           "title": "Check in and Late Registration",
-          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
+          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -944,7 +958,9 @@
           "talk_id": "break8",
           "talk_type_id": "break",
           "title": "Day 2",
-          "description": ""
+          "description": "",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -957,7 +973,9 @@
           "talk_id": "break9",
           "talk_type_id": "break",
           "title": "Check in and Late Registration",
-          "description": "(Foyer of Polifka Auditorium)"
+          "description": "(Foyer of Polifka Auditorium)",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -1004,7 +1022,9 @@
           "talk_id": "break10",
           "talk_type_id": "break",
           "title": "Break/Networking Time",
-          "description": "Break/Networking time"
+          "description": "Break/Networking time",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -1060,7 +1080,9 @@
           "talk_id": "break11",
           "talk_type_id": "break",
           "title": "Lunch",
-          "description": "1.5-hr Lunch"
+          "description": "1.5-hr Lunch",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -1089,7 +1111,9 @@
           "talk_id": "break12",
           "talk_type_id": "break",
           "title": "Break Time",
-          "description": "Break/Networking time"
+          "description": "Break/Networking time",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -1145,7 +1169,9 @@
           "talk_id": "break13",
           "talk_type_id": "break",
           "title": "Short Break",
-          "description": "Short Break"
+          "description": "Short Break",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -1202,7 +1228,9 @@
           "talk_id": "break14",
           "talk_type_id": "break",
           "title": "Day 3",
-          "description": ""
+          "description": "",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
@@ -1249,7 +1277,9 @@
           "talk_id": "break15",
           "talk_type_id": "break",
           "title": "Break/Networking Time",
-          "description": "Break/Networking time"
+          "description": "Break/Networking time",
+          "speaker_id": "",
+          "speaker_ids": []
         }
       ]
     },
