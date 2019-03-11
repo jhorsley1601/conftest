@@ -45,35 +45,12 @@
 
   "schedule": [
     {
-      "time": "Day",
-      "talks": [{
-        "talk_id":"break1",
-        "talk_type_id": "break",
-        "title": "Day 1"
-      }]
-    },
-
-
-    {
-      "time": "7:30-12:30",
-      "talks": [
-        {
-          "talk_id": "break2",
-          "talk_type_id": "break",
-          "title": "Check in and Late Registration",
-          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
-        }
-      ]
-    },
-
-
-    {
       "time": "8:00-8:15",
       "talks": [
         {
           "talk_id": "talk1",
           "speaker_id": "speaker1",
-          "speaker_ids": ["speaker1", "speaker3"],
+          "speaker_ids": "",
           "track_id": "track0",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence (3C) Teaching",
