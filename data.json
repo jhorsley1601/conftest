@@ -713,7 +713,7 @@
 
 
     {
-      "time": "7:30-12:30",
+      "time": "7:30-12:30 - Break",
       "talks": [
         {
           "talk_id": "break2",
@@ -762,7 +762,7 @@
 
 
     {
-      "time": "9:15-9:30",
+      "time": "9:15-9:30 - Break",
       "talks": [
         {
           "talk_id": "break3",
@@ -814,7 +814,7 @@
 
 
     {
-      "time": "11:00-12:00",
+      "time": "11:00-12:00 - Break",
       "talks": [
         {
           "talk_id": "break4",
@@ -846,7 +846,7 @@
 
 
     {
-      "time": "13:30-14:00",
+      "time": "13:30-14:00 - Break",
       "talks": [
         {
           "talk_id": "break5",
@@ -898,7 +898,7 @@
 
 
     {
-      "time": "15:30-16:00",
+      "time": "15:30-16:00 - Break",
       "talks": [
         {
           "talk_id": "break6",
@@ -940,7 +940,7 @@
 
 
     {
-      "time": "17:30-18:30",
+      "time": "17:30-18:30 - Break",
       "talks": [
         {
           "talk_id": "break7",
@@ -970,7 +970,7 @@
 
 
     {
-      "time": "7:30-12:30",
+      "time": "7:30-12:30 - Break",
       "talks": [
         {
           "talk_id": "break9",
@@ -1022,7 +1022,7 @@
 
 
     {
-      "time": "9:30-10:00",
+      "time": "9:30-10:00 - Break",
       "talks": [
         {
           "talk_id": "break10",
@@ -1084,7 +1084,7 @@
 
 
     {
-      "time": "11:30-12:30",
+      "time": "11:30-12:30 - Break",
       "talks": [
         {
           "talk_id": "break11",
@@ -1116,7 +1116,7 @@
 
 
     {
-      "time": "14:00-14:30",
+      "time": "14:00-14:30 - Break",
       "talks": [
         {
           "talk_id": "break12",
@@ -1178,7 +1178,7 @@
 
 
     {
-      "time": "16:00-16:30",
+      "time": "16:00-16:30 - Break",
       "talks": [
         {
           "talk_id": "break13",
@@ -1293,7 +1293,7 @@
 
 
     {
-      "time": "9:30-9:45",
+      "time": "9:30-9:45 - Break",
       "talks": [
         {
           "talk_id": "break15",
