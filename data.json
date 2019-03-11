@@ -49,10 +49,7 @@
       "talks": [{
         "talk_id":"break1",
         "talk_type_id": "break",
-        "title": "Day 1",
-        "description": "",
-        "speaker_id": "",
-        "speaker_ids": []
+        "title": "Day 1"
       }]
     },
 
@@ -64,9 +61,7 @@
           "talk_id": "break2",
           "talk_type_id": "break",
           "title": "Check in and Late Registration",
-          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)",
-          "speaker_id": "",
-          "speaker_ids": []
+          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)"
         }
       ]
     },
