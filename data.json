@@ -1167,6 +1167,50 @@
           "title": "German Military Manning Challenges",
           "description": "",
           "location": "Husband Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk19",
+          "speaker_id": "speaker93",
+          "speaker_ids": ["speaker93"],
+          "track_id": "track6",
+          "talk_type_id": "talkType2",
+          "title": "The effect of Culture on Mission Success for ELTPs in Gulf Arab Countries and Afghanistan",
+          "description": "",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        },
+        {
+          "talk_id": "talk20",
+          "speaker_id": "speaker69",
+          "speaker_ids": ["speaker69"],
+          "track_id": "track6",
+          "talk_type_id": "talkType2",
+          "title": "The Difference in Gesticulation and Dialects in the Arab World",
+          "description": "",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        },
+        {
+          "talk_id": "talk21",
+          "speaker_id": "speaker57",
+          "speaker_ids": ["speaker57", "speaker35"],
+          "track_id": "track6",
+          "talk_type_id": "talkType2",
+          "title": "Role of Cultural Competence in Military Institution A Pragmatic Approach of Educational Computing in Class",
+          "description": "",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        },
+
+
+        {
+          "talk_id": "talk22",
+          "speaker_id": "speaker48",
+          "speaker_ids": ["speaker48", "speaker15", "speaker22"],
+          "track_id": "track6",
+          "talk_type_id": "talkType2",
+          "title": "2018 LEAP Cohort Study",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
         }
       ]
     },
