@@ -1333,7 +1333,7 @@
         "talk_id": "break9",
         "talk_type_id": "break",
         "title": "Check in and Late Registration",
-        "description": "(Foyer of Polifka Auditorium)",
+        "description": "Check in and Late Registration - (Foyer of Polifka Auditorium)",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1343,35 +1343,61 @@
     {
       "time": "8:00-9:30",
       "talks": [{
-          "talk_id": "talk18",
-          "speaker_id": "speaker27",
-          "speaker_ids": ["speaker27"],
-          "track_id": "track4",
+          "talk_id": "talk29",
+          "speaker_id": "speaker32",
+          "speaker_ids": ["speaker32", "speaker96", "speaker65", "speaker13", "speaker73"],
+          "track_id": "track12",
           "talk_type_id": "talkType2",
-          "title": "Virtual Reality Demonstrations",
-          "description": "Building Partner Capacity (BPC) 2: /n 1. Ms. Susan Alaniz /n “Building Partner Aviation Capability” /n 2. Panel /n Mr. William Herbert /n Lt Col Shane Hughes/n “Immersion as PME: the Olmsted Scholarship to the Operational Air Force”",
+          "title": "Personalized Linguist Training to Enhance Language Acquisition and Retention through Use of a Cognitive Model",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk30",
+          "speaker_id": "speaker67",
+          "speaker_ids": ["speaker67"],
+          "track_id": "track13",
+          "talk_type_id": "talkType2",
+          "title": "Portuñol: Building Relationships in Latin American",
+          "description": "",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        },
+        {
+          "talk_id": "talk31",
+          "speaker_id": "speaker82",
+          "speaker_ids": ["speaker82"],
+          "track_id": "track13",
+          "talk_type_id": "talkType2",
+          "title": "Arabic Diglossia: Implications for Military Interoperability",
+          "description": "",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        },
+
+
+        {
+          "talk_id": "talk32",
+          "speaker_id": "speaker39",
+          "speaker_ids": ["speaker39", "speaker60"],
+          "track_id": "track15",
+          "talk_type_id": "talkType2",
+          "title": "Translating Regional Expertise into Strategy",
+          "description": "",
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk19",
-          "speaker_id": "speaker27",
-          "speaker_ids": ["speaker27"],
-          "track_id": "track4",
+          "talk_id": "talk33",
+          "speaker_id": "speaker29",
+          "speaker_ids": ["speaker29"],
+          "track_id": "track15",
           "talk_type_id": "talkType2",
-          "title": "Virtual Reality Demonstrations",
-          "description": "Personalized Linguist Training: 1. Panel  Dr. Tiffany Jastrzembski Dr. Jack Harris Mr. Michael Krusmark Veda Setlur /n  Dr. Branka Sarac /n Ms. Julie Cantwell /n Capt Richard Uber /n MSgt Jesse High /n “Personalized Linguist Training to Enhance Language Acquisition and Retention through Use of a Cognitive Model”",
-          "location": "Husband Auditorium (SOS)"
+          "title": "Immersion as PME: the Olmstead Scholarship to the Operational Air Force",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
         },
-        {
-          "talk_id": "talk20",
-          "speaker_id": "speaker27",
-          "speaker_ids": ["speaker27"],
-          "track_id": "track4",
-          "talk_type_id": "talkType2",
-          "title": "Virtual Reality Demonstrations",
-          "description": "Language Variants’ Influence on LREC Programming: /n 1. Capt Kelly Schuetz /n “Portuñol: Building Relationships in Latin American”/n 2. Capt Philip Tice /n “Arabic Diglossia: Implications for Military Interoperability”",
-          "location": "SOS Rm. 2250 (Upstairs)"
-        }
+
+
       ]
     },
 
