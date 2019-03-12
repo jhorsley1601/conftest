@@ -751,7 +751,7 @@
 
 
     {
-      "time": "7:30-12:30 - Break",
+      "time": "7:00-12:30 - Break",
       "talks": [{
         "talk_id": "break2",
         "talk_type_id": "break",
@@ -764,7 +764,7 @@
 
 
     {
-      "time": "8:00-8:15",
+      "time": "8:00-8:05",
       "talks": [{
         "talk_id": "talk1",
         "speaker_id": "speaker69",
@@ -773,6 +773,21 @@
         "talk_type_id": "talkType1",
         "title": "Cross-Cultural Competence (3C) Teaching",
         "description": "All Instruments of National Power Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability",
+        "location": "Polifka Auditorium (SOS)"
+      }]
+    },
+
+
+    {
+      "time": "8:05-8:15",
+      "talks": [{
+        "talk_id": "talk2",
+        "speaker_id": "speaker91",
+        "speaker_ids": ["speaker91"],
+        "track_id": "track1",
+        "talk_type_id": "talkType1",
+        "title": "Cross-Cultural Competence (3C) Teaching",
+        "description": "Maj Gen Michael Rothstein, LeMay Center Commander and Vice Commander, Air University",
         "location": "Polifka Auditorium (SOS)"
       }]
     },
@@ -985,7 +1000,7 @@
 
 
     {
-      "time": "7:30-12:30 - Break",
+      "time": "7:00-12:30 - Break",
       "talks": [{
         "talk_id": "break9",
         "talk_type_id": "break",
@@ -1302,7 +1317,7 @@
 
 
     {
-      "time": "9:45-11:15",
+      "time": "9:45-10:45",
       "talks": [{
           "talk_id": "talk31",
           "speaker_id": "speaker13",
@@ -1348,7 +1363,20 @@
 
 
     {
-      "time": "11:15-12:30",
+      "time": "10:45-11:00 - Break",
+      "talks": [{
+        "talk_id": "break15",
+        "talk_type_id": "break",
+        "title": "Break/Networking Time",
+        "description": "Break/Networking time",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
+    },
+
+
+    {
+      "time": "11:00-12:00",
       "talks": [{
         "talk_id": "talk35",
         "speaker_id": "speaker85",
