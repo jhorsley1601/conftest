@@ -912,7 +912,7 @@
       "time": "8:00-8:05",
       "talks": [{
         "talk_id": "talk1",
-        "speaker_id": "",
+        "speaker_id": "speaker22",
         "speaker_ids": ["speaker22"],
         "track_id": "track34",
         "talk_type_id": "talkType1",
@@ -927,7 +927,7 @@
       "time": "8:05-8:15",
       "talks": [{
         "talk_id": "talk2",
-        "speaker_id": "",
+        "speaker_id": "speaker87",
         "speaker_ids": ["speaker87"],
         "track_id": "track34",
         "talk_type_id": "talkType1",
@@ -942,7 +942,7 @@
       "time": "8:15-9:15",
       "talks": [{
         "talk_id": "talk3",
-        "speaker_id": "",
+        "speaker_id": "speaker62",
         "speaker_ids": ["speaker62"],
         "track_id": "track34",
         "talk_type_id": "talkType1",
@@ -973,7 +973,7 @@
         
         {
           "talk_id": "talk4",
-          "speaker_id": "",
+          "speaker_id": "speaker6",
           "speaker_ids": ["speaker6", "speaker5"],
           "track_id": "track0",
           "talk_type_id": "talkType3",
@@ -983,7 +983,7 @@
         },
         {
           "talk_id": "talk5",
-          "speaker_id": "",
+          "speaker_id": "speaker4",
           "speaker_ids": ["speaker4"],
           "track_id": "track0",
           "talk_type_id": "talkType1",
@@ -993,7 +993,7 @@
         },
         {
           "talk_id": "talk6",
-          "speaker_id": "",
+          "speaker_id": "speaker20",
           "speaker_ids": ["speaker20"],
           "track_id": "track0",
           "talk_type_id": "talkType2",
@@ -1005,7 +1005,7 @@
         
         {
           "talk_id": "talk7",
-          "speaker_id": "",
+          "speaker_id": "speaker71",
           "speaker_ids": ["speaker71"],
           "track_id": "track1",
           "talk_type_id": "talkType3",
@@ -1015,7 +1015,7 @@
         },
         {
           "talk_id": "talk8",
-          "speaker_id": "",
+          "speaker_id": "speaker42",
           "speaker_ids": ["speaker42"],
           "track_id": "track1",
           "talk_type_id": "talkType1",
@@ -1025,7 +1025,7 @@
         },
         {
           "talk_id": "talk9",
-          "speaker_id": "",
+          "speaker_id": "speaker20",
           "speaker_ids": ["speaker20"],
           "track_id": "track1",
           "talk_type_id": "talkType2",
@@ -1037,7 +1037,7 @@
         
         {
           "talk_id": "talk10",
-          "speaker_id": "",
+          "speaker_id": "speaker13",
           "speaker_ids": ["speaker13"],
           "track_id": "track2",
           "talk_type_id": "talkType2",
@@ -1049,7 +1049,7 @@
         
         {
           "talk_id": "talk11",
-          "speaker_id": "",
+          "speaker_id": "speaker70",
           "speaker_ids": ["speaker70"],
           "track_id": "track3",
           "talk_type_id": "talkType2",
