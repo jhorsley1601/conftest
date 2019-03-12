@@ -1931,44 +1931,48 @@
     {
       "time": "9:45-10:45",
       "talks": [{
-          "talk_id": "talk37",
-          "speaker_id": "speaker13",
-          "speaker_ids": ["speaker13"],
-          "track_id": "track3",
+          "talk_id": "talk73",
+          "speaker_id": "speaker89",
+          "speaker_ids": ["speaker89", "speaker34", "speaker26"],
+          "track_id": "track31",
           "talk_type_id": "talkType1",
-          "title": "Cross-Cultural Competence (3C) Teaching",
-          "description": "Using Technology to Enhance Language Learning & Regional Knowledge /n 1. Panel /n Dr. Greg Weaver /n Mr. Zachary Johnston /n Ms. Amanda Guthrie /n “Use of Open Source Information to Augment Data Collection from Traditional Sources in Restricted Environments” /n 2. Mr. Tamas Marius /n “Improving Communication Skills and Interoperability using State-of-the-Art Language Apps” /n",
+          "title": "Use of Open Source Information to Augment Data Collection from Traditional Sources in Restricted Environments",
+          "description": "",
           "location": "Polifka Auditorium (SOS)"
         },
+
+
         {
-          "talk_id": "talk38",
-          "speaker_id": "speaker25",
-          "speaker_ids": ["speaker25"],
-          "track_id": "track4",
+          "talk_id": "talk74",
+          "speaker_id": "speaker44",
+          "speaker_ids": ["speaker44"],
+          "track_id": "track32",
           "talk_type_id": "talkType2",
-          "title": "Virtual Reality Demonstrations",
-          "description": "LEAP 3: /n Capt Margarita Shields /n SSgt Khalil Chamma /n Air Force Member Wright",
-          "location": "Husband Auditorium (SOS)"
-        },
-        {
-          "talk_id": "talk39",
-          "speaker_id": "speaker21",
-          "speaker_ids": ["speaker21"],
-          "track_id": "track3",
-          "talk_type_id": "talkType3",
-          "title": "Language Teaching Strategies",
-          "description": "Cultural Knowledge for Enhanced Interoperability: 1. Maj Charlynne McGinnis “Understanding Culture Through a Country's National Anthem: A Cultural Competency Application 2. Dr. Rong Yuan “Intercultural Rhetoric: Small or Big, Every Culture Matters”",
+          "title": "Understanding Culture Through A Country's National Anthem: A Cultural Competency Application",
+          "description": "",
           "location": "SOS Room 2250 (Upstairs)"
         },
         {
-          "talk_id": "talk40",
-          "speaker_id": "speaker81",
-          "speaker_ids": ["speaker81"],
-          "track_id": "track3",
+          "talk_id": "talk75",
+          "speaker_id": "speaker96",
+          "speaker_ids": ["speaker96"],
+          "track_id": "track32",
+          "talk_type_id": "talkType3",
+          "title": "Intercultural Rhetoric: Small or Big, Every Culture Matters",
+          "description": "",
+          "location": "SOS Room 2250 (Upstairs)"
+        },
+
+
+        {
+          "talk_id": "talk76",
+          "speaker_id": "speaker16",
+          "speaker_ids": ["speaker16", "speaker78"],
+          "track_id": "track33",
           "talk_type_id": "talkType1",
-          "title": "Regional Affairs Europe",
-          "description": "Communicative Competence & Cultural Knowledge: focus on China and Chinese Language: 1. Dr. Xiu Zhang “From Cross Cultural Communication to Intercultural Competency - A Journey of Collective Transformation Learning” 2. Panel Ms. Jan-Hwa Chu /n Ms. Marina H. Sung “On teaching-and-learning conundrums as part of a model of bicultural foreign language education”",
-          "location": "SOS Room 2253 (Upstairs)"
+          "title": "On teaching-and-learning conundrums as part of a model of bicultural foreign language education",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
         }
       ]
     },
@@ -1991,13 +1995,13 @@
       "time": "11:00-12:00",
       "talks": [{
         "talk_id": "talk41",
-        "speaker_id": "speaker85",
-        "speaker_ids": ["speaker85"],
-        "track_id": "track4",
+        "speaker_id": "speaker3",
+        "speaker_ids": ["speaker3", "speaker87"],
+        "track_id": "track34",
         "talk_type_id": "talkType3",
-        "title": "Language Teaching Strategies",
-        "description": "Ms. Cara Aghajanian Director Air Force Language, Regional Expertise and Culture Office and Mr. Howard Ward, Director, Air Force Culture and Language Center",
-        "location": "SOS Foyer and Husband Lounge Area"
+        "title": "Closing Remarks",
+        "description": "",
+        "location": "Polifka Auditorium (SOS)"
       }]
     }
   ]
