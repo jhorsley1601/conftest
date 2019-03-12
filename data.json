@@ -1818,34 +1818,98 @@
     {
       "time": "8:00-9:30",
       "talks": [{
-          "talk_id": "talk34",
-          "speaker_id": "speaker32",
-          "speaker_ids": ["speaker32"],
-          "track_id": "track4",
+          "talk_id": "talk64",
+          "speaker_id": "speaker64",
+          "speaker_ids": ["speaker64"],
+          "track_id": "track28",
           "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "New Directions in Language Programs: 1. Dr. Barak Salmoni “All Instruments of National Power: Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability 2. Dr. Thomas Stovicek “Exploring language mentorship as an option for life-long LREC development”  3. Dr. Andrei Aleiniko “A Paradigm Shift: In Search of a Breakthrough Approach to Inter(Cultural)Operability”",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "All instruments of National Power: Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk35",
-          "speaker_id": "speaker22",
-          "speaker_ids": ["speaker22"],
-          "track_id": "track4",
+          "talk_id": "talk65",
+          "speaker_id": "speaker77",
+          "speaker_ids": ["speaker77"],
+          "track_id": "track28",
           "talk_type_id": "talkType2",
-          "title": "Virtual Reality Demonstrations",
-          "description": "Needs Analysis and Measurement for LREC Competence: 1. Mr. Matthew McMahan “Culture Implications to Enlisted Professional Development in Partner Nation Militaries” 2. Dr. Louise Rasmussen “General Cultural Competence: Mastery Levels for DoD Personnel”",
+          "title": "Exploring language mentorship as an option for life-long LREC development",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk66",
+          "speaker_id": "speaker45",
+          "speaker_ids": ["speaker45"],
+          "track_id": "track28",
+          "talk_type_id": "talkType2",
+          "title": "Culture Implications to Enlisted Professional Development in Partner Nation Militaries",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk67",
+          "speaker_id": "speaker63",
+          "speaker_ids": ["speaker63"],
+          "track_id": "track29",
+          "talk_type_id": "talkType2",
+          "title": "LEAP to Attache",
+          "description": "",
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk36",
-          "speaker_id": "speaker25",
-          "speaker_ids": ["speaker25"],
-          "track_id": "track4",
+          "talk_id": "talk68",
+          "speaker_id": "speaker91",
+          "speaker_ids": ["speaker91"],
+          "track_id": "track29",
           "talk_type_id": "talkType2",
-          "title": "Virtual Reality Demonstrations",
-          "description": "BPC through Sociolinguistic Interoperability: 1. MSgt Fabricio Toscano 571 MSAS Mission Capabilities – Language Influence, Saber es Poder 2. Panel Dr. Adrian Roberts TSgt Dieudonne  Batawila “Language and Intercultural Communication in the Service of Interoperability: Forging Partnerships in Francophone Africa” 3. Mr. Mark David “Socio-Linguitic Interoperability”",
+          "title": "Title TBD",
+          "description": "",
           "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk69",
+          "speaker_id": "speaker94",
+          "speaker_ids": ["speaker94"],
+          "track_id": "track29",
+          "talk_type_id": "talkType2",
+          "title": "Title TBD",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk70",
+          "speaker_id": "speaker83",
+          "speaker_ids": ["speaker83"],
+          "track_id": "track30",
+          "talk_type_id": "talkType2",
+          "title": "571 MSAS Mission Capabilities - Language Influence, Saber es Poder",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
+        },
+        {
+          "talk_id": "talk71",
+          "speaker_id": "speaker59",
+          "speaker_ids": ["speaker59", "speaker8"],
+          "track_id": "track30",
+          "talk_type_id": "talkType2",
+          "title": "Language and Intercultural Communication in the Service of Interoperability: Forging Partnerships in Francophone Africa",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
+        },
+        {
+          "talk_id": "talk72",
+          "speaker_id": "speaker19",
+          "speaker_ids": ["speaker19"],
+          "track_id": "track30",
+          "talk_type_id": "talkType2",
+          "title": "Socio-Linguistic Interoperability",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
         }
       ]
     },
