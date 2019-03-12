@@ -946,7 +946,7 @@
         "speaker_ids": ["speaker62"],
         "track_id": "track34",
         "talk_type_id": "talkType1",
-        "title": "Keynote",
+        "title": "Welcome to Air University",
         "description": "Maj Gen Michael Rothstein, LeMay Center Commander and Vice Commander, Air University",
         "location": "Polifka Auditorium (SOS)"
       }]
@@ -1056,6 +1056,26 @@
           "title": "Duties of American Service and Citizenship",
           "description": "",
           "location": "Library Auditorium, Rm. 170"
+        },
+        {
+          "talk_id": "talk12",
+          "speaker_id": "speaker14",
+          "speaker_ids": ["speaker14"],
+          "track_id": "track3",
+          "talk_type_id": "talkType2",
+          "title": "Enhancing Relations & Lethality Through Language",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
+        },
+        {
+          "talk_id": "talk13",
+          "speaker_id": "speaker24",
+          "speaker_ids": ["speaker24"],
+          "track_id": "track3",
+          "talk_type_id": "talkType2",
+          "title": "How LREC Knowledge Can Enchance Exercises and Operations with Global Partners",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
         }
 
 
@@ -1079,14 +1099,14 @@
     {
       "time": "12:00-13:30",
       "talks": [{
-        "talk_id": "talk12",
-        "speaker_id": "speaker64",
-        "speaker_ids": ["speaker64"],
-        "track_id": "track5",
+        "talk_id": "talk14",
+        "speaker_id": "speaker1",
+        "speaker_ids": ["speaker1"],
+        "track_id": "track34",
         "talk_type_id": "talkType1",
-        "title": "Language Teaching Strategies",
-        "description": "BGen Robert Sofge, Jr., Deputy Commander - U. S. Marine Corps Forces, Pacific",
-        "location": "Library Room 150"
+        "title": "ISIS & Antiquities Trafficking: Al-Qaeda 2.0",
+        "description": "Keynote - BGen Robert Sofge, Jr., Deputy Commander - U. S. Marine Corps Forces, Pacific",
+        "location": "Polifka Auditorium (SOS)"
       }]
     },
 
@@ -1107,34 +1127,46 @@
     {
       "time": "14:00-15:30",
       "talks": [{
-          "talk_id": "talk13",
-          "speaker_id": "speaker53",
-          "speaker_ids": ["speaker53"],
-          "track_id": "track0",
+          "talk_id": "talk15",
+          "speaker_id": "speaker97",
+          "speaker_ids": ["speaker97"],
+          "track_id": "track4",
           "talk_type_id": "talkType2",
-          "title": "Regional Affairs Europe",
-          "description": "Regional Knowledge to Enhance Global Security 1. Dr. Jonathan Zartman “Cultural Knowledge to Defend against Terrorism” 2. Panel MAJ (ret.) Ben Lowsen Capt Nick Romero “Translating Regional Expertise into Strategy” 3. Mr. Robert Miltersen  “Inter-cultural Implications of the Coming Conflict with China”",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "Cultural Knowledge to Defend against Terrorism",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk14",
-          "speaker_id": "speaker86",
-          "speaker_ids": ["speaker86"],
+          "talk_id": "talk16",
+          "speaker_id": "speaker37",
+          "speaker_ids": ["speaker37", "speaker84"],
           "track_id": "track4",
           "talk_type_id": "talkType3",
-          "title": "Language Teaching Strategies",
-          "description": "Technology in the Language Classroom: 1. Panel Dr. Sandra Schoder Maj Peter Swinson “Exploring Language & Culture through Virtual Reality projects” 2. BPC: Maj Andreas Tempelis “German Military Manning Challenges”.",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "Boots on the Ground",
+          "description": "Boots on the Ground - State Building: Using Action Research to Improve Local Governance in Afghanistan",
+          "location": "Polifka Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk17",
+          "speaker_id": "speaker66",
+          "speaker_ids": ["speaker66", "speaker79"],
+          "track_id": "track5",
+          "talk_type_id": "talkType2",
+          "title": "Exploring Language & Culture through Virtual Reality projects",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk15",
-          "speaker_id": "speaker53",
-          "speaker_ids": ["speaker53"],
-          "track_id": "track0",
+          "talk_id": "talk18",
+          "speaker_id": "speaker81",
+          "speaker_ids": ["speaker81"],
+          "track_id": "track5",
           "talk_type_id": "talkType2",
-          "title": "Regional Affairs Europe",
-          "description": "Teaching Communicative Competence: 1. Mr. Nathan Wolfson “The Affect of Culture on Mission Success for ELTPs in Gulf Arab Countries and Afghanistan 2. Maj Issam Sebaihi “The Difference in Gesticulation and Dialects in the Arab World” 3. Panel Dr. Wajiha Qureshi Ms. Shagufta Khan “Role of Cultural Competence in Military Institution A Pragmatic Approach of Educational Computing in Class”",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "German Military Manning Challenges",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
         }
       ]
     },
