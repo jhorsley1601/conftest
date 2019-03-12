@@ -954,7 +954,7 @@
         "track_id": "track34",
         "talk_type_id": "talkType1",
         "title": "Welcome to Air University",
-        "description": "Maj Gen Michael Rothstein, LeMay Center Commander and Vice Commander, Air University",
+        "description": "",
         "location": "Polifka Auditorium (SOS)"
       }]
     },
@@ -1000,12 +1000,12 @@
         },
         {
           "talk_id": "talk6",
-          "speaker_id": "speaker20",
-          "speaker_ids": ["speaker20"],
+          "speaker_id": "speaker29",
+          "speaker_ids": ["speaker29"],
           "track_id": "track0",
           "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "US Military Assistance and Development",
+          "title": "Immersion as PME: the Olmstead Scholarship to the Operational Air Force",
+          "description": "",
           "location": "Polifka Auditorium (SOS)"
         },
 
