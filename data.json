@@ -684,6 +684,13 @@
       "bio": "PhD, Defense Language Institute Foreign Language Center",
       "image_url": "",
       "company": ""
+    },
+    {
+      "id": "speaker99",
+      "name": "Abdeshahian, Anahita",
+      "bio": "Middle East Analyst/Instructor, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
+      "image_url": "",
+      "company": ""
     }
   ],
 
@@ -1418,44 +1425,80 @@
     {
       "time": "10:00-11:30",
       "talks": [{
-          "talk_id": "talk21",
-          "speaker_id": "speaker33",
-          "speaker_ids": ["speaker33"],
-          "track_id": "track3",
+          "talk_id": "talk34",
+          "speaker_id": "speaker41",
+          "speaker_ids": ["speaker41", "speaker55", "speaker99"],
+          "track_id": "track16",
           "talk_type_id": "talkType1",
-          "title": "Cross-Cultural Competence (3C) Teaching",
-          "description": "Communication Strategies /n 1. Panel /n  Dr. Lauren Mackenzie /n Ms. Kristin Post /n  Ms. Anahita Abdeshahian /n “Relationship Repair Strategies: Cultural Considerations for Military Training”",
+          "title": "Relationship Repair Strategies: Cultural Considerations for Military Training",
+          "description": "",
           "location": "Polifka Auditorium (SOS)"
         },
+
+
         {
-          "talk_id": "talk22",
-          "speaker_id": "speaker27",
-          "speaker_ids": ["speaker27"],
-          "track_id": "track4",
+          "talk_id": "talk35",
+          "speaker_id": "speaker56",
+          "speaker_ids": ["speaker56"],
+          "track_id": "track17",
           "talk_type_id": "talkType2",
-          "title": "Virtual Reality Demonstrations",
-          "description": "Building Partner Capacity (BPC) 3: /n 1. Col Lawrence Pravecek /n “Support for G-20 Summit in Buenos Aires: Relationships and Communication” /n 2. Panel /n Maj John Berg /n Capt Jorge Benavides, Salvadoran Air Force  /n “Strengthening Alliances: International PME Programs Yield Layers of Strategic Benefit”",
+          "title": "Support for G-20 Summit in Buenos Aires: Relationships and Communication",
+          "description": "",
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk23",
-          "speaker_id": "speaker20",
-          "speaker_ids": ["speaker20"],
-          "track_id": "track3",
+          "talk_id": "talk36",
+          "speaker_id": "speaker11",
+          "speaker_ids": ["speaker11","speaker10"],
+          "track_id": "track17",
           "talk_type_id": "talkType3",
-          "title": "Language Teaching Strategies",
-          "description": "3C in the Making:/n 1. Panel /n Lt Col Sabine Peters /n C1C Christopher Yong /n C2C Rosalyn Mikel /n C1C Garrett Potts /n C2C Maria Viviano /n “Cross-Cultural Competence in the Making: USAFA cadets reflect on their immersion experiences abroad”.",
-          "location": "Library Auditorium, Rm. 170"
+          "title": "Strengthening Alliances: International PME Programs Yield Layers of Strategic Benefit",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk37",
+          "speaker_id": "speaker49",
+          "speaker_ids": ["speaker49"],
+          "track_id": "track18",
+          "talk_type_id": "talkType1",
+          "title": "Improving Cross Cultural Efficacy to Enhance the Military Training Environment",
+          "description": "",
+          "location": "SOS Room 2253 (Upstairs)"
         },
         {
-          "talk_id": "talk24",
-          "speaker_id": "speaker80",
-          "speaker_ids": ["speaker80"],
-          "track_id": "track3",
+          "talk_id": "talk38",
+          "speaker_id": "speaker72",
+          "speaker_ids": ["speaker72"],
+          "track_id": "track18",
           "talk_type_id": "talkType1",
-          "title": "Regional Affairs Europe",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.International Military Student Education: /n 1. Ms. Jana Naji /n “Improving Cross Cultural Efficacy to Enhance the Military Training Environment” /n 2. Dr. Heather Smyser /n “Linguistic proficiency not a panacea: Developing cultural capital in advanced English” /n 3. Panel /n Ms. Andrea Stark /n Mr. Kenneth Machek /n “Cultivating Cultural Interoperability through Language Training”",
+          "title": "Linguistic proficiency not a panacea: Developing cultural capital in advanced English",
+          "description": "",
           "location": "SOS Room 2253 (Upstairs)"
+        },
+        {
+          "talk_id": "talk39",
+          "speaker_id": "speaker75",
+          "speaker_ids": ["speaker75", "speaker40"],
+          "track_id": "track18",
+          "talk_type_id": "talkType1",
+          "title": "Cultivating Cultural Interoperability through Language Training",
+          "description": "",
+          "location": "SOS Room 2253 (Upstairs)"
+        },
+
+
+        {
+          "talk_id": "talk40",
+          "speaker_id": "speaker53",
+          "speaker_ids": ["speaker53", "speaker95", "speaker46", "speaker86"],
+          "track_id": "track19",
+          "talk_type_id": "talkType1",
+          "title": "Cross-Cultural Competence in the Making: USAFA cadets reflect on their immersion experiences abroad",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
         }
       ]
     },
