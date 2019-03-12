@@ -1221,8 +1221,8 @@
       "talks": [{
         "talk_id": "break6",
         "talk_type_id": "break",
-        "title": "Short Break",
-        "description": "Evening Social - SOS Student Lounge Area",
+        "title": "Break/Networking Time",
+        "description": "Break/Networking Time",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1232,24 +1232,70 @@
     {
       "time": "16:00-17:30",
       "talks": [{
-          "talk_id": "talk16",
-          "speaker_id": "speaker57",
-          "speaker_ids": ["speaker57"],
-          "track_id": "track0",
+          "talk_id": "talk23",
+          "speaker_id": "speaker90",
+          "speaker_ids": ["speaker90", "speaker76"],
+          "track_id": "track8",
           "talk_type_id": "talkType1",
-          "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "Know yourself in order to know others",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk24",
+          "speaker_id": "speaker9",
+          "speaker_ids": ["speaker9"],
+          "track_id": "track9",
+          "talk_type_id": "talkType2",
+          "title": "The Language Proficiency Professionalization Program (LP3)",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk17",
-          "speaker_id": "speaker69",
-          "speaker_ids": ["speaker69"],
-          "track_id": "track4",
+          "talk_id": "talk25",
+          "speaker_id": "speaker61",
+          "speaker_ids": ["speaker61", "speaker58"],
+          "track_id": "track9",
           "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "Analysis and Design of Cultural Competence Instruction for ARSOF",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk26",
+          "speaker_id": "speaker38",
+          "speaker_ids": ["speaker38", "speaker28"],
+          "track_id": "track10",
+          "talk_type_id": "talkType2",
+          "title": "Women, Peace, and Security: Investigating the link between participation and stability",
+          "description": "",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        },
+
+
+        {
+          "talk_id": "talk27",
+          "speaker_id": "speaker25",
+          "speaker_ids": ["speaker25"],
+          "track_id": "track11",
+          "talk_type_id": "talkType2",
+          "title": "Culture: What is it and how do we learn and assess intercultural skills?",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
+        },
+        {
+          "talk_id": "talk28",
+          "speaker_id": "speaker30",
+          "speaker_ids": ["speaker30"],
+          "track_id": "track11",
+          "talk_type_id": "talkType2",
+          "title": "Culture Teaching Practices of DoD Critical Languages: Are We Well Preparing Our Linguists for the Mission?",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
         }
       ]
     },
@@ -1260,8 +1306,8 @@
       "talks": [{
         "talk_id": "break7",
         "talk_type_id": "break",
-        "title": "Check in and Late Registration",
-        "description": "Check in and Late Registration (Foyer of Polifka Auditorium)",
+        "title": "Evening Social - Husband Auditorium Foyer",
+        "description": "Evening Social - Husband Auditorium Foyer",
         "speaker_id": "",
         "speaker_ids": []
       }]
