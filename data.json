@@ -1,6 +1,5 @@
 {
-  "speakers": [
-    {
+  "speakers": [{
       "id": "speaker1",
       "name": "BGen Robert B. Sofge, Jr.",
       "bio": "Brigadier General Sofge holds a Political Science degree from the U.S. Naval Academy, a Master of Business Administration from Touro University, a Master of Strategic Studies from the U.S. Army War College, and completed Harvard Business School’s Advanced Management Program. Brigadier General Sofge has more than 2,100 flight hours, primarily in the AV-8B Harrier. His personal decorations include two Legion of Merit Medals, the Defense Meritorious Service Medal, five Meritorious Service Medals, seven Air Medals, two Navy and Marine Corps Commendation Medals, two Navy and Marine Corps Achievement Medals, and the Marine Corps Good Conduct Medal.",
@@ -8,647 +7,688 @@
       "company": "U.S. Marine Corps Forces"
     },
     {
-      "id": "speaker3",
+      "id": "speaker2",
       "name": "Colonel Matthew Bogdanos",
       "bio": "Colonel Bogdanos is a homicide prosecutor for the New York County District Attorney’s Office.  A former amateur middleweight boxer who joined the U.S. Marine Corps at 19, he remained in the reserves after leaving active duty in 1988 to join the D.A.’s Office. He led a counter-narcotics operation on the Mexican border and served in Desert Storm, South Korea, Lithuania, Guyana, Kazakhstan, Uzbekistan, and Kosovo. He holds a classics degree from Bucknell University; a master’s degree in Strategic Studies from the Army War College; and a law degree, a master’s degree in Classics, and a Recognition of Achievement in International Law from Columbia University.",
       "image_url": "https://raw.githubusercontent.com/jhorsley1601/conftest/master/Bogdanos.png",
       "company": "NY County District Attorney’s Office"
     },
     {
+      "id": "speaker3",
+      "name": "Aghajanian, Cara",
+      "bio": "Director, Air Force Language, Regional Expertise and Culture Office",
+      "image_url": "",
+      "company": ""
+    },
+    {
       "id": "speaker4",
-      "name": "Yuan, Rong",
-      "bio": "PhD, Assistant Provost/Senior Academic Advisor, Office of Standardization and Academic Excellence (OSAE), Defense Language Institute",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Alaniz, Susan",
+      "bio": "Chair, Theater Engagement Department, USAF Special Operations School",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker5",
-      "name": "Zartman, Jonathan",
-      "bio": "PhD, Associate Professor of International Security, Department of Research (DER), Air Command and Staff College (ACSC)",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Alemayo, Selam",
+      "bio": "PhD, AFRICOM Subject Matter Expert, USAF Expeditionary Operations School",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker6",
-      "name": "Zhang, Dongdong",
-      "bio": "PhD, Defense Language Institute Foreign Language Center",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Allen, Andrew",
+      "bio": "Lieutenant Colonel, USAF, International Health Specialist (IHS), United States Air Forces Europe",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker7",
-      "name": "Zhang, Xiu",
-      "bio": "Ed.D., Chinese Associate Professor, DLIFLC_CE_DL",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Anderson, Roger",
+      "bio": "Captain, USAF, Space Technology Accelerator Liaison, Kirtland AFB, NM",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker8",
-      "name": " Anahita Abdeshahian ",
-      "bio": "Middzle East Analyst/Instructor, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Batawila, Dieudonne",
+      "bio": "818th Mobility Support Advisory Squadron",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker9",
-      "name": "Susan Alaniz",
-      "bio": "Chair, Theater Engagement Department, USAF Special Operations School",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Beckmann, Charles",
+      "bio": "CPT, Utah Army National Guard, 300th Military Intelligence Brigade (Linguist)",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker10",
-      "name": "Armstrong, Scott",
-      "bio": "Academic Support Coordinator, FS, DLIFLC-CE",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Benavides, Jorge",
+      "bio": "Captain, Fuerza Aérea Salvadoreña (Salvadoran Air Force)",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker11",
-      "name": "Aleinikov, Andrei",
-      "bio": "Defense Language Institute Foreign Language Center",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Berg, John",
+      "bio": "Major, USAF, Chief, Strategic Execution Branch, Air Force Civil Engineer Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker12",
-      "name": "Alemayo, Selam",
-      "bio": "PhD, AFRICOM Subject Matter Expert, USAF Expeditionary Operations School",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Byrne, Jennifer",
+      "bio": "Captain, USAF, BSC, Occupational Therapy Element Chief, Eglin AFB, FL",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker13",
-      "name": "Alford, Scott",
-      "bio": "Research Analyst, Air Force Culture and Language Center",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Cantwell, Julie",
+      "bio": "Technical Director, 517th Training Group, Defense Language Institute, Presidio of Monterey, CA",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker14",
-      "name": "Allen, Andrew",
-      "bio": "Lieutenant Colonel, USAF, International Health Services Airmen (IHS), United States Air Forces Europe",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Chamma, Khalil",
+      "bio": "Staff Sergeant, USAF, Special Operations Team Leader, Pope Army Air Field, NC",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker15",
-      "name": "Batawila, Dieudonne",
-      "bio": "818th Mobility Support Advisory Squadron",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Chapple, Bernardette",
+      "bio": "PhD, Chief of Assessments, Air Force Culture and Language Center, Maxwell AFB, AL",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker16",
-      "name": "Beckmann, Charles",
-      "bio": "CPT, Utah Army National Guard, 300th Military Intelligence Brigade (Linguist)",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Chu, Jan-Hwa",
+      "bio": "DLIFLC UGE and CE, Monterey, CA",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker17",
-      "name": "Benavides, Jorge",
-      "bio": "Captain, Fuerza Aérea Salvadoreña (Salvadoran Air Force)",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Danila, Charles",
+      "bio": "Master Sergeant, USAF, Target Analysis Chief, Osan Air Base, Republic of Korea",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker18",
-      "name": "Berg, John",
-      "bio": "Major, USAF, Chief, Strategic Execution Branch, Air Force Civil Engineer Center ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Danyluk, William",
+      "bio": "Major, USAF, US Pacific Air Forces(PACAF) A5IO, India Country Director",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker19",
-      "name": "Bowen, Diana",
-      "bio": "Assistant Professor of Arabic /n DLIFLC-CE-FS-SCR /n Hurlburt Field Language Training Detachment /n Air Force Special Operations Command",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "David, Mark",
+      "bio": "Instructor, Advanced English Section, Unit A3, Defense Language Institute English Language Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker20",
-      "name": "Brown, Tara",
-      "bio": "Curriculum Development, Diplomatic Language Services",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Edgerly, Ian",
+      "bio": "Senior Regional Education and Culture Instructor 1st Special Forces Command (A) - G37",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker21",
-      "name": "Buch, Allan",
-      "bio": "Major, Força Aérea Brasileira (Brazilian Air Force)",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Edmondson, Scott",
+      "bio": "PhD, Asst Professor of Regional and Cultural Studies - Africa Air Force Culture and Language Center (AFCLC)",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker22",
-      "name": "Buss, Katie",
-      "bio": "Lieutenant Colonel, USAF, ROTC Commander; former Asst Air Attaché",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Fogarty, Patricia",
+      "bio": "PhD, Assistant Professor, Cross-Cultural Relations, Air Force Culture and Language Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker23",
-      "name": "Butler, Stephen",
-      "bio": "EdD, Director, Hurlburt Field Language Training Detachment",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Fox, Paul",
+      "bio": "PhD, Principal Research Associate (Cultural Property Protection), School of Arts and Cultures Newcastle University, Newcastle upon Tyne, UK",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker24",
-      "name": "Byrne, Jennifer",
-      "bio": " Captain, USAF, BSC, Occupational Therapy Element Chief, Eglin AFB, FL ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Fryer, Matthew",
+      "bio": "Captain, USAF, Flight Commander Dyess AFB, TX",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker25",
-      "name": "Cantwell, Julie",
-      "bio": "Technical Director, 517th Training Group, Defense Language Institute, Presidio of Monterey, CA",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Graefe, Martin",
+      "bio": "Director, Concordia Language Training Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker26",
-      "name": "Chapple, Bernardette",
-      "bio": "PhD, Assessments Staff, Air Force Culture and Language Center, Maxwell AFB, AL",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Guthrie, Amanda",
+      "bio": "Graduate Student, Sociology, Auburn University",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker27",
-      "name": "Chu, Jan-Hwa, et. al.",
-      "bio": "DLIFLC UGE and CE, Monterey, CA",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Harriss, Leila",
+      "bio": "Curriculum Development Project Manager, Diplomatic Language Services",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker28",
-      "name": "Danyluk, William",
-      "bio": "Major, USAF, US Pacific Air Forces(PACAF) A5IO, India Country Director",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Hissong, Kristin",
+      "bio": "PhD, Asst. Professor of Regional and Cultural Studies (Middle East North Africa) Air Force Culture and Language Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker29",
-      "name": "David, Mark",
-      "bio": "Instructor, Advanced English Section, Unit A3, Defense Language Institute English Language Center",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Hughes, Shane",
+      "bio": "Lieutenant Colonel, USAF",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker30",
-      "name": "Edgerly, Ian",
-      "bio": "Senior Regional Education and Culture Instructor 1st Special Forces Command (A) - G37",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Hur, Hyunsoo",
+      "bio": "PhD, Defense Language Institute Foreign Language Center, Monterey, CA",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker31",
-      "name": "Fox, Paul",
-      "bio": "PhD, Principal Research Associate (Cultural Property Protection), School of Arts and Cultures Newcastle University, Newcastle upon Tyne, UK",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Janson, Julie",
+      "bio": "Major, USAF, Subject Matter Expert and USAF OIE Client",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker32",
-      "name": "Graefe, Martin",
-      "bio": "Senior Group Director /n Director, Language Training Center , Concordia Language Villages, Bemidji, Minnesota",
-      "image_url": null,
-      "company": "U.S. Army"
-    },
-    {
-      "id": "speaker32",
-      "name": "Green, Gregory",
-      "bio": "Colonel, USAF, Deputy for Attaché Ops; Air Attaché ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Jastrzembski, Tiffany",
+      "bio": "PhD, Senior Cognitive Scientist, 711th Human Performance Wing, Air Force Research Laboratory",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker33",
-      "name": "Guthrie, Amanda",
-      "bio": "Graduate Student, Sociology, Auburn University",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Johnson, Lewis",
+      "bio": "PhD, President and CEO, Alelo Inc.",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker34",
-      "name": "Hadlock, Philip",
-      "bio": "PhD, Associate Professor, CE-LTEA, Presidio of Monterey /n Monterey, CA ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Johnston, Zachary",
+      "bio": "Graduate Student, Sociology, Auburn University",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker35",
-      "name": "Harriss, Leila",
-      "bio": "Curriculum Development Project Manager, Diplomatic Language Services",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Khan, Shagufta",
+      "bio": "Professor, Language Research Consultant/ Curriculum-Assessment Developer",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker36",
-      "name": "Herbert, William",
-      "bio": "Major, USAF",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Lach, Nicole",
+      "bio": "Senior Consultant, Booz Allen Hamilton",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker37",
-      "name": "Hughes, Shane",
-      "bio": "Lieutenant Colonel, USAF",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Ledet, Richard A.",
+      "bio": "PhD, Associate Chair, Assistant Professor, Political Science Department, Troy University",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker38",
-      "name": "Hur, Hyunsoo",
-      "bio": "PhD, Defense Language Institute Foreign Language Center, Monterey, CA",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "LoBianco, Michele",
+      "bio": "Lt Col, USAF, Student, Air War College",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker39",
-      "name": "Janson, Julie",
-      "bio": "Major, USAF, Subject Matter Expert and USAF OIE Client",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Lowsen, Ben",
+      "bio": "MAJ, US Army (ret.), HQ USAF/A3K, Checkmate, China Strategist",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker40",
-      "name": "Johnston, Zachary",
-      "bio": "Graduate Student, Sociology, Auburn University",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Machek, Kenneth",
+      "bio": "Defense Language Institute English Language, Center, JBSA San Antonio",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker41",
-      "name": "Kandi, Monica",
-      "bio": "Faculty Development Specialist, Persian Farsi School, Defense Language Institute",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Mackenzie, Lauren",
+      "bio": "Professor of Military Cross-Cultural Competence, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker42",
-      "name": "Khan, Shagufta",
-      "bio": "Professor, Language Project Specialist; CE-LTEA, SME-Culture, Language Technology Evaluation & Application",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Maez, Anthony",
+      "bio": "Technical Sergeant, USAF, Instructor, Inter-European Air Forces Academy (IEAFA) Kaiserslautern-Einsiedlerhof, Germany",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker43",
-      "name": "Lowsen, Ben",
-      "bio": "MAJ, US Army (ret.)",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Marius, Tamas",
+      "bio": "Professor, LTEA Director, Defense Language Institute Foreign Language Center (DLIFLC), POM",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker44",
-      "name": "Macarthur, Nathalie",
-      "bio": "Professor of French, Defense Language Institute Foreign Language Center, Hurlburt Field Language Training Detachment, FL",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "McGinnis, Charlynne",
+      "bio": "Major, USAF, Chief, Intelligence, Surveillance and Reconaissance (ISR) Ops 613 AOC/ISRD, Joint Base Pearl Harbor-Hickam, HI",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker45",
-      "name": "Machek, Kenneth",
-      "bio": "Defense Language Institute English Language, Center, JBSA San Antonio",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "McMahan, Matthew",
+      "bio": "Chief Master Sergeant, USAF (ret.), Senior Associate, Booz Allen Hamilton",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker46",
-      "name": "Mackenzie, Lauren",
-      "bio": "Professor of Military Cross-Cultural Competence, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Mikel, Rosalyn",
+      "bio": "Cadet Second Class, U. S. Air Force Academy",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker47",
-      "name": "Maez, Anthony",
-      "bio": "Instructor, Inter-European Air Forces Academy (IEAFA) /n Kaiserslautern-Einsiedlerhof, Germany ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Mostafazadeh, Arya",
+      "bio": "SSG, USAR, NFH Language and Culture Center NCOIC, 120 IN BDE, DIV WEST",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker48",
-      "name": "Marius, Tamas",
-      "bio": "Professor, LTEA Director, Defense Language Institute Foreign Language Center (DLIFLC), POM ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Mueller, Gunther",
+      "bio": "Brig Gen, USAF (ret), Foreign Language Advisor to the AFCLC",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker49",
-      "name": "McGinnis, Charlynne",
-      "bio": "Major, USAF, Chief, Intelligence, Surveillance and Reconaissance /n (ISR) Ops /n 613 AOC/ISRD, Joint Base Pearl Harbor-Hickam, HI ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Naji, Jana",
+      "bio": "Defense Language Institute English Language Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker50",
-      "name": "McMahan, Matthew",
-      "bio": "Chief Master Sergeant, USAF (ret.), Senior Associate, Booz Allen Hamilton ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Neal, Travis",
+      "bio": "Major, USAF, Course Director, Department of Leadership, eSchool of Graduate PME",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker51",
-      "name": "Miltersen, Robert",
-      "bio": "Air University/LeMay Center, China Aerospace Studies Institute",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Pazhwak, Farhad",
+      "bio": "Lead Associate, DMI, Booz Allen Hamilton, Senior SME/Instructor, Academy for Defense Intelligence ADI, Regional Expertise and Culture Branch ADI-2, JMITC, AFPAK Regional Expertise and Culture Program",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker52",
-      "name": "Mostafazadeh, Arya",
-      "bio": "SSG, USAFR, NFH Language and Culture Center NCOIC, 120 IN BDE, DIV WEST ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Peifer, Elizabeth",
+      "bio": "PhD, Peifer, Elizabeth L.B., Asst. Professor of Regional and Cultural Studies - Europe Air Force Culture and Language Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker53",
-      "name": "Mueller, Gunther",
-      "bio": "Brig Gen, USAF (ret), Foreign Language Advisor to the AFCLC",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Peters, Sabine",
+      "bio": "Lieutenant Colonel, USAF, Deputy Director, International Programs, US Air Force Academy, CO",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker54",
-      "name": "Naji, Jana",
-      "bio": "Defense Language Institute English Language Center",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Pizarro, Juan",
+      "bio": "Major, USAF, SAF/International Affairs, Pentagon AFSOUTH/A5, Davis-Monthan AFB, AZ",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker55",
-      "name": "Neal, Travis",
-      "bio": "Major, USAF, Course Director, Department of Leadership, eSchool of Graduate PME",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Post ,Kristin",
+      "bio": "Translational Research, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker56",
-      "name": "Pazhwak, Farhad",
-      "bio": "Lead Associate, DMI, Booz Allen Hamilton, Senior SME/Instructor, Academy for Defense Intelligence ADI, Regional Expertise and Culture Branch ADI-2, JMITC, AFPAK Regional Expertise and Culture Program",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Pravecek, Lawrence",
+      "bio": "Colonel, USAF, Senior Defense Official, Defense Attaché U.S. Embassy, Montevideo, Uruguay",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker57",
-      "name": "Peters, Manuela",
-      "bio": "Major, USAF, Assistant Air Attaché, USDAO Budapest",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Qureshi, Wajiha",
+      "bio": "Professor, Language Project Specialist; CE-LTEA, SME-Culture, Language Technology Evaluation & Application",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker58",
-      "name": "Peters, Sabine, et. al.",
-      "bio": "Lieutenant Colonel, USAF, Deputy Director, International Programs, US Air Force Academy, CO",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Rasmussen, Louise",
+      "bio": "PPhD, Principal Scientist, Global Cognition",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker59",
-      "name": "Pizarro, Juan",
-      "bio": "Major, USAF, Colonel, USAF, SAF/International Affairs, Pentagon AFSOUTH/A5, Davis-Monthan AFB, AZ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Roberts, Adrian",
+      "bio": "PhD, H2 Performance Consulting, Command Language Education Manager, 818th Mobility Support Advisory Squadron",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker60",
-      "name": "Post ,Kristin",
-      "bio": "Translational Research, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Romero, Nick",
+      "bio": "Captain, USAF, Headquarters Air Force, A2",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker61",
-      "name": "Pravecek, Lawrence",
-      "bio": "Colonel, USAF, Senior Defense Official, Defense Attaché U.S. Embassy Montevideo, Uruguay",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Ronan, David",
+      "bio": "PhD, Deputy Director, LREC, SWEG (A), USAJFKSWCS",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker62",
-      "name": "Qureshi, Wajiha",
-      "bio": "Professor, Language Project Specialist; CE-LTEA, SME-Culture, Language Technology Evaluation & Application",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Rothstein, Michael",
+      "bio": "Major General, USAF, LeMay Center Commander and Vice Commander, Air University",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker63",
-      "name": "Rasmussen, Louise",
-      "bio": "PhD, Principal Scientist, Global Cognition",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Russ, Sarah",
+      "bio": "Colonel, U.S. Air Force Reserve, Reserve Advisor to Dean of Faculty, U.S. Air Force Academy, CO",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker64",
-      "name": "Ratwani, Krista",
-      "bio": "Curriculum Development, Diplomatic Language Services",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Salmoni, Barak",
+      "bio": "PhD, Program Manager, National Language Service Corps (NLSC), Defense Language and National Security Education Office (DLNSEO)",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker65",
-      "name": "Roberts, Adrian",
-      "bio": "PhD, H2 Performance Consulting, Command Language Education Manager, 818th Mobility Support Advisory Squadron )",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Sarac, Branka",
+      "bio": "Director, Technology Integration, DL-CE",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker66",
-      "name": "Romero, Nick",
-      "bio": "Captain, USAF, Headquarters Air Force, A2",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Schoder, Sandra",
+      "bio": "PhD, DLI, Maxwell LTD",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker67",
-      "name": "Ronan, David",
-      "bio": "PhD, Deputy Director, LREC, SWEG (A), USAJFKSWCS ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Schuetz, Kelly",
+      "bio": "Captain, USAF, Strategic Engagements Officer, J29, United States Southern Command, (USSOUTHCOM)",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker68",
-      "name": "Sadat, Anisa",
-      "bio": "Assistant Professor, CE-FS Defense Language Institute, Air Advisor Academy, Joint Base McGuire-Dix-Lakehurst",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Sciupac, Maia",
+      "bio": "Innovation and Design Sprint Expert",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker69",
-      "name": "Salmoni, Barak",
-      "bio": "PhD, Program Manager, National Language Service Corps (NLSC), Defense Language and National Security Education Office (DLNSEO)",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Sebaihi, Issam",
+      "bio": "Major, USAF, BSC, Chief, Bio Health Ops, Bioenvironmental Engineering, Eglin AFB FL",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker70",
-      "name": "Schnell, James",
-      "bio": "Colonel, USAFR (ret.), Professor, Kutztown State University, PA",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Shields, Margo",
+      "bio": "Captain, USAF, Movement Staff Officer,  NATO Integration Unit Latvia",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker71",
-      "name": "Schuetz, Kelly",
-      "bio": "Captain, USAF, Strategic Engagements Officer, J29, United States Southern Command, (USSOUTHCOM)      ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Skousgaard, Heather",
+      "bio": "PhD, Research Fellow for Cross-Cultural Development Centre for Defence Research, Australian Defence College",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker72",
-      "name": "Sciupac, Maia",
-      "bio": "Innovation and Design Sprint Expert",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Smyser, Heather",
+      "bio": "PhD, Instructor (EIFG2) detailed to CCTD/DOT, Resilience Training Assistant Defense Language Institute, English Language Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker73",
-      "name": "Sebaihi, Issam",
-      "bio": "Major, USAF, BSC, Chief, Bio Health Ops, Bioenvironmental Engineering, Eglin AFB FL        ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Snell, David",
+      "bio": "Staff Sergeant, USAF, 303d ntelligence Squadron, Osan Air Base, Korea",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker74",
-      "name": "Smyser, Heather",
-      "bio": "PhD, Instructor (EIFG2) detailed to CCTD/DOT, Resilience Training Assistant Defense Language Institute, English Language Center ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Snow, Kristen",
+      "bio": "MLIS, Air Command and Staff College Liaison Librarian, Air University Library",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker75",
-      "name": "Snow, Kristen",
-      "bio": "MLIS, Air Command and Staff College Liaison Librarian, Air University Library      ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Stark, Andrea",
+      "bio": "Instructor, 332nd Training Squadron, Defense Language Institute English Language Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker76",
-      "name": "Stark, Andrea",
-      "bio": "Instructor, 332nd Training Squadron, Defense Language Institute English Language Center",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Steen, Susan",
+      "bio": "TBD PhD, Assistant Professor of Cross-Cultural Communication, Air Force Culture and Language Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker77",
       "name": "Stovicek, Thomas",
       "bio": "PhD, LTD Site Director, Maxwell AFB, AL Defense Language Institute, Foreign Language Center, Field Support",
-      "image_url": null,
-      "company": "U.S. Army"
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker78",
-      "name": "Sullivan, Sujitra",
-      "bio": "Assistant Professor of Thai /n DLI – Language Training Detachment /n USAF Special Operations School, Hurlburt Field, FL",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Sung, Marina H.",
+      "bio": "DLIFLC UGE and CE, Monterey, CA",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker79",
-      "name": "Sung, Marina H.",
-      "bio": "DLIFLC UGE and CE, Monterey, CA",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Swinson, Peter",
+      "bio": "Major, USAF, Student, Air Command and Staff College",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker80",
-      "name": "Swinson, Peter",
-      "bio": "Major, USAF, Student, Air Command and Staff College",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Szostak, Paul",
+      "bio": "Colonel, USAF, SAF/International Affairs, Pentagon AFSOUTH/A5, Davis-Monthan AFB, AZ",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker81",
-      "name": "Szostak, Paul",
-      "bio": "Colonel, USAF, SAF/International Affairs, Pentagon AFSOUTH/A5, Davis-Monthan AFB, AZ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Tempelis, Andreas",
+      "bio": "Major, USAF, Student, Air Command and Staff College",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker82",
-      "name": "Talbott, Oliver",
-      "bio": "Major, USMCR, Marine Corps Security Cooperation Group, Ft. Story, Virginia",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Tice, Philip",
+      "bio": "Captain, USAF, PhD Student, Ohio State University, Dept of Near Eastern Languages and Culture",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker83",
-      "name": "Tan, Hanwei",
-      "bio": "PhD, Associate Professor, Language Technology Evaluation and Application, School of Distance Learning, School of Distance Learning, DLIFLC",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Toscano, Fabricio",
+      "bio": "Master Sergeant, USAF, Senior Advisor-Interpreter, Readiness Flight Chief, 571 MOB SPT ADVISORY SQ",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker84",
-      "name": "Tempelis, Andreas",
-      "bio": "Major, USAF, Student, Air Command and Staff College",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Turner, Pete",
+      "bio": "Independent Consultant",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker85",
-      "name": "Tice, Philip",
-      "bio": "Captain, USAF, PhD Student, Ohio State University, Dept of Near Eastern Languages and Culture",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Vins, Michael",
+      "bio": "Major, USAF, Student, ACSC AY19",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker86",
-      "name": "Toscano, Fabricio",
-      "bio": "Master Sergeant, USAF, Senior Advisor-Interpreter, Readiness Flight Chief, 571 MOB SPT ADVISORY  SQ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Viviano, Maria",
+      "bio": "Cadet Second Class, U. S. Air Force Academy",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker87",
-      "name": "Wang, Daniel",
-      "bio": "Defense Language Institute Foreign Language Center (DLIFLC), Monterey, California",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Ward, Howard",
+      "bio": "Director, Air Force Culture and Language Center",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker88",
       "name": "Watson, Jeff",
       "bio": "PhD, Chair of Linguistics & Language Acquisition in CLCRS, U.S. Military Academy",
-      "image_url": null,
-      "company": "U.S. Army"
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker89",
       "name": "Weaver, Greg",
-      "bio": "Assoc Prof, Dept of Sociology, Anthropology & Social Work, Auburn University",
-      "image_url": null,
-      "company": "U.S. Army"
+      "bio": "PhD, Assoc Prof, Dept of Sociology, Anthropology & Social Work, Auburn University",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker90",
-      "name": "Wolfel, Richard",
-      "bio": "PhD, Chair, Intercultural Competence Center for Languages, Cultures and Regional Studies, United States Military Academy ",
-      "image_url": null,
-      "company": "U.S. Army"
+      "name": "Whitt, Jacqueline",
+      "bio": "PhD, Associate Professor of Strategy, US Army War College",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker91",
-      "name": "Maj Gen Michael Rothstein",
-      "bio": "LeMay Center Commander and Vice Commander, Air University",
-      "image_url": null,
-      "company": "U.S. Air Force"
+      "name": "Wilson, Benjamin",
+      "bio": "Master Sergeant, USAF, Superintendent, Media Center Japan, Yokota Air Base, Japan",
+      "image_url": "",
+      "company": ""
     },
     {
       "id": "speaker92",
+      "name": "Wolfel, Richard",
+      "bio": "PhD, Chair, Intercultural Competence Center for Languages, Cultures and Regional Studies, United States Military Academy",
+      "image_url": "",
+      "company": ""
+    },
+    {
+      "id": "speaker93",
       "name": "Wolfson, Nathan",
       "bio": "Supervisor, DLIELC/EIFA",
-      "image_url": null,
-      "company": "U.S. Army"
+      "image_url": "",
+      "company": ""
+    },
+    {
+      "id": "speaker94",
+      "name": "Wright, Timothy",
+      "bio": "Captain, USAF, Language Enabled Airman Program (LEAP)",
+      "image_url": "",
+      "company": ""
+    },
+    {
+      "id": "speaker95",
+      "name": "Yong, Christopher",
+      "bio": "Cadet First Class, U. S. Air Force Academy",
+      "image_url": "",
+      "company": ""
+    },
+    {
+      "id": "speaker96",
+      "name": "Yuan, Rong",
+      "bio": "PhD, Assistant Provost/Senior Academic Advisor Office of Standardization and Academic Excellence (OSAE)",
+      "image_url": "",
+      "company": ""
+    },
+    {
+      "id": "speaker97",
+      "name": "Zartman, Jonathan",
+      "bio": "PhD, Associate Professor of International Security, Department of Research (DER), Air Command and Staff College (ACSC)",
+      "image_url": "",
+      "company": ""
+    },
+    {
+      "id": "speaker98",
+      "name": "Zhang, Dongdong",
+      "bio": "PhD, Defense Language Institute Foreign Language Center",
+      "image_url": "",
+      "company": ""
     }
   ],
 
 
-  "tracks": [
-    {
+  "tracks": [{
       "id": "track0",
       "name": "Language Skill Sustainment",
       "color": "#B5BD68"
@@ -679,8 +719,7 @@
       "color": "#B5BD68"
     }
   ],
-  "talk_types": [
-    {
+  "talk_types": [{
       "id": "talkType1",
       "name": "Technical"
     },
@@ -698,11 +737,10 @@
     }
   ],
 
-  "schedule": [
-    {
+  "schedule": [{
       "time": "Day",
       "talks": [{
-        "talk_id":"break1",
+        "talk_id": "break1",
         "talk_type_id": "break",
         "title": "Day 1",
         "description": "",
@@ -714,72 +752,63 @@
 
     {
       "time": "7:30-12:30 - Break",
-      "talks": [
-        {
-          "talk_id": "break2",
-          "talk_type_id": "break",
-          "title": "Check in and Late Registration",
-          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break2",
+        "talk_type_id": "break",
+        "title": "Check in and Late Registration",
+        "description": "Check in and Late Registration (Foyer of Polifka Auditorium)",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "8:00-8:15",
-      "talks": [
-        {
-          "talk_id": "talk1",
-          "speaker_id": "speaker69",
-          "speaker_ids": ["speaker69", "speaker70"],
-          "track_id": "track1",
-          "talk_type_id": "talkType1",
-          "title": "Cross-Cultural Competence (3C) Teaching",
-          "description": "All Instruments of National Power Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability",
-          "location": "Polifka Auditorium (SOS)"
-        }
-      ]
+      "talks": [{
+        "talk_id": "talk1",
+        "speaker_id": "speaker69",
+        "speaker_ids": ["speaker69", "speaker70"],
+        "track_id": "track1",
+        "talk_type_id": "talkType1",
+        "title": "Cross-Cultural Competence (3C) Teaching",
+        "description": "All Instruments of National Power Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability",
+        "location": "Polifka Auditorium (SOS)"
+      }]
     },
 
 
     {
       "time": "8:15-9:15",
-      "talks": [
-        {
-          "talk_id": "talk2",
-          "speaker_id": "speaker91",
-          "speaker_ids": ["speaker91"],
-          "track_id": "track1",
-          "talk_type_id": "talkType1",
-          "title": "Cross-Cultural Competence (3C) Teaching",
-          "description": "Maj Gen Michael Rothstein, LeMay Center Commander and Vice Commander, Air University",
-          "location": "Polifka Auditorium (SOS)"
-        }
-      ]
+      "talks": [{
+        "talk_id": "talk2",
+        "speaker_id": "speaker91",
+        "speaker_ids": ["speaker91"],
+        "track_id": "track1",
+        "talk_type_id": "talkType1",
+        "title": "Cross-Cultural Competence (3C) Teaching",
+        "description": "Maj Gen Michael Rothstein, LeMay Center Commander and Vice Commander, Air University",
+        "location": "Polifka Auditorium (SOS)"
+      }]
     },
 
 
     {
       "time": "9:15-9:30 - Break",
-      "talks": [
-        {
-          "talk_id": "break3",
-          "talk_type_id": "break",
-          "title": "Break/Networking Time",
-          "description": "Break/Networking time",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break3",
+        "talk_type_id": "break",
+        "title": "Break/Networking Time",
+        "description": "Break/Networking time",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "9:30-11:00",
-      "talks": [
-        {
+      "talks": [{
           "talk_id": "talk3",
           "speaker_id": "speaker12",
           "speaker_ids": ["speaker12"],
@@ -815,55 +844,48 @@
 
     {
       "time": "11:00-12:00 - Break",
-      "talks": [
-        {
-          "talk_id": "break4",
-          "talk_type_id": "break",
-          "title": "Lunch",
-          "description": "1.5-hr Lunch",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break4",
+        "talk_type_id": "break",
+        "title": "Lunch",
+        "description": "1.5-hr Lunch",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "12:00-13:30",
-      "talks": [
-        {
-          "talk_id": "talk6",
-          "speaker_id": "speaker64",
-          "speaker_ids": ["speaker64"],
-          "track_id": "track5",
-          "talk_type_id": "talkType1",
-          "title": "Language Teaching Strategies",
-          "description": "BGen Robert Sofge, Jr., Deputy Commander - U. S. Marine Corps Forces, Pacific",
-          "location": "Library Room 150"
-        }
-      ]
+      "talks": [{
+        "talk_id": "talk6",
+        "speaker_id": "speaker64",
+        "speaker_ids": ["speaker64"],
+        "track_id": "track5",
+        "talk_type_id": "talkType1",
+        "title": "Language Teaching Strategies",
+        "description": "BGen Robert Sofge, Jr., Deputy Commander - U. S. Marine Corps Forces, Pacific",
+        "location": "Library Room 150"
+      }]
     },
 
 
     {
       "time": "13:30-14:00 - Break",
-      "talks": [
-        {
-          "talk_id": "break5",
-          "talk_type_id": "break",
-          "title": "Break Time",
-          "description": "Break/Networking time",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break5",
+        "talk_type_id": "break",
+        "title": "Break Time",
+        "description": "Break/Networking time",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "14:00-15:30",
-      "talks": [
-        {
+      "talks": [{
           "talk_id": "talk7",
           "speaker_id": "speaker53",
           "speaker_ids": ["speaker53"],
@@ -899,23 +921,20 @@
 
     {
       "time": "15:30-16:00 - Break",
-      "talks": [
-        {
-          "talk_id": "break6",
-          "talk_type_id": "break",
-          "title": "Short Break",
-          "description": "Evening Social - SOS Student Lounge Area",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break6",
+        "talk_type_id": "break",
+        "title": "Short Break",
+        "description": "Evening Social - SOS Student Lounge Area",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "16:00-17:30",
-      "talks": [
-        {
+      "talks": [{
           "talk_id": "talk10",
           "speaker_id": "speaker57",
           "speaker_ids": ["speaker57"],
@@ -941,53 +960,46 @@
 
     {
       "time": "17:30-18:30 - Break",
-      "talks": [
-        {
-          "talk_id": "break7",
-          "talk_type_id": "break",
-          "title": "Check in and Late Registration",
-          "description": "Check in and Late Registration (Foyer of Polifka Auditorium)",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break7",
+        "talk_type_id": "break",
+        "title": "Check in and Late Registration",
+        "description": "Check in and Late Registration (Foyer of Polifka Auditorium)",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "Day",
-      "talks": [
-        {
-          "talk_id": "break8",
-          "talk_type_id": "break",
-          "title": "Day 2",
-          "description": "",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break8",
+        "talk_type_id": "break",
+        "title": "Day 2",
+        "description": "",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "7:30-12:30 - Break",
-      "talks": [
-        {
-          "talk_id": "break9",
-          "talk_type_id": "break",
-          "title": "Check in and Late Registration",
-          "description": "(Foyer of Polifka Auditorium)",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break9",
+        "talk_type_id": "break",
+        "title": "Check in and Late Registration",
+        "description": "(Foyer of Polifka Auditorium)",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "8:00-9:30",
-      "talks": [
-        {
+      "talks": [{
           "talk_id": "talk12",
           "speaker_id": "speaker27",
           "speaker_ids": ["speaker27"],
@@ -996,7 +1008,7 @@
           "title": "Virtual Reality Demonstrations",
           "description": "Building Partner Capacity (BPC) 2: /n 1. Ms. Susan Alaniz /n “Building Partner Aviation Capability” /n 2. Panel /n Mr. William Herbert /n Lt Col Shane Hughes/n “Immersion as PME: the Olmsted Scholarship to the Operational Air Force”",
           "location": "Library Auditorium, Rm. 170"
-        }, 
+        },
         {
           "talk_id": "talk13",
           "speaker_id": "speaker27",
@@ -1023,23 +1035,20 @@
 
     {
       "time": "9:30-10:00 - Break",
-      "talks": [
-        {
-          "talk_id": "break10",
-          "talk_type_id": "break",
-          "title": "Break/Networking Time",
-          "description": "Break/Networking time",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break10",
+        "talk_type_id": "break",
+        "title": "Break/Networking Time",
+        "description": "Break/Networking time",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "10:00-11:30",
-      "talks": [
-        {
+      "talks": [{
           "talk_id": "talk15",
           "speaker_id": "speaker33",
           "speaker_ids": ["speaker33"],
@@ -1085,55 +1094,48 @@
 
     {
       "time": "11:30-12:30 - Break",
-      "talks": [
-        {
-          "talk_id": "break11",
-          "talk_type_id": "break",
-          "title": "Lunch",
-          "description": "1.5-hr Lunch",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break11",
+        "talk_type_id": "break",
+        "title": "Lunch",
+        "description": "1.5-hr Lunch",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "12:30-14:00",
-      "talks": [
-        {
-          "talk_id": "talk19",
-          "speaker_id": "speaker23",
-          "speaker_ids": ["speaker23"],
-          "track_id": "track5",
-          "talk_type_id": "talkType26",
-          "title": "Language Teaching Strategies",
-          "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "Polifka Auditorium (SOS)"
-        }
-      ]
+      "talks": [{
+        "talk_id": "talk19",
+        "speaker_id": "speaker23",
+        "speaker_ids": ["speaker23"],
+        "track_id": "track5",
+        "talk_type_id": "talkType26",
+        "title": "Language Teaching Strategies",
+        "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+        "location": "Polifka Auditorium (SOS)"
+      }]
     },
 
 
     {
       "time": "14:00-14:30 - Break",
-      "talks": [
-        {
-          "talk_id": "break12",
-          "talk_type_id": "break",
-          "title": "Break Time",
-          "description": "Break/Networking time",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break12",
+        "talk_type_id": "break",
+        "title": "Break Time",
+        "description": "Break/Networking time",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "14:30-16:00",
-      "talks": [
-        {
+      "talks": [{
           "talk_id": "talk20",
           "speaker_id": "speaker42",
           "speaker_ids": ["speaker42"],
@@ -1179,23 +1181,20 @@
 
     {
       "time": "16:00-16:30 - Break",
-      "talks": [
-        {
-          "talk_id": "break13",
-          "talk_type_id": "break",
-          "title": "Short Break",
-          "description": "Short Break",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break13",
+        "talk_type_id": "break",
+        "title": "Short Break",
+        "description": "Short Break",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "16:30-18:00",
-      "talks": [
-        {
+      "talks": [{
           "talk_id": "talk24",
           "dayId": "2",
           "speaker_id": "speaker52",
@@ -1242,23 +1241,20 @@
 
     {
       "time": "Day",
-      "talks": [
-        {
-          "talk_id": "break14",
-          "talk_type_id": "break",
-          "title": "Day 3",
-          "description": "",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break14",
+        "talk_type_id": "break",
+        "title": "Day 3",
+        "description": "",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "8:00-9:30",
-      "talks": [
-        {
+      "talks": [{
           "talk_id": "talk28",
           "speaker_id": "speaker32",
           "speaker_ids": ["speaker32"],
@@ -1294,23 +1290,20 @@
 
     {
       "time": "9:30-9:45 - Break",
-      "talks": [
-        {
-          "talk_id": "break15",
-          "talk_type_id": "break",
-          "title": "Break/Networking Time",
-          "description": "Break/Networking time",
-          "speaker_id": "",
-          "speaker_ids": []
-        }
-      ]
+      "talks": [{
+        "talk_id": "break15",
+        "talk_type_id": "break",
+        "title": "Break/Networking Time",
+        "description": "Break/Networking time",
+        "speaker_id": "",
+        "speaker_ids": []
+      }]
     },
 
 
     {
       "time": "9:45-11:15",
-      "talks": [
-        {
+      "talks": [{
           "talk_id": "talk31",
           "speaker_id": "speaker13",
           "speaker_ids": ["speaker13"],
@@ -1356,18 +1349,16 @@
 
     {
       "time": "11:15-12:30",
-      "talks": [
-        {
-          "talk_id": "talk35",
-          "speaker_id": "speaker85",
-          "speaker_ids": ["speaker85"],
-          "track_id": "track4",
-          "talk_type_id": "talkType3",
-          "title": "Language Teaching Strategies",
-          "description": "Ms. Cara Aghajanian Director Air Force Language, Regional Expertise and Culture Office and Mr. Howard Ward, Director, Air Force Culture and Language Center",
-          "location": "SOS Foyer and Husband Lounge Area"
-        }
-      ]
+      "talks": [{
+        "talk_id": "talk35",
+        "speaker_id": "speaker85",
+        "speaker_ids": ["speaker85"],
+        "track_id": "track4",
+        "talk_type_id": "talkType3",
+        "title": "Language Teaching Strategies",
+        "description": "Ms. Cara Aghajanian Director Air Force Language, Regional Expertise and Culture Office and Mr. Howard Ward, Director, Air Force Culture and Language Center",
+        "location": "SOS Foyer and Husband Lounge Area"
+      }]
     }
   ]
 }
