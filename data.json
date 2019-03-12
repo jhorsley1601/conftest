@@ -690,32 +690,172 @@
 
   "tracks": [{
       "id": "track0",
-      "name": "Language Skill Sustainment",
+      "name": "Building Partner Capacity 1",
       "color": "#B5BD68"
     },
     {
       "id": "track1",
-      "name": "VR in LREC",
+      "name": "Cultural Intelligence, Psychometrics, and Cognitive Science",
       "color": "#B5BD68"
     },
     {
       "id": "track2",
-      "name": "Force Development",
+      "name": "Relativism and Bias",
       "color": "#B5BD68"
     },
     {
       "id": "track3",
-      "name": "LEAP",
+      "name": "Language Enabled Airman Program (LEAP)",
       "color": "#B5BD68"
     },
     {
       "id": "track4",
-      "name": "Comm Styles, Strategies & Effects",
+      "name": "Regional Knowledge to Enhance Global Security",
       "color": "#B5BD68"
     },
     {
       "id": "track5",
-      "name": "3C Teaching Event",
+      "name": "Technology in the Language Classroom",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track6",
+      "name": "Teaching Communicative Competence",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track7",
+      "name": "2018 LEAP Cohort Study",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track8",
+      "name": "Self-Awareness and Communicative Competence",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track9",
+      "name": "LREC Training Program Design & Analysis",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track10",
+      "name": "Women and Peacekeeping",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track11",
+      "name": "Cultural Knowledge & the Language Classroom",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track12",
+      "name": "Personalized Linguist Training",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track13",
+      "name": "Language Variants' Influence on LREC Programming",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track14",
+      "name": "Regional Knowledge to Enhance Global Security",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track15",
+      "name": "Building Partner Capacity 2",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track16",
+      "name": "Communication Strategies",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track17",
+      "name": "Building Partner Capacity 3",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track18",
+      "name": "International Military Student Education",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track19",
+      "name": "3C in the Making",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track20",
+      "name": "LEAP 2",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track21",
+      "name": "Cultural Property Protection (CPP)",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track22",
+      "name": "Tools for LREC Training",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track23",
+      "name": "Innovations in LREC Programming",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track24",
+      "name": "Promoting Interoperability through Cultural and Emotional Intelligence",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track25",
+      "name": "Enhanced LREC Programs for Global Security",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track26",
+      "name": "Innovations in Teaching Arabic and Chinese Writing",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track27",
+      "name": "Building Partner Capacity 4",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track28",
+      "name": "New Directions in Language Programs",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track29",
+      "name": "LEAP 3",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track30",
+      "name": "BPC through Sociolinguistic Interoperability",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track31",
+      "name": "Using Technology to Enhance Language Learning & Regional Knowledge",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track32",
+      "name": "Cultural Knowledge for Enhanced Interoperability",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track33",
+      "name": "Communicative Competence & Cultural Knowledge: focus on China and Chinese Language",
       "color": "#B5BD68"
     }
   ],
