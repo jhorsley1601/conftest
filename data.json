@@ -1672,8 +1672,8 @@
       "talks": [{
         "talk_id": "break13",
         "talk_type_id": "break",
-        "title": "Short Break",
-        "description": "Short Break",
+        "title": "Break/Networking Time",
+        "description": "Break/Networking time",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1683,45 +1683,120 @@
     {
       "time": "16:30-18:00",
       "talks": [{
-          "talk_id": "talk30",
-          "dayId": "2",
-          "speaker_id": "speaker52",
-          "speaker_ids": ["speaker52"],
-          "track_id": "track0",
+          "talk_id": "talk53",
+          "speaker_id": "speaker12",
+          "speaker_ids": ["speaker12"],
+          "track_id": "track24",
           "talk_type_id": "talkType1",
-          "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "How is linguistic, regional, and cultural knowledge integral to key areas of PME, such as leadership, strategy, planning, and international relations?",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk31",
+          "talk_id": "talk54",
+          "speaker_id": "speaker51",
+          "speaker_ids": ["speaker51"],
+          "track_id": "track24",
+          "talk_type_id": "talkType2",
+          "title": "Understanding Cross Cultural Communication - Lessons from Afghanistan",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk55",
+          "speaker_id": "speaker50",
+          "speaker_ids": ["speaker50"],
+          "track_id": "track24",
+          "talk_type_id": "talkType2",
+          "title": "Agility and Flexibility: Challenging Your Culture's Basic Assumptions",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk56",
+          "speaker_id": "speaker80",
+          "speaker_ids": ["speaker80", "speaker54"],
+          "track_id": "track25",
+          "talk_type_id": "talkType2",
+          "title": "Expeditionary Advising: Exploring Options Beyond AFPAK Hands and MoDA",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk57",
+          "speaker_id": "speaker92",
+          "speaker_ids": ["speaker92", "speaker88"],
+          "track_id": "track25",
+          "talk_type_id": "talkType2",
+          "title": "Dense Urban Environments: The Ultimate Crucible for Interoperability and LREC",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk58",
           "speaker_id": "speaker85",
           "speaker_ids": ["speaker85"],
-          "track_id": "track4",
+          "track_id": "track25",
           "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "International Exchange Programs: Why and How",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk59",
+          "speaker_id": "speaker47",
+          "speaker_ids": ["speaker47"],
+          "track_id": "track26",
+          "talk_type_id": "talkType2",
+          "title": "Methodology of teaching writing system for Middle Eastern Languages based on Arabic Script",
+          "description": "",
+          "location": "SOS Rm 2253 (Upstairs)"
         },
         {
-          "talk_id": "talk32",
-          "speaker_id": "speaker8",
-          "speaker_ids": ["speaker8"],
-          "track_id": "track4",
+          "talk_id": "talk60",
+          "speaker_id": "speaker98",
+          "speaker_ids": ["speaker98"],
+          "track_id": "track26",
           "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "The True Nature and Wisdom of Chinese Writing",
+          "description": "",
+          "location": "SOS Rm 2253 (Upstairs)"
+        },
+
+
+        {
+          "talk_id": "talk61",
+          "speaker_id": "speaker4",
+          "speaker_ids": ["speaker4"],
+          "track_id": "track27",
+          "talk_type_id": "talkType2",
+          "title": "Building Partner Aviation Capability",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk33",
-          "speaker_id": "speaker85",
-          "speaker_ids": ["speaker85"],
-          "track_id": "track4",
+          "talk_id": "talk62",
+          "speaker_id": "speaker18",
+          "speaker_ids": ["speaker18"],
+          "track_id": "track27",
           "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "A three hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
-          "location": "SOS Foyer and Husband Lounge Area"
+          "title": "The Strategic Airman: Building Security Cooperation into Enlisted and Officer PME",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
+        },
+        {
+          "talk_id": "talk63",
+          "speaker_id": "speaker79",
+          "speaker_ids": ["speaker79"],
+          "track_id": "track27",
+          "talk_type_id": "talkType2",
+          "title": "German Police Organization - A Balance of Culture and History",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
         }
       ]
     },
