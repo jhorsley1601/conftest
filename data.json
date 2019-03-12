@@ -967,7 +967,7 @@
       "time": "9:30-11:00",
       "talks": [
         
-        // Building Partner Capacity
+        
         {
           "talk_id": "talk4",
           "speaker_ids": ["speaker6", "speaker5"],
@@ -996,7 +996,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
 
-        // Cultural Intelligence, Pyschometrics, and Cognitive Science
+        
         {
           "talk_id": "talk7",
           "speaker_ids": ["speaker71"],
@@ -1025,7 +1025,7 @@
           "location": "Husband Auditorium (SOS)"
         },
 
-        // Relativsim and Bias
+        
         {
           "talk_id": "talk10",
           "speaker_ids": ["speaker13"],
@@ -1036,7 +1036,7 @@
           "location": "SOS Rm 2253 (Upstairs)"
         },
 
-        // LEAP
+        
         {
           "talk_id": "talk11",
           "speaker_ids": ["speaker70"],
