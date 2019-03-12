@@ -1510,7 +1510,7 @@
         "talk_id": "break11",
         "talk_type_id": "break",
         "title": "Lunch",
-        "description": "1.5-hr Lunch",
+        "description": "1-hr Lunch",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1520,13 +1520,13 @@
     {
       "time": "12:30-14:00",
       "talks": [{
-        "talk_id": "talk25",
-        "speaker_id": "speaker23",
-        "speaker_ids": ["speaker23"],
-        "track_id": "track5",
+        "talk_id": "talk41",
+        "speaker_id": "speaker2",
+        "speaker_ids": ["speaker2"],
+        "track_id": "track34",
         "talk_type_id": "talkType26",
-        "title": "Language Teaching Strategies",
-        "description": "A two hour program, brings together pre-qualified corporate and association planners, with leaders in the luxury hotel and hospitality industry. Together, we cultivate relationships to better conduct business by providing planners and hoteliers an unparalleled opportunity to participate in prescheduled face to face meetings, attend MPI accredited continuing education classes, industry focused networking events and a variety of additional hosted activities.",
+        "title": "Keynote",
+        "description": "",
         "location": "Polifka Auditorium (SOS)"
       }]
     },
@@ -1538,7 +1538,7 @@
         "talk_id": "break12",
         "talk_type_id": "break",
         "title": "Break Time",
-        "description": "Break/Networking time",
+        "description": "Break/Networking time/Book Signing - Col Bogdanos (SOS Lounge)",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1548,43 +1548,119 @@
     {
       "time": "14:30-16:00",
       "talks": [{
-          "talk_id": "talk26",
-          "speaker_id": "speaker42",
-          "speaker_ids": ["speaker42"],
-          "track_id": "track0",
+          "talk_id": "talk42",
+          "speaker_id": "speaker12",
+          "speaker_ids": ["speaker12"],
+          "track_id": "track20",
           "talk_type_id": "talkType3",
-          "title": "Regional Affairs Europe",
-          "description": "How to dissassemble and clean.",
+          "title": "Cultural Emotional Intelligence",
+          "description": "",
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk27",
-          "speaker_id": "speaker85",
-          "speaker_ids": ["speaker85"],
-          "track_id": "track4",
+          "talk_id": "talk43",
+          "speaker_id": "speaker7",
+          "speaker_ids": ["speaker7"],
+          "track_id": "track20",
           "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "Cultural Property Protection (CPP):/n 1. Dr. Paul Fox /n “The Cultural Property Protection Estimate: a Mission-Essential Interoperability Planning Tool” /n 2. Dr. Scott Edmondson /n “ Topic TBD” /n 3. Panel /n Dr. Elizabeth Peifer /n Dr. Patricia Fogarty /n  “From Blue Shield to Blue Flag: Injecting CPP into Military Exercises”",
+          "title": "Leveraging LEAP to Bolster Language Competency and Cultural Understanding",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk44",
+          "speaker_id": "speaker17",
+          "speaker_ids": ["speaker17"],
+          "track_id": "track20",
+          "talk_type_id": "talkType2",
+          "title": "Title TBD",
+          "description": "",
+          "location": "Polifka Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk45",
+          "speaker_id": "speaker23",
+          "speaker_ids": ["speaker23"],
+          "track_id": "track21",
+          "talk_type_id": "talkType2",
+          "title": "The Cultural Property Protection Estimate: a Mission-Essential Interoperability Planning Tool",
+          "description": "",
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk28",
-          "speaker_id": "speaker85",
-          "speaker_ids": ["speaker85"],
-          "track_id": "track4",
+          "talk_id": "talk46",
+          "speaker_id": "speaker21",
+          "speaker_ids": ["speaker21"],
+          "track_id": "track21",
           "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "Tools for LREC Training: /n 1. Panel /n Ms. Leila Harriss /n Ms. Krista Ratwani /n  Ms. Tara Brown /n  “CultureReady Basics” /n 2. Ms. Kristen Snow /n “Learn a Language with Mango Languages”",
+          "title": "Getting Beyond the Monitor Mentality and the Kinetic Fetish: Studying Cultural Heritage & Identity Dynamics as a Way Toward More Sustainable Strategy",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk47",
+          "speaker_id": "speaker52",
+          "speaker_ids": ["speaker52", "speaker22"],
+          "track_id": "track21",
+          "talk_type_id": "talkType2",
+          "title": "From Blue Shield to Blue Flag: Injecting CPP into Military Exercises",
+          "description": "",
+          "location": "Husband Auditorium (SOS)"
+        },
+
+
+        {
+          "talk_id": "talk48",
+          "speaker_id": "speaker27",
+          "speaker_ids": ["speaker27"],
+          "track_id": "track22",
+          "talk_type_id": "talkType2",
+          "title": "CultureReady Basics",
+          "description": "",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
         {
-          "talk_id": "talk29",
-          "speaker_id": "speaker85",
-          "speaker_ids": ["speaker85"],
-          "track_id": "track4",
+          "talk_id": "talk49",
+          "speaker_id": "speaker74",
+          "speaker_ids": ["speaker74"],
+          "track_id": "track22",
           "talk_type_id": "talkType2",
-          "title": "Language Teaching Strategies",
-          "description": "Innovations in LREC Programming: /n 1. Mr. Ian Edgerly /n “How to Create a Sustainable and Operational REC Program? Start With Why” /n 2. Panel /n Ms. Maia Sciupac /n Maj Julie Janson /n “HACKthe3OIE: Lessons Learned from the USAF Innovation Sprint to Integrate Culture, Operations, and Coalitions in the Information Environment”",
+          "title": "Learn a Language with Mango Languages",
+          "description": "",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        },
+        {
+          "talk_id": "talk50",
+          "speaker_id": "speaker33",
+          "speaker_ids": ["speaker33"],
+          "track_id": "track22",
+          "talk_type_id": "talkType2",
+          "title": "Virtual Cultural Awareness Trainers (VCATs): Partnering to Deliver Mission-Critical Cultural Awareness Training",
+          "description": "",
+          "location": "SOS Rm. 2250 (Upstairs)"
+        },
+
+
+        {
+          "talk_id": "talk51",
+          "speaker_id": "speaker20",
+          "speaker_ids": ["speaker20"],
+          "track_id": "track23",
+          "talk_type_id": "talkType2",
+          "title": "How to Create a Sustainable and Operational REC Program? Start with Why",
+          "description": "",
+          "location": "Library Auditorium, Rm. 170"
+        },
+        {
+          "talk_id": "talk52",
+          "speaker_id": "speaker68",
+          "speaker_ids": ["speaker68", "speaker31"],
+          "track_id": "track23",
+          "talk_type_id": "talkType2",
+          "title": "HACKtheOIE: Lessions Learned from the USAF Innovation Sprint to Integrate Culture, Operations, and Coalitions in the Information Environment",
+          "description": "",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
