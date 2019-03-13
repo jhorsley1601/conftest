@@ -99,7 +99,7 @@
     },
     {
       "id": "speaker15",
-      "name": "Chapple, Bernardette",
+      "name": "Chapple, Bernadette",
       "bio": "PhD, Chief of Assessments, Air Force Culture and Language Center, Maxwell AFB, AL",
       "image_url": null,
       "company": ""
@@ -121,7 +121,7 @@
     {
       "id": "speaker18",
       "name": "Danyluk, William",
-      "bio": "Major, USAF, US Pacific Air Forces(PACAF) A5IO, India Country Director",
+      "bio": "Major, USAF, US Pacific Air Forces (PACAF) A5IO, India Country Director",
       "image_url": null,
       "company": ""
     },
@@ -303,7 +303,7 @@
     {
       "id": "speaker44",
       "name": "McGinnis, Charlynne",
-      "bio": "Major, USAF, Chief, Intelligence, Surveillance and Reconaissance (ISR) Ops 613 AOC/ISRD, Joint Base Pearl Harbor-Hickam, HI",
+      "bio": "Major, USAF, Chief, Intelligence, Surveillance and Reconnaissance (ISR) Ops 613 AOC/ISRD, Joint Base Pearl Harbor-Hickam, HI",
       "image_url": null,
       "company": ""
     },
@@ -379,7 +379,7 @@
     },
     {
       "id": "speaker55",
-      "name": "Post ,Kristin",
+      "name": "Post, Kristin",
       "bio": "Translational Research, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
       "image_url": null,
       "company": ""
@@ -401,7 +401,7 @@
     {
       "id": "speaker58",
       "name": "Rasmussen, Louise",
-      "bio": "PPhD, Principal Scientist, Global Cognition",
+      "bio": "PhD, Principal Scientist, Global Cognition",
       "image_url": null,
       "company": ""
     },
@@ -485,7 +485,7 @@
     {
       "id": "speaker70",
       "name": "Shields, Margo",
-      "bio": "Captain, USAF, Movement Staff Officer,  NATO Integration Unit Latvia",
+      "bio": "Captain, USAF, Movement Staff Officer, NATO Integration Unit Latvia",
       "image_url": null,
       "company": ""
     },
@@ -506,7 +506,7 @@
     {
       "id": "speaker73",
       "name": "Snell, David",
-      "bio": "Staff Sergeant, USAF, 303d ntelligence Squadron, Osan Air Base, Korea",
+      "bio": "Staff Sergeant, USAF, 303d intelligence Squadron, Osan Air Base, Korea",
       "image_url": null,
       "company": ""
     },
@@ -1080,7 +1080,7 @@
           "speaker_ids": ["speaker24"],
           "track_id": "track3",
           "talk_type_id": "talkType2",
-          "title": "How LREC Knowledge Can Enchance Exercises and Operations with Global Partners",
+          "title": "How LREC Knowledge Can Enhance Exercises and Operations with Global Partners",
           "description": "",
           "location": "Library Auditorium, Rm. 170"
         }
@@ -1213,7 +1213,7 @@
           "talk_id": "talk22",
           "speaker_id": "speaker48",
           "speaker_ids": ["speaker48", "speaker15", "speaker22"],
-          "track_id": "track6",
+          "track_id": "track7",
           "talk_type_id": "talkType2",
           "title": "2018 LEAP Cohort Study",
           "description": "",
@@ -1659,7 +1659,7 @@
           "speaker_ids": ["speaker68", "speaker31"],
           "track_id": "track23",
           "talk_type_id": "talkType2",
-          "title": "HACKtheOIE: Lessions Learned from the USAF Innovation Sprint to Integrate Culture, Operations, and Coalitions in the Information Environment",
+          "title": "HACKtheOIE: Lessons Learned from the USAF Innovation Sprint to Integrate Culture, Operations, and Coalitions in the Information Environment",
           "description": "",
           "location": "Library Auditorium, Rm. 170"
         }
@@ -1855,7 +1855,7 @@
           "speaker_ids": ["speaker63"],
           "track_id": "track29",
           "talk_type_id": "talkType2",
-          "title": "LEAP to Attache",
+          "title": "LEAP to Attaché",
           "description": "",
           "location": "Husband Auditorium (SOS)"
         },
