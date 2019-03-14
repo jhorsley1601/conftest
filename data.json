@@ -889,21 +889,12 @@
     }
   ],
 
-  "schedule": [{
-      "time": "Day",
-      "talks": [{
-        "talk_id": "break1",
-        "talk_type_id": "break",
-        "title": "Day 1",
-        "description": "",
-        "speaker_id": "",
-        "speaker_ids": []
-      }]
-    },
+  "schedule": [
 
 
     {
       "time": "7:00-12:30 - Break",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "break2",
         "talk_type_id": "break",
@@ -917,6 +908,7 @@
 
     {
       "time": "8:00-8:05",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "talk1",
         "speaker_id": "speaker22",
@@ -932,6 +924,7 @@
 
     {
       "time": "8:05-8:15",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "talk2",
         "speaker_id": "speaker87",
@@ -947,6 +940,7 @@
 
     {
       "time": "8:15-9:15",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "talk3",
         "speaker_id": "speaker62",
@@ -962,6 +956,7 @@
 
     {
       "time": "9:15-9:30 - Break",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "break3",
         "talk_type_id": "break",
@@ -975,6 +970,7 @@
 
     {
       "time": "9:30-11:00",
+      "day_id": "day1",
       "talks": [
         
         
@@ -1092,6 +1088,7 @@
 
     {
       "time": "11:00-12:00 - Break",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "break4",
         "talk_type_id": "break",
@@ -1105,6 +1102,7 @@
 
     {
       "time": "12:00-13:30",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "talk14",
         "speaker_id": "speaker1",
@@ -1120,6 +1118,7 @@
 
     {
       "time": "13:30-14:00 - Break",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "break5",
         "talk_type_id": "break",
@@ -1133,6 +1132,7 @@
 
     {
       "time": "14:00-15:30",
+      "day_id": "day1",
       "talks": [{
           "talk_id": "talk15",
           "speaker_id": "speaker97",
@@ -1225,6 +1225,7 @@
 
     {
       "time": "15:30-16:00 - Break",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "break6",
         "talk_type_id": "break",
@@ -1238,6 +1239,7 @@
 
     {
       "time": "16:00-17:30",
+      "day_id": "day1",
       "talks": [{
           "talk_id": "talk23",
           "speaker_id": "speaker90",
@@ -1310,6 +1312,7 @@
 
     {
       "time": "17:30-18:30 - Break",
+      "day_id": "day1",
       "talks": [{
         "talk_id": "break7",
         "talk_type_id": "break",
@@ -1322,20 +1325,12 @@
 
 
     {
-      "time": "Day",
-      "talks": [{
-        "talk_id": "break8",
-        "talk_type_id": "break",
-        "title": "Day 2",
-        "description": "",
-        "speaker_id": "",
-        "speaker_ids": []
-      }]
     },
 
 
     {
       "time": "7:00-12:30 - Break",
+      "day_id": "day2",
       "talks": [{
         "talk_id": "break9",
         "talk_type_id": "break",
@@ -1349,6 +1344,7 @@
 
     {
       "time": "8:00-9:30",
+      "day_id": "day2",
       "talks": [{
           "talk_id": "talk29",
           "speaker_id": "speaker32",
@@ -1411,6 +1407,7 @@
 
     {
       "time": "9:30-10:00 - Break",
+      "day_id": "day2",
       "talks": [{
         "talk_id": "break10",
         "talk_type_id": "break",
@@ -1424,6 +1421,7 @@
 
     {
       "time": "10:00-11:30",
+      "day_id": "day2",
       "talks": [{
           "talk_id": "talk34",
           "speaker_id": "speaker41",
@@ -1506,6 +1504,7 @@
 
     {
       "time": "11:30-12:30 - Break",
+      "day_id": "day2",
       "talks": [{
         "talk_id": "break11",
         "talk_type_id": "break",
@@ -1519,6 +1518,7 @@
 
     {
       "time": "12:30-14:00",
+      "day_id": "day2",
       "talks": [{
         "talk_id": "talk41",
         "speaker_id": "speaker2",
@@ -1534,6 +1534,7 @@
 
     {
       "time": "14:00-14:30 - Break",
+      "day_id": "day2",
       "talks": [{
         "talk_id": "break12",
         "talk_type_id": "break",
@@ -1547,6 +1548,7 @@
 
     {
       "time": "14:30-16:00",
+      "day_id": "day2",
       "talks": [{
           "talk_id": "talk42",
           "speaker_id": "speaker12",
@@ -1669,6 +1671,7 @@
 
     {
       "time": "16:00-16:30 - Break",
+      "day_id": "day2",
       "talks": [{
         "talk_id": "break13",
         "talk_type_id": "break",
@@ -1682,6 +1685,7 @@
 
     {
       "time": "16:30-18:00",
+      "day_id": "day2",
       "talks": [{
           "talk_id": "talk53",
           "speaker_id": "speaker12",
@@ -1803,20 +1807,12 @@
 
 
     {
-      "time": "Day",
-      "talks": [{
-        "talk_id": "break14",
-        "talk_type_id": "break",
-        "title": "Day 3",
-        "description": "",
-        "speaker_id": "",
-        "speaker_ids": []
-      }]
     },
 
 
     {
       "time": "8:00-9:30",
+      "day_id": "day3",
       "talks": [{
           "talk_id": "talk64",
           "speaker_id": "speaker64",
@@ -1917,6 +1913,7 @@
 
     {
       "time": "9:30-9:45 - Break",
+      "day_id": "day3",
       "talks": [{
         "talk_id": "break15",
         "talk_type_id": "break",
@@ -1930,6 +1927,7 @@
 
     {
       "time": "9:45-10:45",
+      "day_id": "day3",
       "talks": [{
           "talk_id": "talk73",
           "speaker_id": "speaker89",
@@ -1980,6 +1978,7 @@
 
     {
       "time": "10:45-11:00 - Break",
+      "day_id": "day3",
       "talks": [{
         "talk_id": "break15",
         "talk_type_id": "break",
@@ -1993,6 +1992,7 @@
 
     {
       "time": "11:00-12:00",
+      "day_id": "day3",
       "talks": [{
         "talk_id": "talk41",
         "speaker_id": "speaker3",
