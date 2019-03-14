@@ -889,6 +889,25 @@
     }
   ],
 
+
+  "event_days": [{
+      "id": "day1",
+      "name": "Day One",
+      "description": "Lovely Day One"
+    },
+    {
+      "id": "day2",
+      "name": "Day Two",
+      "description": "Lovely Day Two"
+    },
+    {
+      "id": "day3",
+      "name": "Day Three",
+      "description": "Lovely Day Two"
+    }
+  ],
+
+
   "schedule": [
 
 
@@ -972,8 +991,8 @@
       "time": "9:30-11:00",
       "day_id": "day1",
       "talks": [
-        
-        
+
+
         {
           "talk_id": "talk4",
           "speaker_id": "speaker6",
@@ -1005,7 +1024,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
 
-        
+
         {
           "talk_id": "talk7",
           "speaker_id": "speaker71",
@@ -1037,7 +1056,7 @@
           "location": "Husband Auditorium (SOS)"
         },
 
-        
+
         {
           "talk_id": "talk10",
           "speaker_id": "speaker13",
@@ -1049,7 +1068,7 @@
           "location": "SOS Rm 2253 (Upstairs)"
         },
 
-        
+
         {
           "talk_id": "talk11",
           "speaker_id": "speaker70",
@@ -1324,8 +1343,7 @@
     },
 
 
-    {
-    },
+    {},
 
 
     {
@@ -1447,7 +1465,7 @@
         {
           "talk_id": "talk36",
           "speaker_id": "speaker11",
-          "speaker_ids": ["speaker11","speaker10"],
+          "speaker_ids": ["speaker11", "speaker10"],
           "track_id": "track17",
           "talk_type_id": "talkType3",
           "title": "Strengthening Alliances: International PME Programs Yield Layers of Strategic Benefit",
@@ -1806,8 +1824,7 @@
     },
 
 
-    {
-    },
+    {},
 
 
     {
