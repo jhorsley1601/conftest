@@ -691,6 +691,20 @@
       "bio": "Middle East Analyst/Instructor, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
       "image_url": null,
       "company": ""
+    },
+    {
+      "id": "speaker100",
+      "name": "Orozco, Rodolfo",
+      "bio": "Maj, USAF, Mission Commander/Air Advisor, 571 MSAS, Travis AFB, CA",
+      "image_url": null,
+      "company": ""
+    },
+    {
+      "id": "speaker101",
+      "name": "Watkins-Bean, Evelyn",
+      "bio": "PhD, Dean of Education, International Officer School, Maxwell Air Force Base, Alabama",
+      "image_url": null,
+      "company": ""
     }
   ],
 
@@ -707,7 +721,7 @@
     },
     {
       "id": "track2",
-      "name": "Relativism and Bias",
+      "name": "Broader views of the LREC Enterprise",
       "color": "#B5BD68"
     },
     {
@@ -1044,6 +1058,16 @@
         
         {
           "talk_id": "talk10",
+          "speaker_id": "speaker13",
+          "speaker_ids": ["speaker13"],
+          "track_id": "track2",
+          "talk_type_id": "talkType2",
+          "title": "CLA Perspective on Inter-Cultural Communication for Joint ISR Collaboration",
+          "description": "",
+          "location": "SOS Rm 2253 (Upstairs)"
+        },
+        {
+          "talk_id": "talk11",
           "speaker_id": "speaker13",
           "speaker_ids": ["speaker13"],
           "track_id": "track2",
