@@ -907,7 +907,7 @@
 
 
     {
-      "time": "7:00-12:30 - Break",
+      "time": "7:00-12:30",
       "day_id": "day1",
       "talks": [{
         "talk_id": "break2",
@@ -969,13 +969,13 @@
 
 
     {
-      "time": "9:15-9:30 - Break",
+      "time": "9:15-9:30",
       "day_id": "day1",
       "talks": [{
         "talk_id": "break3",
         "talk_type_id": "break",
-        "title": "Break/Networking Time",
-        "description": "Break/Networking time",
+        "title": "Break",
+        "description": "Networking time",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1111,13 +1111,13 @@
 
 
     {
-      "time": "11:00-12:00 - Break",
+      "time": "11:00-12:00",
       "day_id": "day1",
       "talks": [{
         "talk_id": "break4",
         "talk_type_id": "break",
         "title": "Lunch",
-        "description": "1.5-hr Lunch",
+        "description": "1.0-hr Lunch",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1141,13 +1141,13 @@
 
 
     {
-      "time": "13:30-14:00 - Break",
+      "time": "13:30-14:00",
       "day_id": "day1",
       "talks": [{
         "talk_id": "break5",
         "talk_type_id": "break",
-        "title": "Break Time",
-        "description": "Break/Networking time",
+        "title": "Break",
+        "description": "Networking time",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1248,13 +1248,13 @@
 
 
     {
-      "time": "15:30-16:00 - Break",
+      "time": "15:30-16:00",
       "day_id": "day1",
       "talks": [{
         "talk_id": "break6",
         "talk_type_id": "break",
-        "title": "Break/Networking Time",
-        "description": "Break/Networking Time",
+        "title": "Break",
+        "description": "Networking Time",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1335,26 +1335,26 @@
 
 
     {
-      "time": "17:30-18:30 - Break",
+      "time": "17:30-18:30",
       "day_id": "day1",
       "talks": [{
         "talk_id": "break7",
         "talk_type_id": "break",
-        "title": "Evening Social - Husband Auditorium Foyer",
-        "description": "Evening Social - Husband Auditorium Foyer",
+        "title": "Evening Social",
+        "description": "Husband Auditorium Foyer",
         "speaker_id": "",
         "speaker_ids": []
       }]
     },
 
     {
-      "time": "7:00-12:30 - Break",
+      "time": "7:00-12:30",
       "day_id": "day2",
       "talks": [{
         "talk_id": "break9",
         "talk_type_id": "break",
         "title": "Check in and Late Registration",
-        "description": "Check in and Late Registration - (Foyer of Polifka Auditorium)",
+        "description": "Foyer of Polifka Auditorium",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1425,13 +1425,13 @@
 
 
     {
-      "time": "9:30-10:00 - Break",
+      "time": "9:30-10:00",
       "day_id": "day2",
       "talks": [{
         "talk_id": "break10",
         "talk_type_id": "break",
-        "title": "Break/Networking Time",
-        "description": "Break/Networking time",
+        "title": "Break",
+        "description": "Networking time",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1522,7 +1522,7 @@
 
 
     {
-      "time": "11:30-12:30 - Break",
+      "time": "11:30-12:30",
       "day_id": "day2",
       "talks": [{
         "talk_id": "break11",
@@ -1552,13 +1552,13 @@
 
 
     {
-      "time": "14:00-14:30 - Break",
+      "time": "14:00-14:30",
       "day_id": "day2",
       "talks": [{
         "talk_id": "break12",
         "talk_type_id": "break",
-        "title": "Break Time",
-        "description": "Break/Networking time/Book Signing - Col Bogdanos (SOS Lounge)",
+        "title": "Break (Book Signing)",
+        "description": "Networking time/Book Signing - Col Bogdanos (SOS Lounge)",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1689,13 +1689,13 @@
 
 
     {
-      "time": "16:00-16:30 - Break",
+      "time": "16:00-16:30",
       "day_id": "day2",
       "talks": [{
         "talk_id": "break13",
         "talk_type_id": "break",
-        "title": "Break/Networking Time",
-        "description": "Break/Networking time",
+        "title": "Break",
+        "description": "Networking time",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1926,13 +1926,13 @@
 
 
     {
-      "time": "9:30-9:45 - Break",
+      "time": "9:30-9:45",
       "day_id": "day3",
       "talks": [{
         "talk_id": "break15",
         "talk_type_id": "break",
-        "title": "Break/Networking Time",
-        "description": "Break/Networking time",
+        "title": "Break",
+        "description": "Networking time",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1991,13 +1991,13 @@
 
 
     {
-      "time": "10:45-11:00 - Break",
+      "time": "10:45-11:00",
       "day_id": "day3",
       "talks": [{
         "talk_id": "break15",
         "talk_type_id": "break",
-        "title": "Break/Networking Time",
-        "description": "Break/Networking time",
+        "title": "Break",
+        "description": "Networking time",
         "speaker_id": "",
         "speaker_ids": []
       }]
