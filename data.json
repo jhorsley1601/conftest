@@ -947,7 +947,7 @@
         "track_id": "track34",
         "talk_type_id": "talkType1",
         "title": "Administrative Remarks",
-        "description": "90-min",
+        "description": "5-min",
         "location": "Polifka Auditorium (SOS)"
       }]
     },
@@ -963,7 +963,7 @@
         "track_id": "track34",
         "talk_type_id": "talkType1",
         "title": "Welcome",
-        "description": "",
+        "description": "10-min",
         "location": "Polifka Auditorium (SOS)"
       }]
     },
@@ -979,7 +979,7 @@
         "track_id": "track34",
         "talk_type_id": "talkType1",
         "title": "Welcome to Air University",
-        "description": "",
+        "description": "60-min",
         "location": "Polifka Auditorium (SOS)"
       }]
     },
@@ -1012,7 +1012,7 @@
           "track_id": "track0",
           "talk_type_id": "talkType3",
           "title": "African Partner Outbreak Response Alliance (APORA) and Cultural Interaction",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1022,7 +1022,7 @@
           "track_id": "track0",
           "talk_type_id": "talkType1",
           "title": "US Military Assistance and Development",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1032,7 +1032,7 @@
           "track_id": "track0",
           "talk_type_id": "talkType2",
           "title": "Immersion as PME: the Olmstead Scholarship to the Operational Air Force",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -1044,7 +1044,7 @@
           "track_id": "track1",
           "talk_type_id": "talkType3",
           "title": "Building better partners: Integrating Cultural Intelligence (CQ) into the Australian JPME continuum",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1054,7 +1054,7 @@
           "track_id": "track1",
           "talk_type_id": "talkType1",
           "title": "Psychometric Linguistics",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1064,7 +1064,7 @@
           "track_id": "track1",
           "talk_type_id": "talkType2",
           "title": "General Cultural Competence: Mastery Levels for DoD Personnel",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
 
@@ -1076,7 +1076,7 @@
           "track_id": "track2",
           "talk_type_id": "talkType2",
           "title": "CLA Perspective on Inter-Cultural Communication for Joint ISR Collaboration",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm 2253 (Upstairs)"
         },
         {
@@ -1086,7 +1086,7 @@
           "track_id": "track2",
           "talk_type_id": "talkType2",
           "title": "Challenges & Rewards of Teaching International Military Students",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm 2253 (Upstairs)"
         },
 
@@ -1098,7 +1098,7 @@
           "track_id": "track3",
           "talk_type_id": "talkType2",
           "title": "Duties of American Service and Citizenship",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         },
         {
@@ -1108,7 +1108,7 @@
           "track_id": "track3",
           "talk_type_id": "talkType2",
           "title": "Enhancing Relations & Lethality Through Language",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         },
         {
@@ -1118,7 +1118,7 @@
           "track_id": "track3",
           "talk_type_id": "talkType2",
           "title": "How LREC Knowledge Can Enhance Exercises and Operations with Global Partners",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         }
 
@@ -1151,7 +1151,7 @@
         "track_id": "track34",
         "talk_type_id": "talkType1",
         "title": "Title TBD",
-        "description": "Keynote - BGen Robert Sofge, Jr., Deputy Commander - U. S. Marine Corps Forces, Pacific",
+        "description": "90-min",
         "location": "Polifka Auditorium (SOS)"
       }]
     },
@@ -1181,7 +1181,7 @@
           "track_id": "track4",
           "talk_type_id": "talkType2",
           "title": "Cultural Knowledge to Defend against Terrorism",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1191,7 +1191,7 @@
           "track_id": "track4",
           "talk_type_id": "talkType3",
           "title": "Boots on the Ground - State Building: Using Action Research to Improve Local Governance in Afghanistan",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -1203,7 +1203,7 @@
           "track_id": "track5",
           "talk_type_id": "talkType2",
           "title": "Exploring Language & Culture through Virtual Reality projects",
-          "description": "",
+          "description": "60-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1213,7 +1213,7 @@
           "track_id": "track5",
           "talk_type_id": "talkType2",
           "title": "German Military Manning Challenges",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
 
@@ -1225,7 +1225,7 @@
           "track_id": "track6",
           "talk_type_id": "talkType2",
           "title": "The Effect of Culture on Mission Success for ELTPs in Gulf Arab Countries and Afghanistan",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
         {
@@ -1235,7 +1235,7 @@
           "track_id": "track6",
           "talk_type_id": "talkType2",
           "title": "The Difference in Gesticulation and Dialects in the Arab World",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
         {
@@ -1245,7 +1245,7 @@
           "track_id": "track6",
           "talk_type_id": "talkType2",
           "title": "Role of Cultural Competence in Military Institution A Pragmatic Approach of Educational Computing in Class",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
 
@@ -1257,7 +1257,7 @@
           "track_id": "track7",
           "talk_type_id": "talkType2",
           "title": "2018 LEAP Cohort Study",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
@@ -1288,7 +1288,7 @@
           "track_id": "track8",
           "talk_type_id": "talkType1",
           "title": "Know yourself in order to know others",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -1300,7 +1300,7 @@
           "track_id": "track9",
           "talk_type_id": "talkType2",
           "title": "The Language Proficiency Professionalization Program (LP3)",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1310,7 +1310,7 @@
           "track_id": "track9",
           "talk_type_id": "talkType2",
           "title": "Analysis and Design of Cultural Competence Instruction for ARSOF",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
 
@@ -1322,7 +1322,7 @@
           "track_id": "track10",
           "talk_type_id": "talkType2",
           "title": "Women, Peace, and Security: Investigating the link between participation and stability",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
 
@@ -1334,7 +1334,7 @@
           "track_id": "track11",
           "talk_type_id": "talkType2",
           "title": "Culture: What is it and how do we learn and assess intercultural skills?",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         },
         {
@@ -1344,7 +1344,7 @@
           "track_id": "track11",
           "talk_type_id": "talkType2",
           "title": "Culture Teaching Practices of DoD Critical Languages: Are We Well Preparing Our Linguists for the Mission?",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
@@ -1388,7 +1388,7 @@
           "track_id": "track12",
           "talk_type_id": "talkType2",
           "title": "Personalized Linguist Training to Enhance Language Acquisition and Retention through Use of a Cognitive Model",
-          "description": "",
+          "description": "90-min",
           "location": "Husband Auditorium (SOS)"
         },
 
@@ -1400,7 +1400,7 @@
           "track_id": "track13",
           "talk_type_id": "talkType2",
           "title": "Portuñol: Building Relationships in Latin American",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
         {
@@ -1410,7 +1410,7 @@
           "track_id": "track13",
           "talk_type_id": "talkType2",
           "title": "Arabic Diglossia: Implications for Military Interoperability",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
 
@@ -1422,7 +1422,7 @@
           "track_id": "track15",
           "talk_type_id": "talkType2",
           "title": "Translating Regional Expertise into Strategy",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         },
         {
@@ -1432,7 +1432,7 @@
           "track_id": "track15",
           "talk_type_id": "talkType2",
           "title": "Immersion as PME: the Olmstead Scholarship to the Operational Air Force",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         }
 
@@ -1465,7 +1465,7 @@
           "track_id": "track16",
           "talk_type_id": "talkType1",
           "title": "Relationship Repair Strategies: Cultural Considerations for Military Training",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -1477,7 +1477,7 @@
           "track_id": "track17",
           "talk_type_id": "talkType2",
           "title": "Support for G-20 Summit in Buenos Aires: Relationships and Communication",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1487,7 +1487,7 @@
           "track_id": "track17",
           "talk_type_id": "talkType3",
           "title": "Strengthening Alliances: International PME Programs Yield Layers of Strategic Benefit",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
 
@@ -1499,7 +1499,7 @@
           "track_id": "track18",
           "talk_type_id": "talkType1",
           "title": "Improving Cross Cultural Efficacy to Enhance the Military Training Environment",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Room 2253 (Upstairs)"
         },
         {
@@ -1509,7 +1509,7 @@
           "track_id": "track18",
           "talk_type_id": "talkType1",
           "title": "Linguistic proficiency not a panacea: Developing cultural capital in advanced English",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Room 2253 (Upstairs)"
         },
         {
@@ -1519,7 +1519,7 @@
           "track_id": "track18",
           "talk_type_id": "talkType1",
           "title": "Cultivating Cultural Interoperability through Language Training",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Room 2253 (Upstairs)"
         },
 
@@ -1531,7 +1531,7 @@
           "track_id": "track19",
           "talk_type_id": "talkType1",
           "title": "Cross-Cultural Competence in the Making: USAFA cadets reflect on their immersion experiences abroad",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
@@ -1562,7 +1562,7 @@
         "track_id": "track34",
         "talk_type_id": "talkType26",
         "title": "ISIS & Antiquities Trafficking: Al-Qaeda 2.0",
-        "description": "",
+        "description": "90-min",
         "location": "Polifka Auditorium (SOS)"
       }]
     },
@@ -1592,7 +1592,7 @@
           "track_id": "track20",
           "talk_type_id": "talkType3",
           "title": "Cultural Emotional Intelligence",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1602,7 +1602,7 @@
           "track_id": "track20",
           "talk_type_id": "talkType2",
           "title": "Leveraging LEAP to Bolster Language Competency and Cultural Understanding",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1612,7 +1612,7 @@
           "track_id": "track20",
           "talk_type_id": "talkType2",
           "title": "How LEAP Changed My Life",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -1624,7 +1624,7 @@
           "track_id": "track21",
           "talk_type_id": "talkType2",
           "title": "The Cultural Property Protection Estimate: a Mission-Essential Interoperability Planning Tool",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1634,7 +1634,7 @@
           "track_id": "track21",
           "talk_type_id": "talkType2",
           "title": "Getting Beyond the Monitor Mentality and the Kinetic Fetish: Studying Cultural Heritage & Identity Dynamics as a Way Toward More Sustainable Strategy",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1644,7 +1644,7 @@
           "track_id": "track21",
           "talk_type_id": "talkType2",
           "title": "From Blue Shield to Blue Flag: Injecting CPP into Military Exercises",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
 
@@ -1656,7 +1656,7 @@
           "track_id": "track22",
           "talk_type_id": "talkType2",
           "title": "CultureReady Basics",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
         {
@@ -1666,7 +1666,7 @@
           "track_id": "track22",
           "talk_type_id": "talkType2",
           "title": "Learn a Language with Mango Languages",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
         {
@@ -1676,7 +1676,7 @@
           "track_id": "track22",
           "talk_type_id": "talkType2",
           "title": "Virtual Cultural Awareness Trainers (VCATs): Partnering to Deliver Mission-Critical Cultural Awareness Training",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
 
@@ -1688,7 +1688,7 @@
           "track_id": "track23",
           "talk_type_id": "talkType2",
           "title": "How to Create a Sustainable and Operational REC Program? Start with Why",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         },
         {
@@ -1698,7 +1698,7 @@
           "track_id": "track23",
           "talk_type_id": "talkType2",
           "title": "HACKtheOIE: Lessons Learned from the USAF Innovation Sprint to Integrate Culture, Operations, and Coalitions in the Information Environment",
-          "description": "",
+          "description": "60-min",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
@@ -1729,7 +1729,7 @@
           "track_id": "track24",
           "talk_type_id": "talkType1",
           "title": "How is linguistic, regional, and cultural knowledge integral to key areas of PME, such as leadership, strategy, planning, and international relations?",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1739,7 +1739,7 @@
           "track_id": "track24",
           "talk_type_id": "talkType2",
           "title": "Understanding Cross Cultural Communication - Lessons from Afghanistan",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1749,7 +1749,7 @@
           "track_id": "track24",
           "talk_type_id": "talkType2",
           "title": "Agility and Flexibility: Challenging Your Culture's Basic Assumptions",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -1761,7 +1761,7 @@
           "track_id": "track25",
           "talk_type_id": "talkType2",
           "title": "Expeditionary Advising: Exploring Options Beyond AFPAK Hands and MoDA",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1771,7 +1771,7 @@
           "track_id": "track25",
           "talk_type_id": "talkType2",
           "title": "Dense Urban Environments: The Ultimate Crucible for Interoperability and LREC",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1781,7 +1781,7 @@
           "track_id": "track25",
           "talk_type_id": "talkType2",
           "title": "International Exchange Programs: Why and How",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
 
@@ -1793,7 +1793,7 @@
           "track_id": "track26",
           "talk_type_id": "talkType2",
           "title": "Methodology of teaching writing system for Middle Eastern Languages based on Arabic Script",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Rm 2253 (Upstairs)"
         },
         {
@@ -1803,7 +1803,7 @@
           "track_id": "track26",
           "talk_type_id": "talkType2",
           "title": "The True Nature and Wisdom of Chinese Writing",
-          "description": "",
+          "description": "60-min",
           "location": "SOS Rm 2253 (Upstairs)"
         },
 
@@ -1815,7 +1815,7 @@
           "track_id": "track27",
           "talk_type_id": "talkType2",
           "title": "Building Partner Aviation Capability",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         },
         {
@@ -1825,7 +1825,7 @@
           "track_id": "track27",
           "talk_type_id": "talkType2",
           "title": "The Strategic Airman: Building Security Cooperation into Enlisted and Officer PME",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         },
         {
@@ -1835,7 +1835,7 @@
           "track_id": "track27",
           "talk_type_id": "talkType2",
           "title": "German Police Organization - A Balance of Culture and History",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
@@ -1851,7 +1851,7 @@
           "track_id": "track28",
           "talk_type_id": "talkType2",
           "title": "All instruments of National Power: Leveraging Citizen Volunteers to Enable Cross-Cultural Interoperability",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1861,7 +1861,7 @@
           "track_id": "track28",
           "talk_type_id": "talkType2",
           "title": "Exploring language mentorship as an option for life-long LREC development",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
         {
@@ -1871,7 +1871,7 @@
           "track_id": "track28",
           "talk_type_id": "talkType2",
           "title": "Culture Implications to Enlisted Professional Development in Partner Nation Militaries",
-          "description": "",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -1883,7 +1883,7 @@
           "track_id": "track29",
           "talk_type_id": "talkType2",
           "title": "LEAP to Attaché",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1893,7 +1893,7 @@
           "track_id": "track29",
           "talk_type_id": "talkType2",
           "title": "My LEAP Story",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
         {
@@ -1903,7 +1903,7 @@
           "track_id": "track29",
           "talk_type_id": "talkType2",
           "title": "Cultural Advocacy and Reframing American Engagement",
-          "description": "",
+          "description": "30-min",
           "location": "Husband Auditorium (SOS)"
         },
 
@@ -1915,7 +1915,7 @@
           "track_id": "track30",
           "talk_type_id": "talkType2",
           "title": "571 MSAS Mission Capabilities - Language Influence, Saber es Poder",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         },
         {
@@ -1925,7 +1925,7 @@
           "track_id": "track30",
           "talk_type_id": "talkType2",
           "title": "Language and Intercultural Communication in the Service of Interoperability: Forging Partnerships in Francophone Africa",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         },
         {
@@ -1935,7 +1935,7 @@
           "track_id": "track30",
           "talk_type_id": "talkType2",
           "title": "Socio-Linguistic Interoperability",
-          "description": "",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
@@ -1966,7 +1966,7 @@
           "track_id": "track31",
           "talk_type_id": "talkType1",
           "title": "Use of Open Source Information to Augment Data Collection from Traditional Sources in Restricted Environments",
-          "description": "",
+          "description": "60-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -1978,7 +1978,7 @@
           "track_id": "track32",
           "talk_type_id": "talkType2",
           "title": "Understanding Culture Through A Country's National Anthem: A Cultural Competency Application",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Room 2250 (Upstairs)"
         },
         {
@@ -1988,7 +1988,7 @@
           "track_id": "track32",
           "talk_type_id": "talkType3",
           "title": "Intercultural Rhetoric: Small or Big, Every Culture Matters",
-          "description": "",
+          "description": "30-min",
           "location": "SOS Room 2250 (Upstairs)"
         },
 
@@ -2000,7 +2000,7 @@
           "track_id": "track33",
           "talk_type_id": "talkType1",
           "title": "On teaching-and-learning conundrums as part of a model of bicultural foreign language education",
-          "description": "",
+          "description": "60-min",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
@@ -2031,7 +2031,7 @@
         "track_id": "track34",
         "talk_type_id": "talkType3",
         "title": "The View from the Tower of Babel: A Retrospective and Look Ahead in the AF LREC Program",
-        "description": "",
+        "description": "60-min",
         "location": "Polifka Auditorium (SOS)"
       },
       {
@@ -2041,7 +2041,7 @@
         "track_id": "track34",
         "talk_type_id": "talkType3",
         "title": "Closing Remarks",
-        "description": "",
+        "description": "5-min",
         "location": "Polifka Auditorium (SOS)"
       }]
     }
