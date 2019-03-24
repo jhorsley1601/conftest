@@ -16,7 +16,7 @@
     {
       "id": "speaker3",
       "name": "Aghajanian, Cara",
-      "bio": "Director, Air Force Language, Regional Expertise and Culture Office",
+      "bio": "Director, Air Force Language, Regional Expertise and Culture Program",
       "image_url": null,
       "company": ""
     },
@@ -51,7 +51,7 @@
     {
       "id": "speaker8",
       "name": "Batawila, Dieudonne",
-      "bio": "818th Mobility Support Advisory Squadron",
+      "bio": "TSgt, 818th Mobility Support Advisory Squadron",
       "image_url": null,
       "company": ""
     },
@@ -100,14 +100,14 @@
     {
       "id": "speaker15",
       "name": "Chapple, Bernadette",
-      "bio": "PhD, Chief of Assessments, Air Force Culture and Language Center, Maxwell AFB, AL",
+      "bio": "PhD, Chief of Assessments, Air Force Culture and Language Center",
       "image_url": null,
       "company": ""
     },
     {
       "id": "speaker16",
       "name": "Chu, Jan-Hwa",
-      "bio": "DLIFLC UGE and CE, Monterey, CA",
+      "bio": "PhD, Associate Professor, DLIFLC CE, Monterey, CA",
       "image_url": null,
       "company": ""
     },
@@ -121,7 +121,7 @@
     {
       "id": "speaker18",
       "name": "Danyluk, William",
-      "bio": "Major, USAF, US Pacific Air Forces (PACAF) A5IO, India Country Director",
+      "bio": "Major, USAF, US Pacific Air Force (PACAF) A5IO, India Country Director",
       "image_url": null,
       "company": ""
     },
@@ -142,7 +142,7 @@
     {
       "id": "speaker21",
       "name": "Edmondson, Scott",
-      "bio": "PhD, Asst Professor of Regional and Cultural Studies - Africa Air Force Culture and Language Center (AFCLC)",
+      "bio": "PhD, Asst Professor of Regional and Cultural Studies - Africa, Air Force Culture and Language Center",
       "image_url": null,
       "company": ""
     },
@@ -156,7 +156,7 @@
     {
       "id": "speaker23",
       "name": "Fox, Paul",
-      "bio": "PhD, Principal Research Associate (Cultural Property Protection), School of Arts and Cultures Newcastle University, Newcastle upon Tyne, UK",
+      "bio": "PhD, Principal Research Associate (Cultural Property Protection), School of Arts and Cultures, Newcastle University",
       "image_url": null,
       "company": ""
     },
@@ -191,14 +191,14 @@
     {
       "id": "speaker28",
       "name": "Hissong, Kristin",
-      "bio": "PhD, Asst. Professor of Regional and Cultural Studies (Middle East North Africa) Air Force Culture and Language Center",
+      "bio": "PhD, Asst. Professor of Regional and Cultural Studies, Middle East North Africa, Air Force Culture and Language Center",
       "image_url": null,
       "company": ""
     },
     {
       "id": "speaker29",
       "name": "Hughes, Shane",
-      "bio": "Lieutenant Colonel, USAF",
+      "bio": "Lt Col, USAF, Operations Officer, 621 CRS, JB-MDL, NJ",
       "image_url": null,
       "company": ""
     },
@@ -282,7 +282,7 @@
     {
       "id": "speaker41",
       "name": "Mackenzie, Lauren",
-      "bio": "Professor of Military Cross-Cultural Competence, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
+      "bio": "Professor of Military Cross-Cultural Competence, Center for Advanced Operational Culture Learning Marine Corps University",
       "image_url": null,
       "company": ""
     },
@@ -303,7 +303,7 @@
     {
       "id": "speaker44",
       "name": "McGinnis, Charlynne",
-      "bio": "Major, USAF, Chief, Intelligence, Surveillance and Reconnaissance (ISR) Ops 613 AOC/ISRD, Joint Base Pearl Harbor-Hickam, HI",
+      "bio": "Major, USAF, Chief, Intelligence, Surveillance and Reconnaissance (ISR) Ops 613 AOC/ISRD",
       "image_url": null,
       "company": ""
     },
@@ -359,28 +359,28 @@
     {
       "id": "speaker52",
       "name": "Peifer, Elizabeth",
-      "bio": "PhD, Peifer, Elizabeth L.B., Asst. Professor of Regional and Cultural Studies - Europe Air Force Culture and Language Center",
+      "bio": "PhD, Peifer, Elizabeth L.B., Asst. Professor of Regional and Cultural Studies - Europe, Air Force Culture and Language Center",
       "image_url": null,
       "company": ""
     },
     {
       "id": "speaker53",
       "name": "Peters, Sabine",
-      "bio": "Lieutenant Colonel, USAF, Deputy Director, International Programs, US Air Force Academy, CO",
+      "bio": "Lieutenant Colonel, USAF, Deputy Director, International Programs, US Air Force Academy",
       "image_url": null,
       "company": ""
     },
     {
       "id": "speaker54",
       "name": "Pizarro, Juan",
-      "bio": "Major, USAF, SAF/International Affairs, Pentagon AFSOUTH/A5, Davis-Monthan AFB, AZ",
+      "bio": "Major, USAF, SAF/International Affairs, Pentagon AFSOUTH/A5",
       "image_url": null,
       "company": ""
     },
     {
       "id": "speaker55",
       "name": "Post, Kristin",
-      "bio": "Translational Research, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
+      "bio": "Translational Research, Center for Advanced Operational Culture Learning Marine Corps University",
       "image_url": null,
       "company": ""
     },
@@ -407,8 +407,8 @@
     },
     {
       "id": "speaker59",
-      "name": "Roberts, Adrian",
-      "bio": "PhD, H2 Performance Consulting, Command Language Education Manager, 818th Mobility Support Advisory Squadron",
+      "name": "Roberts, Adrian Clive",
+      "bio": "PhD, 818th Mobility Support Advisory Squadron, Joint Base McGuire-Dix-Lakehurst",
       "image_url": null,
       "company": ""
     },
@@ -436,7 +436,7 @@
     {
       "id": "speaker63",
       "name": "Russ, Sarah",
-      "bio": "Colonel, U.S. Air Force Reserve, Reserve Advisor to Dean of Faculty, U.S. Air Force Academy, CO",
+      "bio": "Colonel, U.S. Air Force Reserve, Reserve Advisor to Dean of Faculty, U.S. Air Force Academy",
       "image_url": null,
       "company": ""
     },
@@ -450,7 +450,7 @@
     {
       "id": "speaker65",
       "name": "Sarac, Branka",
-      "bio": "Director, Technology Integration, DL-CE",
+      "bio": "PhD, Director, Technology Integration, DL-CE",
       "image_url": null,
       "company": ""
     },
@@ -471,14 +471,14 @@
     {
       "id": "speaker68",
       "name": "Sciupac, Maia",
-      "bio": "Innovation and Design Sprint Expert",
+      "bio": "Innovation and Design Sprint Expert, Booz Allen Hamilton Inc.",
       "image_url": null,
       "company": ""
     },
     {
       "id": "speaker69",
       "name": "Sebaihi, Issam",
-      "bio": "Major, USAF, BSC, Chief, Bio Health Ops, Bioenvironmental Engineering, Eglin AFB FL",
+      "bio": "Major, USAF, BSC, Chief, Bio Health Ops, Bioenvironmental Engineering, Eglin AFB",
       "image_url": null,
       "company": ""
     },
@@ -527,7 +527,7 @@
     {
       "id": "speaker76",
       "name": "Steen, Susan",
-      "bio": "TBD PhD, Assistant Professor of Cross-Cultural Communication, Air Force Culture and Language Center",
+      "bio": "PhD, Assistant Professor of Cross-Cultural Communication, Air Force Culture and Language Center",
       "image_url": null,
       "company": ""
     },
@@ -541,7 +541,7 @@
     {
       "id": "speaker78",
       "name": "Sung, Marina H.",
-      "bio": "DLIFLC UGE and CE, Monterey, CA",
+      "bio": "PhD, Associate Professor, DLIFLC UGE, Monterey, CA",
       "image_url": null,
       "company": ""
     },
@@ -555,7 +555,7 @@
     {
       "id": "speaker80",
       "name": "Szostak, Paul",
-      "bio": "Colonel, USAF, SAF/International Affairs, Pentagon AFSOUTH/A5, Davis-Monthan AFB, AZ",
+      "bio": "Colonel, USAF, SAF/International Affairs, Pentagon AFSOUTH/A5",
       "image_url": null,
       "company": ""
     },
@@ -590,7 +590,7 @@
     {
       "id": "speaker85",
       "name": "Vins, Michael",
-      "bio": "Major, USAF, Student, ACSC AY19",
+      "bio": "Maj, USAF, Student, Air Command and Staff College",
       "image_url": null,
       "company": ""
     },
@@ -674,7 +674,7 @@
     {
       "id": "speaker97",
       "name": "Zartman, Jonathan",
-      "bio": "PhD, Associate Professor of International Security, Department of Research (DER), Air Command and Staff College (ACSC)",
+      "bio": "PhD, Associate Professor of International Security, Department of Research (DER), Air Command and Staff College",
       "image_url": null,
       "company": ""
     },
@@ -688,21 +688,21 @@
     {
       "id": "speaker99",
       "name": "Abdeshahian, Anahita",
-      "bio": "Middle East Analyst/Instructor, Center for Advanced Operational Culture Learning Marine Corps University: Quantico, VA",
+      "bio": "Middle East Analyst/Instructor, Center for Advanced Operational Culture Learning Marine Corps University",
       "image_url": null,
       "company": ""
     },
     {
       "id": "speaker100",
       "name": "Orozco, Rodolfo",
-      "bio": "Maj, USAF, Mission Commander/Air Advisor, 571 MSAS, Travis AFB, CA",
+      "bio": "Maj, USAF, Mission Commander/Air Advisor, 571 MSAS",
       "image_url": null,
       "company": ""
     },
     {
       "id": "speaker101",
       "name": "Watkins-Bean, Evelyn",
-      "bio": "PhD, Dean of Education, International Officer School, Maxwell Air Force Base, Alabama",
+      "bio": "PhD, Dean of Education, International Officer School, Maxwell Air Force Base",
       "image_url": null,
       "company": ""
     },
