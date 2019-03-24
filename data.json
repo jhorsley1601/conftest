@@ -705,6 +705,27 @@
       "bio": "PhD, Dean of Education, International Officer School, Maxwell Air Force Base, Alabama",
       "image_url": null,
       "company": ""
+    },
+    {
+      "id": "speaker102",
+      "name": "Chesser, Chris",
+      "bio": "Language Program Manager, AFCLC",
+      "image_url": null,
+      "company": ""
+    },
+    {
+      "id": "speaker103",
+      "name": "Scroggins, Jason",
+      "bio": "Language Program Manager, AFCLC",
+      "image_url": null,
+      "company": ""
+    },
+    {
+      "id": "speaker104",
+      "name": "Miltersen, Sheila",
+      "bio": "Language Program Manager, AFCLC",
+      "image_url": null,
+      "company": ""
     }
   ],
 
@@ -791,7 +812,7 @@
     },
     {
       "id": "track16",
-      "name": "Communication Strategies",
+      "name": "Communication Strategies and Nation Building",
       "color": "#B5BD68"
     },
     {
@@ -882,6 +903,21 @@
     {
       "id": "track34",
       "name": "Test",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track35",
+      "name": "Global Strategic Concerns",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track36",
+      "name": "Research to Enhance Language Programming",
+      "color": "#B5BD68"
+    },
+    {
+      "id": "track37",
+      "name": "Research to Support LREC Knowledge",
       "color": "#B5BD68"
     }
   ],
