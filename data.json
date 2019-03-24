@@ -726,7 +726,36 @@
       "bio": "Language Program Manager, AFCLC",
       "image_url": null,
       "company": ""
+    },
+    {
+      "id": "speaker105",
+      "name": "Sloane, Jeremy",
+      "bio": "Brig Gen, Commandant, Air War College",
+      "image_url": null,
+      "company": ""
+    },
+    {
+      "id": "speaker106",
+      "name": "Samuels, Richard",
+      "bio": "Grand Strategy Seminar Course Director, Air War College",
+      "image_url": null,
+      "company": ""
+    },
+    {
+      "id": "speaker107",
+      "name": "Burgess, Jeremiah",
+      "bio": "Lt Col, USAF, Student, Air War College",
+      "image_url": null,
+      "company": ""
+    },
+    {
+      "id": "speaker108",
+      "name": "Burdick, Jon",
+      "bio": "Lt Col, USAF, Student, Air War College",
+      "image_url": null,
+      "company": ""
     }
+    
   ],
 
 
@@ -965,8 +994,8 @@
       "talks": [{
         "talk_id": "break2",
         "talk_type_id": "break",
-        "title": "Check in and Late Registration",
-        "description": "Foyer of Polifka Auditorium",
+        "title": "Check in and Registration",
+        "description": "SOS Foyer, Bldg 1403",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -995,10 +1024,10 @@
       "talks": [{
         "talk_id": "talk2",
         "speaker_id": "speaker87",
-        "speaker_ids": ["speaker87"],
+        "speaker_ids": ["speaker105","speaker87"],
         "track_id": "track34",
         "talk_type_id": "talkType1",
-        "title": "Welcome",
+        "title": "Welcome and Opening Remarks",
         "description": "10-min",
         "location": "Polifka Auditorium (SOS)"
       }]
@@ -1014,7 +1043,7 @@
         "speaker_ids": ["speaker62"],
         "track_id": "track34",
         "talk_type_id": "talkType1",
-        "title": "Welcome to Air University",
+        "title": "Cultural Interoperability - Experiences from Afghanistan",
         "description": "60-min",
         "location": "Polifka Auditorium (SOS)"
       }]
@@ -1129,6 +1158,16 @@
         
         {
           "talk_id": "talk12",
+          "speaker_id": "speaker102",
+          "speaker_ids": ["speaker102"],
+          "track_id": "track3",
+          "talk_type_id": "talkType2",
+          "title": "Language Program Manager Intro",
+          "description": "5-min",
+          "location": "Library Auditorium, Rm. 170"
+        },
+        {
+          "talk_id": "talk12",
           "speaker_id": "speaker70",
           "speaker_ids": ["speaker70"],
           "track_id": "track3",
@@ -1186,7 +1225,7 @@
         "speaker_ids": ["speaker1"],
         "track_id": "track34",
         "talk_type_id": "talkType1",
-        "title": "Title TBD",
+        "title": "Culture and Conflict: Modern Coalition Warfare",
         "description": "90-min",
         "location": "Polifka Auditorium (SOS)"
       }]
@@ -1221,15 +1260,25 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk17",
-          "speaker_id": "speaker37",
-          "speaker_ids": ["speaker37", "speaker84"],
+          "talk_id": "talk20",
+          "speaker_id": "speaker93",
+          "speaker_ids": ["speaker93"],
           "track_id": "track4",
-          "talk_type_id": "talkType3",
-          "title": "Boots on the Ground - State Building: Using Action Research to Improve Local Governance in Afghanistan",
+          "talk_type_id": "talkType2",
+          "title": "The Effect of Culture on Mission Success for ELTPs in Gulf Arab Countries and Afghanistan",
           "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
+        // {
+        //   "talk_id": "talk17",
+        //   "speaker_id": "speaker37",
+        //   "speaker_ids": ["speaker37", "speaker84"],
+        //   "track_id": "track4",
+        //   "talk_type_id": "talkType3",
+        //   "title": "Boots on the Ground - State Building: Using Action Research to Improve Local Governance in Afghanistan",
+        //   "description": "30-min",
+        //   "location": "Polifka Auditorium (SOS)"
+        // },
 
 
         {
@@ -1255,16 +1304,6 @@
 
 
         {
-          "talk_id": "talk20",
-          "speaker_id": "speaker93",
-          "speaker_ids": ["speaker93"],
-          "track_id": "track6",
-          "talk_type_id": "talkType2",
-          "title": "The Effect of Culture on Mission Success for ELTPs in Gulf Arab Countries and Afghanistan",
-          "description": "30-min",
-          "location": "SOS Rm. 2250 (Upstairs)"
-        },
-        {
           "talk_id": "talk21",
           "speaker_id": "speaker69",
           "speaker_ids": ["speaker69"],
@@ -1288,12 +1327,24 @@
 
         {
           "talk_id": "talk23",
+          "speaker_id": "speaker106",
+          "speaker_ids": ["speaker106", "speaker107", "speaker108"],
+          "track_id": "track35",
+          "talk_type_id": "talkType2",
+          "title": "What is China's Grand Strategy?",
+          "description": "90-min",
+          "location": "SOS Rm 2253 (Upstairs)"
+        },
+
+
+        {
+          "talk_id": "talk23",
           "speaker_id": "speaker48",
           "speaker_ids": ["speaker48", "speaker15", "speaker22"],
-          "track_id": "track7",
+          "track_id": "track36",
           "talk_type_id": "talkType2",
           "title": "2018 LEAP Cohort Study",
-          "description": "30-min",
+          "description": "90-min",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
@@ -1324,7 +1375,7 @@
           "track_id": "track8",
           "talk_type_id": "talkType1",
           "title": "Know yourself in order to know others",
-          "description": "30-min",
+          "description": "60-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -1358,7 +1409,7 @@
           "track_id": "track10",
           "talk_type_id": "talkType2",
           "title": "Women, Peace, and Security: Investigating the link between participation and stability",
-          "description": "30-min",
+          "description": "90-min",
           "location": "SOS Rm. 2250 (Upstairs)"
         },
 
@@ -1394,7 +1445,7 @@
         "talk_id": "break7",
         "talk_type_id": "break",
         "title": "Evening Social",
-        "description": "Husband Auditorium Foyer",
+        "description": "Husband Auditorium Foyer, Bldg 1403",
         "speaker_id": "",
         "speaker_ids": []
       }]
