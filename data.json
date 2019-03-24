@@ -1985,6 +1985,16 @@
 
         {
           "talk_id": "talk68",
+          "speaker_id": "speaker103",
+          "speaker_ids": ["speaker103"],
+          "track_id": "track29",
+          "talk_type_id": "talkType2",
+          "title": "Language Program Manager Intro",
+          "description": "5-min",
+          "location": "Husband Auditorium (SOS)"
+        },
+        {
+          "talk_id": "talk68",
           "speaker_id": "speaker63",
           "speaker_ids": ["speaker63"],
           "track_id": "track29",
@@ -2018,7 +2028,7 @@
         {
           "talk_id": "talk71",
           "speaker_id": "speaker83",
-          "speaker_ids": ["speaker83"],
+          "speaker_ids": ["speaker83", "speaker100"],
           "track_id": "track30",
           "talk_type_id": "talkType2",
           "title": "571 MSAS Mission Capabilities - Language Influence, Saber es Poder",
@@ -2073,7 +2083,7 @@
           "track_id": "track31",
           "talk_type_id": "talkType1",
           "title": "Use of Open Source Information to Augment Data Collection from Traditional Sources in Restricted Environments",
-          "description": "60-min",
+          "description": "30-min",
           "location": "Polifka Auditorium (SOS)"
         },
 
@@ -2107,7 +2117,7 @@
           "track_id": "track33",
           "talk_type_id": "talkType1",
           "title": "On teaching-and-learning conundrums as part of a model of bicultural foreign language education",
-          "description": "60-min",
+          "description": "30-min",
           "location": "Library Auditorium, Rm. 170"
         }
       ]
@@ -2137,7 +2147,7 @@
         "speaker_ids": ["speaker3"],
         "track_id": "track34",
         "talk_type_id": "talkType3",
-        "title": "The View from the Tower of Babel: A Retrospective and Look Ahead in the AF LREC Program",
+        "title": "The View from the Tower of Babel: A Retrospective and Look Ahead in the Air Force LREC Program",
         "description": "60-min",
         "location": "Polifka Auditorium (SOS)"
       },
