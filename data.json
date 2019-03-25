@@ -761,6 +761,13 @@
       "bio": "Foreign Service Officer & Director of the Cultural Heritage Center, Bureau of Educational and Cultural Affairs, U.S. Dept of State",
       "image_url": null,
       "company": ""
+    },
+    {
+      "id": "speaker110",
+      "name": "Novotny, John",
+      "bio": "1st Lt, Deputy Flight Commander, 423d MTS",
+      "image_url": null,
+      "company": ""
     }
     
   ],
@@ -1080,7 +1087,7 @@
         {
           "talk_id": "talk4",
           "speaker_id": "speaker6",
-          "speaker_ids": ["speaker6", "speaker5"],
+          "speaker_ids": ["speaker6", "speaker5", "speaker110"],
           "track_id": "track0",
           "talk_type_id": "talkType3",
           "title": "African Partner Outbreak Response Alliance (APORA) and Cultural Interaction",
