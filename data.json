@@ -1181,7 +1181,7 @@
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk12",
+          "talk_id": "talk13",
           "speaker_id": "speaker70",
           "speaker_ids": ["speaker70"],
           "track_id": "track3",
@@ -1191,7 +1191,7 @@
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk13",
+          "talk_id": "talk14",
           "speaker_id": "speaker14",
           "speaker_ids": ["speaker14"],
           "track_id": "track3",
@@ -1201,7 +1201,7 @@
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk14",
+          "talk_id": "talk15",
           "speaker_id": "speaker24",
           "speaker_ids": ["speaker24"],
           "track_id": "track3",
@@ -1234,7 +1234,7 @@
       "time": "12:00-13:30",
       "day_id": "day1",
       "talks": [{
-        "talk_id": "talk15",
+        "talk_id": "talk16",
         "speaker_id": "speaker1",
         "speaker_ids": ["speaker1"],
         "track_id": "track34",
@@ -1264,7 +1264,7 @@
       "time": "14:00-15:30",
       "day_id": "day1",
       "talks": [{
-          "talk_id": "talk16",
+          "talk_id": "talk17",
           "speaker_id": "speaker97",
           "speaker_ids": ["speaker97"],
           "track_id": "track4",
@@ -1274,7 +1274,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk20",
+          "talk_id": "talk18",
           "speaker_id": "speaker93",
           "speaker_ids": ["speaker93"],
           "track_id": "track4",
@@ -1286,7 +1286,7 @@
 
 
         {
-          "talk_id": "talk18",
+          "talk_id": "talk19",
           "speaker_id": "speaker66",
           "speaker_ids": ["speaker66", "speaker79"],
           "track_id": "track5",
@@ -1296,7 +1296,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk19",
+          "talk_id": "talk20",
           "speaker_id": "speaker81",
           "speaker_ids": ["speaker81"],
           "track_id": "track5",
@@ -1342,7 +1342,7 @@
 
 
         {
-          "talk_id": "talk23",
+          "talk_id": "talk24",
           "speaker_id": "speaker48",
           "speaker_ids": ["speaker48", "speaker15", "speaker22"],
           "track_id": "track36",
@@ -1373,7 +1373,7 @@
       "time": "16:00-17:30",
       "day_id": "day1",
       "talks": [{
-          "talk_id": "talk24",
+          "talk_id": "talk25",
           "speaker_id": "speaker90",
           "speaker_ids": ["speaker90", "speaker76"],
           "track_id": "track8",
@@ -1385,7 +1385,7 @@
 
 
         {
-          "talk_id": "talk25",
+          "talk_id": "talk26",
           "speaker_id": "speaker9",
           "speaker_ids": ["speaker9"],
           "track_id": "track9",
@@ -1395,7 +1395,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk26",
+          "talk_id": "talk27",
           "speaker_id": "speaker61",
           "speaker_ids": ["speaker61", "speaker58"],
           "track_id": "track9",
@@ -1407,7 +1407,7 @@
 
 
         {
-          "talk_id": "talk27",
+          "talk_id": "talk28",
           "speaker_id": "speaker38",
           "speaker_ids": ["speaker38", "speaker28"],
           "track_id": "track10",
@@ -1419,7 +1419,7 @@
 
 
         {
-          "talk_id": "talk28",
+          "talk_id": "talk29",
           "speaker_id": "speaker25",
           "speaker_ids": ["speaker25"],
           "track_id": "track11",
@@ -1429,7 +1429,7 @@
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk29",
+          "talk_id": "talk30",
           "speaker_id": "speaker30",
           "speaker_ids": ["speaker30"],
           "track_id": "track11",
@@ -1473,7 +1473,7 @@
       "time": "8:00-9:30",
       "day_id": "day2",
       "talks": [{
-          "talk_id": "talk30",
+          "talk_id": "talk31",
           "speaker_id": "speaker32",
           "speaker_ids": ["speaker32", "speaker96", "speaker65", "speaker13", "speaker73"],
           "track_id": "track12",
@@ -1485,7 +1485,7 @@
 
 
         {
-          "talk_id": "talk31",
+          "talk_id": "talk32",
           "speaker_id": "speaker67",
           "speaker_ids": ["speaker67"],
           "track_id": "track13",
@@ -1495,7 +1495,7 @@
           "location": "SOS Rm. 2250 (Upstairs)"
         },
         {
-          "talk_id": "talk32",
+          "talk_id": "talk33",
           "speaker_id": "speaker82",
           "speaker_ids": ["speaker82"],
           "track_id": "track13",
@@ -1507,7 +1507,7 @@
 
 
         {
-          "talk_id": "talk33",
+          "talk_id": "talk34",
           "speaker_id": "speaker39",
           "speaker_ids": ["speaker39", "speaker60"],
           "track_id": "track15",
@@ -1574,7 +1574,7 @@
 
 
         {
-          "talk_id": "talk17",
+          "talk_id": "talk38",
           "speaker_id": "speaker37",
           "speaker_ids": ["speaker37", "speaker84"],
           "track_id": "track37",
@@ -1586,7 +1586,7 @@
 
 
         {
-          "talk_id": "talk38",
+          "talk_id": "talk39",
           "speaker_id": "speaker49",
           "speaker_ids": ["speaker49"],
           "track_id": "track18",
@@ -1596,7 +1596,7 @@
           "location": "SOS Room 2253 (Upstairs)"
         },
         {
-          "talk_id": "talk39",
+          "talk_id": "talk40",
           "speaker_id": "speaker72",
           "speaker_ids": ["speaker72"],
           "track_id": "track18",
@@ -1606,7 +1606,7 @@
           "location": "SOS Room 2253 (Upstairs)"
         },
         {
-          "talk_id": "talk40",
+          "talk_id": "talk41",
           "speaker_id": "speaker75",
           "speaker_ids": ["speaker75", "speaker40"],
           "track_id": "track18",
@@ -1618,7 +1618,7 @@
 
 
         {
-          "talk_id": "talk41",
+          "talk_id": "talk42",
           "speaker_id": "speaker53",
           "speaker_ids": ["speaker53", "speaker95", "speaker46", "speaker86"],
           "track_id": "track19",
@@ -1649,7 +1649,7 @@
       "time": "12:30-14:00",
       "day_id": "day2",
       "talks": [{
-        "talk_id": "talk42",
+        "talk_id": "talk43",
         "speaker_id": "speaker2",
         "speaker_ids": ["speaker2"],
         "track_id": "track34",
@@ -1680,7 +1680,7 @@
       "day_id": "day2",
       "talks": [
         {
-          "talk_id": "talk43",
+          "talk_id": "talk44",
           "speaker_id": "speaker104",
           "speaker_ids": ["speaker104"],
           "track_id": "track20",
@@ -1690,7 +1690,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk43",
+          "talk_id": "talk45",
           "speaker_id": "speaker12",
           "speaker_ids": ["speaker12"],
           "track_id": "track20",
@@ -1700,7 +1700,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk44",
+          "talk_id": "talk46",
           "speaker_id": "speaker7",
           "speaker_ids": ["speaker7"],
           "track_id": "track20",
@@ -1710,7 +1710,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk45",
+          "talk_id": "talk47",
           "speaker_id": "speaker17",
           "speaker_ids": ["speaker17"],
           "track_id": "track20",
@@ -1722,7 +1722,7 @@
 
 
         {
-          "talk_id": "talk46",
+          "talk_id": "talk48",
           "speaker_id": "speaker21",
           "speaker_ids": ["speaker21"],
           "track_id": "track21",
@@ -1732,7 +1732,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk47",
+          "talk_id": "talk49",
           "speaker_id": "speaker109",
           "speaker_ids": ["speaker109"],
           "track_id": "track21",
@@ -1742,7 +1742,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk46",
+          "talk_id": "talk50",
           "speaker_id": "speaker23",
           "speaker_ids": ["speaker23"],
           "track_id": "track21",
@@ -1752,7 +1752,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk48",
+          "talk_id": "talk51",
           "speaker_id": "speaker52",
           "speaker_ids": ["speaker52", "speaker22"],
           "track_id": "track21",
@@ -1764,7 +1764,7 @@
 
 
         {
-          "talk_id": "talk49",
+          "talk_id": "talk52",
           "speaker_id": "speaker27",
           "speaker_ids": ["speaker27"],
           "track_id": "track22",
@@ -1774,7 +1774,7 @@
           "location": "SOS Rm. 2250 (Upstairs)"
         },
         {
-          "talk_id": "talk50",
+          "talk_id": "talk53",
           "speaker_id": "speaker74",
           "speaker_ids": ["speaker74"],
           "track_id": "track22",
@@ -1784,7 +1784,7 @@
           "location": "SOS Rm. 2250 (Upstairs)"
         },
         {
-          "talk_id": "talk51",
+          "talk_id": "talk54",
           "speaker_id": "speaker33",
           "speaker_ids": ["speaker33"],
           "track_id": "track22",
@@ -1796,7 +1796,7 @@
 
 
         {
-          "talk_id": "talk52",
+          "talk_id": "talk55",
           "speaker_id": "speaker20",
           "speaker_ids": ["speaker20"],
           "track_id": "track23",
@@ -1806,7 +1806,7 @@
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk53",
+          "talk_id": "talk56",
           "speaker_id": "speaker68",
           "speaker_ids": ["speaker68", "speaker31", "speaker36"],
           "track_id": "track23",
@@ -1837,7 +1837,7 @@
       "time": "16:30-18:00",
       "day_id": "day2",
       "talks": [{
-          "talk_id": "talk54",
+          "talk_id": "talk57",
           "speaker_id": "speaker12",
           "speaker_ids": ["speaker12"],
           "track_id": "track24",
@@ -1847,7 +1847,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk55",
+          "talk_id": "talk58",
           "speaker_id": "speaker51",
           "speaker_ids": ["speaker51"],
           "track_id": "track24",
@@ -1857,7 +1857,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk56",
+          "talk_id": "talk59",
           "speaker_id": "speaker50",
           "speaker_ids": ["speaker50"],
           "track_id": "track24",
@@ -1869,7 +1869,7 @@
 
 
         {
-          "talk_id": "talk57",
+          "talk_id": "talk60",
           "speaker_id": "speaker80",
           "speaker_ids": ["speaker80", "speaker54"],
           "track_id": "track25",
@@ -1879,7 +1879,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk58",
+          "talk_id": "talk61",
           "speaker_id": "speaker92",
           "speaker_ids": ["speaker92", "speaker88"],
           "track_id": "track25",
@@ -1889,7 +1889,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk59",
+          "talk_id": "talk62",
           "speaker_id": "speaker85",
           "speaker_ids": ["speaker85"],
           "track_id": "track25",
@@ -1901,7 +1901,7 @@
 
 
         {
-          "talk_id": "talk60",
+          "talk_id": "talk63",
           "speaker_id": "speaker47",
           "speaker_ids": ["speaker47"],
           "track_id": "track26",
@@ -1911,7 +1911,7 @@
           "location": "SOS Rm 2253 (Upstairs)"
         },
         {
-          "talk_id": "talk61",
+          "talk_id": "talk64",
           "speaker_id": "speaker98",
           "speaker_ids": ["speaker98"],
           "track_id": "track26",
@@ -1923,7 +1923,7 @@
 
 
         {
-          "talk_id": "talk62",
+          "talk_id": "talk65",
           "speaker_id": "speaker4",
           "speaker_ids": ["speaker4"],
           "track_id": "track27",
@@ -1933,7 +1933,7 @@
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk63",
+          "talk_id": "talk66",
           "speaker_id": "speaker18",
           "speaker_ids": ["speaker18"],
           "track_id": "track27",
@@ -1943,7 +1943,7 @@
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk64",
+          "talk_id": "talk67",
           "speaker_id": "speaker79",
           "speaker_ids": ["speaker79"],
           "track_id": "track27",
@@ -1959,7 +1959,7 @@
       "time": "8:00-9:30",
       "day_id": "day3",
       "talks": [{
-          "talk_id": "talk65",
+          "talk_id": "talk68",
           "speaker_id": "speaker64",
           "speaker_ids": ["speaker64"],
           "track_id": "track28",
@@ -1969,7 +1969,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk66",
+          "talk_id": "talk69",
           "speaker_id": "speaker77",
           "speaker_ids": ["speaker77"],
           "track_id": "track28",
@@ -1979,7 +1979,7 @@
           "location": "Polifka Auditorium (SOS)"
         },
         {
-          "talk_id": "talk67",
+          "talk_id": "talk70",
           "speaker_id": "speaker45",
           "speaker_ids": ["speaker45"],
           "track_id": "track28",
@@ -1991,7 +1991,7 @@
 
 
         {
-          "talk_id": "talk68",
+          "talk_id": "talk71",
           "speaker_id": "speaker103",
           "speaker_ids": ["speaker103"],
           "track_id": "track29",
@@ -2001,7 +2001,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk68",
+          "talk_id": "talk72",
           "speaker_id": "speaker63",
           "speaker_ids": ["speaker63"],
           "track_id": "track29",
@@ -2011,7 +2011,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk69",
+          "talk_id": "talk73",
           "speaker_id": "speaker91",
           "speaker_ids": ["speaker91"],
           "track_id": "track29",
@@ -2021,7 +2021,7 @@
           "location": "Husband Auditorium (SOS)"
         },
         {
-          "talk_id": "talk70",
+          "talk_id": "talk74",
           "speaker_id": "speaker94",
           "speaker_ids": ["speaker94"],
           "track_id": "track29",
@@ -2033,7 +2033,7 @@
 
 
         {
-          "talk_id": "talk71",
+          "talk_id": "talk75",
           "speaker_id": "speaker83",
           "speaker_ids": ["speaker83", "speaker100"],
           "track_id": "track30",
@@ -2043,7 +2043,7 @@
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk72",
+          "talk_id": "talk76",
           "speaker_id": "speaker59",
           "speaker_ids": ["speaker59", "speaker8"],
           "track_id": "track30",
@@ -2053,7 +2053,7 @@
           "location": "Library Auditorium, Rm. 170"
         },
         {
-          "talk_id": "talk73",
+          "talk_id": "talk77",
           "speaker_id": "speaker19",
           "speaker_ids": ["speaker19"],
           "track_id": "track30",
@@ -2084,7 +2084,7 @@
       "time": "9:45-10:45",
       "day_id": "day3",
       "talks": [{
-          "talk_id": "talk74",
+          "talk_id": "talk78",
           "speaker_id": "speaker89",
           "speaker_ids": ["speaker89", "speaker34", "speaker26"],
           "track_id": "track31",
@@ -2096,7 +2096,7 @@
 
 
         {
-          "talk_id": "talk75",
+          "talk_id": "talk79",
           "speaker_id": "speaker44",
           "speaker_ids": ["speaker44"],
           "track_id": "track32",
@@ -2106,7 +2106,7 @@
           "location": "SOS Room 2250 (Upstairs)"
         },
         {
-          "talk_id": "talk76",
+          "talk_id": "talk80",
           "speaker_id": "speaker96",
           "speaker_ids": ["speaker96"],
           "track_id": "track32",
@@ -2118,7 +2118,7 @@
 
 
         {
-          "talk_id": "talk77",
+          "talk_id": "talk81",
           "speaker_id": "speaker16",
           "speaker_ids": ["speaker16", "speaker78"],
           "track_id": "track33",
@@ -2149,7 +2149,7 @@
       "time": "11:00-12:00",
       "day_id": "day3",
       "talks": [{
-        "talk_id": "talk78",
+        "talk_id": "talk82",
         "speaker_id": "speaker3",
         "speaker_ids": ["speaker3"],
         "track_id": "track34",
@@ -2159,7 +2159,7 @@
         "location": "Polifka Auditorium (SOS)"
       },
       {
-        "talk_id": "talk79",
+        "talk_id": "talk83",
         "speaker_id": "speaker87",
         "speaker_ids": ["speaker87"],
         "track_id": "track34",
