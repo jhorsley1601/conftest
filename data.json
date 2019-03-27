@@ -1637,8 +1637,8 @@
       "talks": [{
         "talk_id": "break11",
         "talk_type_id": "break",
-        "title": "Lunch",
-        "description": "1-hr Lunch",
+        "title": "Lunch/Book Signing",
+        "description": "1-hr Lunch/Book Signing - Col Bogdanos (SOS Lounge)",
         "speaker_id": "",
         "speaker_ids": []
       }]
@@ -1667,8 +1667,8 @@
       "talks": [{
         "talk_id": "break12",
         "talk_type_id": "break",
-        "title": "Break (Book Signing)",
-        "description": "Networking time/Book Signing - Col Bogdanos (SOS Lounge)",
+        "title": "Break",
+        "description": "Networking time",
         "speaker_id": "",
         "speaker_ids": []
       }]
